@@ -1,29 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:03.420389
+#+DATE: 2015-08-30 19:41:35.329047
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220j
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220j
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-0991b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_579-0991b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 579
 ¶
 ¶
 
-11會
-:PROPERTIES:
-:head: 《大般若經》第十一會施波羅蜜多¶
+《大般若經》第十一會施波羅蜜多¶
 分
-:END:
-
-序
-:PROPERTIES:
-:head: 序
-:END:
-¶
+序¶
 ¶
 西明寺沙門玄則撰¶
 
@@ -53,16 +45,12 @@
 矣。¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百七¶
+《大般若波羅蜜多經》卷第五百七¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 第十一布施波羅蜜多分之一
-:END:
-¶
+第十一布施波羅蜜多分之一¶
 
 如是我聞：
 
@@ -532,7 +520,7 @@
 提，不能攝受所修布施波羅蜜多，不能證得¶
 本所希求一切智智。¶
 
-「又，滿慈子！設諸有情持廣大器，量等三千大¶
+「又，滿慈子！設諸有情持廣大器，量等三千三¶
 千世界，至菩薩所語菩薩言：『我等今須滿此¶
 器物，願疾施與。』菩薩於彼不起異心，但起是¶
 心：『定當施與。』謂終不起瞋恨之心：『如是有情¶

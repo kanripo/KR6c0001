@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.897447
+#+DATE: 2015-08-30 19:41:29.944412
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_476-0409b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 476
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百七¶
+《大般若波羅蜜多經》卷第四百七¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-80道土品
-:PROPERTIES:
-:head: 第二分道土品第八十
-:END:
-¶
+第二分道土品第八十¶
 
 爾時，具壽善現作是念言：「何謂菩薩摩訶薩¶
 道？諸菩薩摩訶薩安住此道，能被種種勝功
@@ -637,7 +632,7 @@
 三寶起三寶想，於三寶中謂非三寶，毀謗正¶
 法稱讚邪法，由是因緣，身壞命終墮諸惡趣¶
 受諸劇苦。是諸菩薩摩訶薩眾各住自土證¶
-得無上正等覺已，見彼有情沈淪生死受無¶
+得無上正等覺已，見彼有情沈輪生死受無¶
 量苦，以神通力方便教化，令捨惡見住正見¶
 中，從惡趣出生於人趣。生人趣已，復以種種¶
 神通方便教化令住正定聚中，由斯畢竟不¶

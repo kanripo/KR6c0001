@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.032132
+#+DATE: 2015-08-30 19:41:11.498435
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_007-0034a> 
 #+PROPERTY: JUAN 7
 ¶
-
- 《大般若波羅蜜多經》卷第七¶
+《大般若波羅蜜多經》卷第七¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分相應品第三之四¶
@@ -453,11 +452,7 @@
 怠、散亂、惡慧障礙之心；布施、淨戒、安忍、精進、¶
 靜慮、般若波羅蜜多，任運現前無間無斷。」¶
 
-4轉生品
-:PROPERTIES:
-:head: 初分轉生品第四之一
-:END:
-¶
+初分轉生品第四之一¶
 
 爾時，舍利子白佛言：「世尊！安住般若波羅蜜¶
 多諸菩薩摩訶薩，從何處沒來生此間？從此¶

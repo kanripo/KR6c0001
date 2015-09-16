@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.879534
+#+DATE: 2015-08-30 19:41:24.174215
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_350-0797a> 
 #+PROPERTY: JUAN 350
 ¶
-
- 《大般若波羅蜜多經》卷第三百五¶
+《大般若波羅蜜多經》卷第三百五¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -259,7 +258,7 @@
 所有布施，若食、若飲、若乘、若衣，若諸香華、臥¶
 具、舍宅、燈燭、床座，若諸金銀、末尼、真珠、末羅¶
 羯多、螺貝、璧玉、珊瑚、石藏、帝青、金剛、吠瑠璃等¶
-種種珍寶，若諸醫藥、塗香、末香、財穀、資具，諸¶
+種種珍寶，若諸醫藥、塗香、末香、財產、資具，諸¶
 如是等皆觀為空。若能施、若所施、若施福，如¶
 是一切亦觀為空。
 

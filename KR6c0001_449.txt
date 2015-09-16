@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.493272
+#+DATE: 2015-08-30 19:41:28.674626
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_449-0264a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 449
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百四¶
+《大般若波羅蜜多經》卷第四百四¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-54轉不轉品
-:PROPERTIES:
-:head: 第二分轉不轉品第五十四
-:END:
-¶
+第二分轉不轉品第五十四¶
 
 爾時，具壽善現白佛言：「世尊！如是不退轉菩¶
 薩摩訶薩，為但名不退轉，為亦名退轉耶？」
@@ -552,11 +547,7 @@
 說令不忘故。善現！若菩薩摩訶薩成就如是¶
 諸行、狀、相，知是不退轉菩薩摩訶薩。」¶
 
-55甚深義品
-:PROPERTIES:
-:head: 第二分甚深義品第五十五之一
-:END:
-¶
+第二分甚深義品第五十五之一¶
 
 爾時，具壽善現白佛言：「世尊！如是不退轉菩¶
 薩摩訶薩，成就廣大無量無數、無有邊際、不可¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.380437
+#+DATE: 2015-08-30 19:41:30.425468
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_486-0466b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 486
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百八¶
+《大般若波羅蜜多經》卷第四百八¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -280,7 +279,7 @@
 是實無所有。
 
 「善現！譬如眼觸為緣所生諸受¶
-乃至意觸為緣所生諸受畢竟清淨諸相句義實無所¶
+乃至意觸為緣所生諸受諸相句義實無所¶
 有，諸菩薩摩訶薩行深般若波羅蜜多時菩¶
 薩句義亦復如是實無所有。
 

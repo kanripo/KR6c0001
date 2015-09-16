@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.717258
+#+DATE: 2015-08-30 19:41:17.134211
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_172-0923a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 172
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百七¶
+《大般若波羅蜜多經》卷第一百七¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -161,11 +160,7 @@
 巧，於諸如來、應、正等覺及弟子等功德善根¶
 發生隨喜迴向無上正等菩提。」¶
 
-32讚般若品
-:PROPERTIES:
-:head: 初分讚般若品第三十二之一
-:END:
-¶
+初分讚般若品第三十二之一¶
 
 爾時，具壽舍利子白佛言：「世尊！如是所說豈¶
 非般若波羅蜜多？」

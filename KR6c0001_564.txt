@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:02.611751
+#+DATE: 2015-08-30 19:41:34.564411
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_564-0910b> 
 #+PROPERTY: JUAN 564
 ¶
-
- 《大般若波羅蜜多經》卷第五百六¶
+《大般若波羅蜜多經》卷第五百六¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-20勝意樂品
-:PROPERTIES:
-:head: 第五分勝意樂品第二十
-:END:
-¶
+第五分勝意樂品第二十¶
 
 「復次，善現！若諸菩薩以勝意樂，欲證無上正¶
 等菩提，常應親近、供養恭敬、尊重讚歎真淨¶
@@ -366,11 +361,7 @@
 墮二乘地，為趣無上正等菩提轉妙法輪，空¶
 我境界。』」¶
 
-21修學品
-:PROPERTIES:
-:head: 第五分修學品第二十一
-:END:
-¶
+第五分修學品第二十一¶
 
 「復次，慶喜！若時菩薩修學般若波羅蜜多，晝¶
 夜精勤常不捨離。時，魔眷屬如箭入心，怖戰¶
@@ -527,11 +518,7 @@
 故菩薩欲墮極少有情數者，當勤修學甚深¶
 般若波羅蜜多方便善巧。」¶
 
-22根栽品
-:PROPERTIES:
-:head: 第五分根栽品第二十二之一
-:END:
-¶
+第五分根栽品第二十二之一¶
 
 「復次，善現！若諸菩薩如是修學甚深般若波¶
 羅蜜多方便善巧，不起根栽俱行之心，不起¶

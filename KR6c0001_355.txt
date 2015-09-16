@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.113356
+#+DATE: 2015-08-30 19:41:24.392254
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_355-0825c> ¶¶¶¶¶
 #+PROPERTY: JUAN 355
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百五¶
+《大般若波羅蜜多經》卷第三百五¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -280,7 +279,7 @@
 處，是四勇軍皆悉隨至。甚深般若波羅蜜多¶
 亦復如是，隨有所行及有所至，所有一切波¶
 羅蜜多及餘一切菩提分法皆悉隨逐，究竟¶
-至於一切智智。善現！如善御者駕駟馬車，¶
+至於一切智智。善現！如善御者駕四馬車，¶
 令避險路行於正道，隨本意欲能往所至。甚¶
 深般若波羅蜜多亦復如是，善御一切波羅¶
 蜜多及餘一切菩提分法，令避生死涅槃險¶

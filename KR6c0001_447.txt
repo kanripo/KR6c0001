@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.399443
+#+DATE: 2015-08-30 19:41:28.579890
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_447-0253a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 447
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百四¶
+《大般若波羅蜜多經》卷第四百四¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -153,8 +152,8 @@
 「四念住真如即如來真¶
 如，如來真如即四念住真如，四正斷、四神足、¶
 五根、五力、七等覺支、八聖道支真如即如來真¶
-如，如來真如即四正斷乃至八聖道支真如。若¶
-四念住真如，若四正斷乃至八聖道支真如，若¶
+如，如來真如即四正斷乃至八聖道真如。若¶
+四念住真如，若四正斷乃至八聖道真如，若¶
 如來真如，同一真如無二無別。
 
 「四靜慮真如¶

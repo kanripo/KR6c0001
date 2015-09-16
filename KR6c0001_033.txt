@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.978348
+#+DATE: 2015-08-30 19:41:12.536785
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_033-0181c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 33
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三十三¶
+《大般若波羅蜜多經》卷第三十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之二十三¶
@@ -237,7 +236,7 @@
 非菩薩摩訶薩耶？」
 
 具壽善現答言：「世尊！若¶
-大慈，若大悲、大喜、大捨，尚畢竟不可得，性非有¶
+大慈大悲、大喜、大捨，尚畢竟不可得，性非有¶
 故，況有大慈增語及大悲、大喜、大捨增語！此¶
 增語既非有，如何可言：即大慈增語是菩薩
 <pb:KR6c0001_T_033-0183c>¶

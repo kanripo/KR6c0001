@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.836652
+#+DATE: 2015-08-30 19:41:30.881642
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_495-0515c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 495
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百九¶
+《大般若波羅蜜多經》卷第四百九¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -510,7 +509,7 @@
 觸，若眼觸為緣所生諸受乃至意觸為緣所生¶
 諸受，若地界乃至識界，若因緣乃至增上緣，¶
 若無明乃至老死，若欲界、色界、無色界，若善¶
-法、不善法，若有記法、無記法，若學法、無學法、非學非無¶
+法、不善法、無記法，若學法、無學法、非學非無¶
 學法，若四念住乃至八聖道支，若四靜慮、四¶
 無量、四無色定，若八解脫、九次第定，若空、無¶
 相、無願解脫門，若淨觀地乃至如來地，若極¶

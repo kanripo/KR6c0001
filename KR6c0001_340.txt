@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.438248
+#+DATE: 2015-08-30 19:41:23.737052
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_340-0743a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 340
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百四¶
+《大般若波羅蜜多經》卷第三百四¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -258,7 +257,7 @@
 
 佛¶
 言：「善現！於汝意云何？四正斷乃至八聖道¶
-支真如盡、滅、斷不？」
+支盡、滅、斷不？」
 
 善現答言：「不也！世尊！不也！善¶
 逝！」

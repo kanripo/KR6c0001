@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.701599
+#+DATE: 2015-08-30 19:41:24.001336
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_346-0775c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 346
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百四¶
+《大般若波羅蜜多經》卷第三百四¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -375,15 +374,11 @@
 <pb:KR6c0001_T_346-0778c>¶
 是。」¶
 
-58囑累品
-:PROPERTIES:
-:head: 初分囑累品第五十八之一
-:END:
-¶
+初分囑累品第五十八之一¶
 
 爾時，天帝釋白佛言：「世尊！我如是說、如是¶
 讚、如是記，為順如來、應、正等覺法語、律語，於¶
-法隨法無顛倒記不？」
+法隨法無倒記不？」
 
 佛言：「憍尸迦！汝如是說、如¶
 是讚、如是記，誠順如來、應、正等覺法語、律語，¶

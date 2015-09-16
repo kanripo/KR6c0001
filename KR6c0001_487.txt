@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.435479
+#+DATE: 2015-08-30 19:41:30.475594
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_487-0472a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 487
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百八¶
+《大般若波羅蜜多經》卷第四百八¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -586,7 +585,7 @@
 察十方殑伽沙等諸佛世界一切有情。若諸¶
 有情攝受邪法行諸惡行，是菩薩摩訶薩以¶
 神通力自變其身，遍滿如是諸佛世界，隨彼¶
-有情所樂，示現自行布施波羅蜜多，亦勸¶
+有情所樂，亦現自行布施波羅蜜多，示勸¶
 他行布施波羅蜜多，如是乃至自行般若波¶
 羅蜜多，亦勸他行般若波羅蜜多，作是事已，¶
 復隨類音，為說六種波羅蜜多相應之法，令¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:42.411129
+#+DATE: 2015-08-30 19:41:14.905891
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_107-0589b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 107
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百七¶
+《大般若波羅蜜多經》卷第一百七¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分校量功德品第三十之五¶
@@ -301,7 +300,7 @@
 
 「慶喜當知！以眼處無二為方便、¶
 無生為方便、無所得為方便，迴向一切智¶
-智，修習佛十力、四無所畏、四無礙解、大慈、大¶
+智，修習佛十力、四無所畏、四無閡解、大慈、大¶
 悲、大喜、大捨、十八佛不共法；以耳、鼻、舌、身、意¶
 處無二為方便、無生為方便、無所得為方便，¶
 迴向一切智智，修習佛十力、四無所畏、四無礙

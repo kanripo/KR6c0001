@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.309569
+#+DATE: 2015-08-30 19:41:25.598046
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_382-0972a> ¶¶¶¶¶
 #+PROPERTY: JUAN 382
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百八¶
+《大般若波羅蜜多經》卷第三百八¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -465,7 +464,7 @@
 
 「善現！四靜慮無所住，四¶
 無量、四無色定亦無所住；四靜慮空無所住，¶
-四無量、四無色定空亦無所住。何以故？善現！¶
+四無量、四無色定亦無所住。何以故？善現！¶
 四靜慮無自性不可得，四無量、四無色定亦¶
 無自性不可得，四靜慮空無自性不可得，四¶
 無量、四無色定空亦無自性不可得，非無自¶

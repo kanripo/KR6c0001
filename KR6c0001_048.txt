@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.462648
+#+DATE: 2015-08-30 19:41:13.004537
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_048-0268b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 48
 ¶
-
- 《大般若波羅蜜多經》卷第四十八¶
+《大般若波羅蜜多經》卷第四十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分摩訶薩品第十三之二¶

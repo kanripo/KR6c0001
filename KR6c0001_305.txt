@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:49.947065
+#+DATE: 2015-08-30 19:41:22.217475
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_305-0552c> ¶¶¶
 #+PROPERTY: JUAN 305
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百五¶
+《大般若波羅蜜多經》卷第三百五¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-41佛母品
-:PROPERTIES:
-:head: 初分佛母品第四十一之一
-:END:
-¶
+初分佛母品第四十一之一¶
 
 佛言：「善現！譬如女人生育諸子，若五、若十、¶
 二十、三十、四十、五十、或百、或千，其母得病，諸¶

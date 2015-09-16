@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.555674
+#+DATE: 2015-08-30 19:41:31.533878
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_508-0589b> ¶¶¶
 #+PROPERTY: JUAN 508
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百八¶
+《大般若波羅蜜多經》卷第五百八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-13陀羅尼品
-:PROPERTIES:
-:head: 第三分陀羅尼品第十三之一
-:END:
-¶
+第三分陀羅尼品第十三之一¶
 
 時，天帝釋竊作是念：「若善男子、善女人等，得¶
 聞如是甚深般若波羅蜜多法門名字，當知¶

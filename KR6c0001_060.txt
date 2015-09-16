@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.880991
+#+DATE: 2015-08-30 19:41:13.397697
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_060-0337b> ¶¶¶¶
 #+PROPERTY: JUAN 60
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第六十¶
+《大般若波羅蜜多經》卷第六十¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分讚大乘品第十六之五¶
@@ -442,7 +441,7 @@
 不可得，後際意界不可得，中際意界不可¶
 得，三世平等中意界亦不可得。所以者何？¶
 善現！平等中過去未來現在意界皆不可得。¶
-何以故？平等中平等性尚不可得，何況平等¶
+何以故？平等中平等性尚不可得，何平等¶
 中有過去未來現在意界可得！善現！前際¶
 法界、意識界及意觸、意觸為緣所生諸受不可
 <pb:KR6c0001_T_060-0341c>¶

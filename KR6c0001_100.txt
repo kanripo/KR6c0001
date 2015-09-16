@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:42.183337
+#+DATE: 2015-08-30 19:41:14.674193
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_100-0552c> 
 #+PROPERTY: JUAN 100
 ¶
-
- 《大般若波羅蜜多經》卷第一百¶
+《大般若波羅蜜多經》卷第一百¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分攝受品第二十九之二¶
@@ -88,7 +87,7 @@
 諸受空、無相、無願，不可以空而得空便，不可
 <pb:KR6c0001_T_100-0553b>¶
 無相得無相便，不可無願得無願便。何以故？¶
-以身界等自性皆空，能惱、所惱及惱害事不¶
+以舌界等自性皆空，能惱、所惱及惱害事不¶
 可得故。
 
 「憍尸迦！是善男子、善女人等，善住¶

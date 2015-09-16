@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:48.879353
+#+DATE: 2015-08-30 19:41:21.243034
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_281-0424b> ¶¶¶¶
 #+PROPERTY: JUAN 281
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百八¶
+《大般若波羅蜜多經》卷第二百八¶
 十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -441,7 +440,7 @@
 一切智智清淨，若內空清淨，若一切三摩地¶
 門清淨，無二、無二分、無別、無斷故。一切智智¶
 清淨故外空、內外空、空空、大空、勝義空、有為空、¶
-無為空、畢竟空、無際空、散空、無變異空、本性
+無為空、畢竟空、無際空、散空、無變異性、本性
 <pb:KR6c0001_T_281-0428b>¶
 空、自相空、共相空、一切法空、不可得空、無性空、¶
 自性空、無性自性空清淨，外空乃至無性自¶

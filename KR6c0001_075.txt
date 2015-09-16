@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.370458
+#+DATE: 2015-08-30 19:41:13.877590
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_075-0421b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 75
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第七十五¶
+《大般若波羅蜜多經》卷第七十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分無生品第二十之二¶
@@ -262,7 +261,7 @@
 最為第一。何以故？隨所問詰皆能酬答無¶
 滯礙故。」
 
-善現報言：「諸佛弟子於一切法無¶
+善現報言：「諸佛第子於一切法無¶
 依著者，法爾皆能隨所問詰，一一酬答自在¶
 無畏。何以故？以一切法無所依故。」¶
 
@@ -421,11 +420,7 @@
 「舍利子！由此緣故，我說諸法¶
 都無所依。」¶
 
-21淨道品
-:PROPERTIES:
-:head: 初分淨道品第二十一之一
-:END:
-¶
+初分淨道品第二十一之一¶
 
 爾時，具壽善現謂舍利子言：「諸菩薩摩訶薩¶
 修行六種波羅蜜多時，應淨色，應淨受、想、行、¶

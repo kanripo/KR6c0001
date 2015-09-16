@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.094874
+#+DATE: 2015-08-30 19:41:31.133656
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_500-0543a> 
 #+PROPERTY: JUAN 500
 ¶
-
- 《大般若波羅蜜多經》卷第五百¶
+《大般若波羅蜜多經》卷第五百¶
 ¶
 三藏法師玄奘奉　詔譯¶
 第三分天帝品第四之三¶
@@ -402,11 +401,7 @@
 此因緣，當知諸菩薩摩訶薩所學般若波羅蜜¶
 多應說為大無量無邊。」¶
 
-5現窣堵波品
-:PROPERTIES:
-:head: 第三分現窣堵波品第五之一
-:END:
-¶
+第三分現窣堵波品第五之一¶
 
 爾時，會中天帝釋等欲界諸天、梵天王等色¶
 界諸天及伊舍那神仙天女，同時三返高聲¶

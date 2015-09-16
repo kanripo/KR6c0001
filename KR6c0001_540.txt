@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:01.262254
+#+DATE: 2015-08-30 19:41:33.302617
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_540-0774a> 
 #+PROPERTY: JUAN 540
 ¶
-
- 《大般若波羅蜜多經》卷第五百四¶
+《大般若波羅蜜多經》卷第五百四¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -88,7 +87,7 @@
 怖畏怨家、惡獸、災橫、厭禱、疾疫、毒藥、呪等，應
 <pb:KR6c0001_T_540-0774c>¶
 書般若波羅蜜多大神呪王，隨多少分香囊¶
-盛貯置寶筒中，恒隨自身供養恭敬，諸怖畏¶
+盛貯置寶箇中，恒隨自身供養恭敬，諸怖畏¶
 事皆悉銷除，天、龍、鬼神常來守護，唯除宿世¶
 惡業應受。憍尸迦！譬如有人或傍生類，入菩¶
 提樹院或至彼院邊，人非人等不能傷害。何¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.224738
+#+DATE: 2015-08-30 19:41:25.500628
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_380-0961b> 
 #+PROPERTY: JUAN 380
 ¶
-
- 《大般若波羅蜜多經》卷第三百八¶
+《大般若波羅蜜多經》卷第三百八¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -102,7 +101,7 @@
 情我應布施為作饒益，如是有情我不應施¶
 不作饒益。』違本所發菩提心故，謂諸菩薩發¶
 菩提心：『我為有情當作依怙、洲渚、舍宅、救護¶
-之處。』見諸乞者應作念言：『今此有情貧窮¶
+之處。』見諸乞者應作念言：『令此有情貧窮¶
 孤露，我當以施而攝益之。彼由此緣，亦能轉¶
 施，少欲喜足，離斷生命，離不與取，離欲邪¶
 行，離虛誑語，離離間語，離麁惡語，離雜穢¶

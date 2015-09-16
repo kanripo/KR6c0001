@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.848104
+#+DATE: 2015-08-30 19:41:28.027296
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_435-0187b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 435
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百三¶
+《大般若波羅蜜多經》卷第四百三¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -578,7 +577,6 @@
 淨故未來清淨，若未來清淨，若過去現在清¶
 淨，無二、無別、無壞、無斷。現在清淨故過去未¶
 來清淨，過去未來清淨故現在清淨，若現在¶
-清淨，若過去未來清淨，無二、無別、無斷、無¶
-壞。」¶
+清淨，若過去未來清淨，無二、無別、無斷、無壞。」¶
 《大般若波羅蜜多經》卷第四百三十五¶
 

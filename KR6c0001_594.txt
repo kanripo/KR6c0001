@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:04.314618
+#+DATE: 2015-08-30 19:41:36.068665
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220o
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220o
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-1065b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_594-1071a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 594
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百九¶
+《大般若波羅蜜多經》卷第五百九¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -70,7 +69,7 @@
 性？謂諸世間皆非實有，非實所攝，非實有生，¶
 但假安立。云何世間非實有生，但假安立？非¶
 實有者無實生故。以無實生及非實有故，說¶
-諸法無實無性。由如實知非實有性故，亦¶
+諸法無實無性。由如是知非實有性故，亦¶
 可說如實有情；於實有中亦不執實有故，復¶
 可說隨如實有情。雖作是說而不如說。所以¶
 者何？非如實理有少有情或摩訶薩，何以¶

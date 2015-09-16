@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.933974
+#+DATE: 2015-08-30 19:41:30.978400
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_497-0526c> 
 #+PROPERTY: JUAN 497
 ¶
-
- 《大般若波羅蜜多經》卷第四百九¶
+《大般若波羅蜜多經》卷第四百九¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -398,7 +397,7 @@
 故？舍利子！若法是空、無相、無願則無自性，若¶
 無自性則無盡故。
 
-「復次，舍利子！一切法是善、無¶
+「復次，舍利子！一切是善、無¶
 罪、無漏、無染、出世、清淨、無為亦無散失。何以¶
 故？若法是善、無罪、無漏、無染、出世、清淨、無為，¶
 無盡性故。」

@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:04.360745
+#+DATE: 2015-08-30 19:41:36.114794
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220o
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220o
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-1065b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_595-1076c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 595
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百九¶
+《大般若波羅蜜多經》卷第五百九¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -45,8 +44,7 @@
 
 「善勇猛！¶
 眼界非眼界所行，耳、鼻、舌、身、意界亦非耳、鼻、¶
-舌、身、意界所行。善勇猛！眼界非眼界所行，故¶
-無知無見，若於眼界無知無見，是謂般若波¶
+舌、身、意界所行。善勇猛！眼界非眼界所行，故無知無見，若於眼界無知無見，是謂般若波¶
 羅蜜多。善勇猛！耳、鼻、舌、身、意界亦非耳、鼻、舌、¶
 身、意界所行，故無知無見，若於耳、鼻、舌、身、意¶
 界無知無見，是謂般若波羅蜜多。

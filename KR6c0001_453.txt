@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.676463
+#+DATE: 2015-08-30 19:41:28.874006
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_453-0284c> 
 #+PROPERTY: JUAN 453
 ¶
-
- 《大般若波羅蜜多經》卷第四百五¶
+《大般若波羅蜜多經》卷第四百五¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -139,7 +138,7 @@
 多方便善巧漸次修學，當證無上正等菩提。¶
 善現當知！是菩薩摩訶薩若有此身不得正¶
 念，不能悔過，不捨慢心，不樂親近真勝善友，¶
-彼定流轉生死多時，後雖精進修諸善業，而
+彼定流轉生死多時，彼雖精進修諸善業，而
 <pb:KR6c0001_T_453-0286a>¶
 墮聲聞或獨覺地。譬如苾芻求聲聞者，於四¶
 重罪若隨犯一，便非沙門非釋迦子，彼於¶

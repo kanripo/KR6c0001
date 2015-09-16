@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:03.848905
+#+DATE: 2015-08-30 19:41:35.735155
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220k
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220k
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-1019a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_587-1034a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 587
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百八¶
+《大般若波羅蜜多經》卷第五百八¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -310,7 +309,7 @@
 心，欲使有情一切皆得居法王位，此法王位¶
 最勝最尊，於法有情俱得自在，是故菩薩摩¶
 訶薩眾應普恭敬一切有情，慈心遍滿無¶
-揀別故，如來法身遍一切故。」¶
+揀別故，如來法身遍一切法。」¶
 
 時，滿慈子便問具壽舍利子言：「云何菩薩作¶
 如是念：『我當恭敬一切有情，我證無上正等¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.264374
+#+DATE: 2015-08-30 19:41:26.593900
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_404-0018a> 
 #+PROPERTY: JUAN 404
 ¶
-
- 《大般若波羅蜜多經》卷第四百四¶
+《大般若波羅蜜多經》卷第四百四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 第二分觀照品第三之三¶
@@ -198,7 +197,7 @@
 <pb:KR6c0001_T_404-0019c>¶
 
 「舍利子！復有菩薩摩訶薩住六波羅蜜多，¶
-淨覩史多天宮，當知是菩薩摩訶薩此賢劫中¶
+淨史多天宮，當知是菩薩摩訶薩此賢劫中¶
 定當作佛。
 
 「舍利子！復有菩薩摩訶薩修行般¶

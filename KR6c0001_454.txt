@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.729161
+#+DATE: 2015-08-30 19:41:28.922341
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_454-0289c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 454
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百五¶
+《大般若波羅蜜多經》卷第四百五¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -696,11 +695,7 @@
 善現！甚深般若波羅蜜多一切分別皆遠離¶
 故。若起如是種種分別，非行般若波羅蜜多。」¶
 
-61同學品
-:PROPERTIES:
-:head: 第二分同學品第六十一之一
-:END:
-
+第二分同學品第六十一之一
 <pb:KR6c0001_T_454-0293b>¶
 
 爾時天帝釋白佛言：「世尊！如是般若波羅蜜¶
@@ -824,7 +819,7 @@
 菩提，轉妙法輪度有情眾。』
 
 「苾芻當知！是菩薩¶
-摩訶薩修行如是甚深般若波羅蜜多，常學¶
+摩訶薩修行如是甚深般若波羅蜜多，當學¶
 菩薩摩訶薩眾所應學故，妙時分天子領時¶
 分天眾來到其所，供養恭敬、尊重讚歎，作如¶
 是言：『善哉！大士！當速精進學諸菩薩摩訶薩¶

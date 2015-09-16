@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.035309
+#+DATE: 2015-08-30 19:41:28.217517
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_439-0209c> 
 #+PROPERTY: JUAN 439
 ¶
-
- 《大般若波羅蜜多經》卷第四百三¶
+《大般若波羅蜜多經》卷第四百三¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -244,12 +243,12 @@
 深般若波羅蜜多無價珍寶多諸留難，而有¶
 書寫、讀誦、受持、思惟、修習、為他說者，惡魔於
 <pb:KR6c0001_T_439-0212a>¶
-彼欲作留難，令不書寫乃至演說。」
+彼不作留難，令不書寫乃至演說。」
 
 佛告善現：¶
 「惡魔於此甚深般若波羅蜜多雖欲留難，令¶
 不書寫、讀誦、受持、思惟、修習、為他演說，而彼¶
-無力可能留難是菩薩摩訶薩書寫、讀¶
+無力不能留難是菩薩摩訶薩書寫、讀¶
 誦、受持等事，令不究竟。」¶
 
 爾時，舍利子白佛言：「世尊！是誰神力令彼惡¶

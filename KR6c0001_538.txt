@@ -1,26 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:01.150766
+#+DATE: 2015-08-30 19:41:33.208210
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_538-0763a> 
 #+PROPERTY: JUAN 538
 ¶
 
-4會
-:PROPERTIES:
-:head: 《大般若經》第四會
-:END:
-
-序
-:PROPERTIES:
-:head: 序
-:END:
-¶
+《大般若經》第四會
+序¶
 ¶
 西明寺沙門玄則撰¶
 
@@ -45,17 +37,12 @@
 圓，鴻規允布，心術之要可復道哉！
 <pb:KR6c0001_T_538-0763b>¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百三¶
+《大般若波羅蜜多經》卷第五百三¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-1妙行品
-:PROPERTIES:
-:head: 第四分妙行品第一之一
-:END:
-¶
+第四分妙行品第一之一¶
 
 如是我聞：
 

@@ -1,29 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:04.265554
+#+DATE: 2015-08-30 19:41:36.020712
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220o
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220o
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-1065b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_593-1065b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 593
 ¶
 ¶
 
-16會
-:PROPERTIES:
-:head: 《大般若經》第十六會般若波羅蜜¶
+《大般若經》第十六會般若波羅蜜¶
 多分
-:END:
-
-序
-:PROPERTIES:
-:head: 序
-:END:
-¶
+序¶
 ¶
 西明寺沙門玄則撰¶
 
@@ -58,16 +50,12 @@
 哉？悲夫！¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百九¶
+《大般若波羅蜜多經》卷第五百九¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 第十六般若波羅蜜多分之一
-:END:
-¶
+第十六般若波羅蜜多分之一¶
 
 如是我聞：
 
@@ -101,7 +89,7 @@
 哉！善男子！汝今乃能請問如來、應、正等覺¶
 甚深般若波羅蜜多。汝為菩薩摩訶薩眾得¶
 義利故，欲令眾生得利益故，亦為眾生得安¶
-樂故，哀愍世間大眾生故，利益安樂諸天、¶
+樂故，哀愍世間大生眾故，利益安樂諸天、¶
 人故，欲為現在未來菩薩摩訶薩等作照明¶
 故，請問如來、應、正等覺甚深般若波羅蜜多。」¶
 

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:43.212659
+#+DATE: 2015-08-30 19:41:15.710670
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_130-0709a> ¶¶¶¶¶
 #+PROPERTY: JUAN 130
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百三¶
+《大般若波羅蜜多經》卷第一百三¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -241,7 +240,7 @@
 羅漢及預流向預流果、一來向一來果、不還向¶
 不還果、阿羅漢向阿羅漢果施設可得；由此¶
 般若波羅蜜多祕密藏中所說法故，世間便¶
-有獨覺及獨覺菩提施設可得；由此般若波¶
+有獨覺及獨覺菩提施設得可；由此般若波¶
 羅蜜多祕密藏中所說法故，世間便有一切¶
 菩薩摩訶薩及諸菩薩摩訶薩行施設可得；¶
 由此般若波羅蜜多祕密藏中所說法故，世¶

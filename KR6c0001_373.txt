@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.910566
+#+DATE: 2015-08-30 19:41:25.197549
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_373-0922b> 
 #+PROPERTY: JUAN 373
 ¶
-
- 《大般若波羅蜜多經》卷第三百七¶
+《大般若波羅蜜多經》卷第三百七¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -412,11 +411,7 @@
 有無性。」
 <pb:KR6c0001_T_373-0926b>¶
 
-66無相無得品
-:PROPERTIES:
-:head: 初分無相無得品第六十六之一
-:END:
-¶
+初分無相無得品第六十六之一¶
 
 爾時，具壽善現白佛言：「世尊！若一切法皆¶
 以無性為自性者，菩薩摩訶薩見何等義，¶

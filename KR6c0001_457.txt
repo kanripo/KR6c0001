@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.874535
+#+DATE: 2015-08-30 19:41:29.062630
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_457-0306a> ¶
 #+PROPERTY: JUAN 457
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百五¶
+《大般若波羅蜜多經》卷第四百五¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -368,7 +367,7 @@
 
 佛告善現：「有菩薩摩¶
 訶薩住不退轉位修行般若波羅蜜多，為諸¶
-如來、應、正等覺說正法時，在大眾前自然歡
+如來、應、正等覺說正法時，住大眾前自然歡
 <pb:KR6c0001_T_457-0309a>¶
 喜稱揚讚歎名字、種姓及諸功德。復有菩薩¶
 摩訶薩雖未受記而行般若波羅蜜多，亦¶
@@ -506,11 +505,7 @@
 射虛空，若遠若近俱無罣礙，大德所說亦復¶
 如是，誰能於中而敢抗對！」¶
 
-65實語品
-:PROPERTIES:
-:head: 第二分實語品第六十五之一
-:END:
-¶
+第二分實語品第六十五之一¶
 
 爾時，天帝釋白佛言：「世尊！我如是說、如是¶
 讚、如是記，為順世尊實語、法語，於法、隨法為¶

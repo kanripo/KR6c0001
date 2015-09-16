@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.767915
+#+DATE: 2015-08-30 19:41:27.945532
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_433-0177a> 
 #+PROPERTY: JUAN 433
 ¶
-
- 《大般若波羅蜜多經》卷第四百三¶
+《大般若波羅蜜多經》卷第四百三¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -349,7 +348,7 @@
 養恭敬、尊重讚歎，所獲福聚皆以有相、有所¶
 得想為方便故。」
 
-爾時，四大天王各與眷屬二¶
+爾時，四天大王各與眷屬二¶
 萬天子頂禮佛足，合掌白言：「世尊！彼諸菩¶
 薩摩訶薩乃能發起如是廣大隨喜迴向，謂¶
 彼菩薩摩訶薩方便善巧，以無相為方便、¶

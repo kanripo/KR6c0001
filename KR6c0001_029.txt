@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.872093
+#+DATE: 2015-08-30 19:41:12.383870
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_029-0159b> 
 #+PROPERTY: JUAN 29
 ¶
-
- 《大般若波羅蜜多經》卷第二十九¶
+《大般若波羅蜜多經》卷第二十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之十九¶
@@ -100,7 +99,7 @@
 
 「善現！汝復觀何¶
 義言：即內空若善若非善增語非菩薩摩訶¶
-薩，即外空乃至無性自性空若善若非善增語¶
+薩，即外空乃至無性自性空若善非善增語¶
 非菩薩摩訶薩耶？」
 
 「世尊！若內空善非善，若¶

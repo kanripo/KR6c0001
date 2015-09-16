@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.940465
+#+DATE: 2015-08-30 19:41:28.125534
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_437-0198a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 437
 ¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百三¶
+《大般若波羅蜜多經》卷第四百三¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -480,11 +479,7 @@
 性空，摽幟名言皆不可得，是故名大波羅¶
 蜜多。」¶
 
-42不可得品
-:PROPERTIES:
-:head: 第二分不可得品第四十二
-:END:
-¶
+第二分不可得品第四十二¶
 
 爾時，具壽善現復白佛言：「世尊！如是般若波¶
 羅蜜多是無邊波羅蜜多。」
@@ -694,7 +689,7 @@
 佛言：「如是！離二邊故。」
 
 「世尊！¶
-如是般若波羅蜜多是無雜壞波羅蜜多。」
+如是般若波羅蜜多是無離壞波羅蜜多。」
 
 佛¶
 言：「如是！知一切法不相屬故。」

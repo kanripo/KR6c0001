@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:43.108077
+#+DATE: 2015-08-30 19:41:15.607500
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_127-0694a> 
 #+PROPERTY: JUAN 127
 ¶
-
- 《大般若波羅蜜多經》卷第一百二¶
+《大般若波羅蜜多經》卷第一百二¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -182,7 +181,7 @@
 以種種上妙華鬘、塗散等香、衣服、瓔珞、寶幢、¶
 幡蓋、眾妙、珍奇、伎樂、燈明，盡諸所有供養恭¶
 敬、尊重讚歎。是善男子、善女人等，由此因緣¶
-獲無量福，盡其形壽以無量種上妙飲食、衣¶
+獲無量福，勝盡形壽以無量種上妙飲食、衣¶
 服、臥具、醫藥資緣，供養恭敬、尊重讚歎十方¶
 世界一切如來、應、正等覺及弟子眾；亦勝十¶
 方佛及弟子般涅槃後，有為供養設利羅故，

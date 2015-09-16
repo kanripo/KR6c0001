@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:04.568517
+#+DATE: 2015-08-30 19:41:36.318349
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220o
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220o
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-1065b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_599-1099c> 
 #+PROPERTY: JUAN 599
 ¶
-
- 《大般若波羅蜜多經》卷第五百九¶
+《大般若波羅蜜多經》卷第五百九¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -515,7 +514,7 @@
 謂常，離者謂斷。善勇猛！一切法性不由覺¶
 察有合有離。善勇猛！一切法性不為合故、¶
 離故現前。善勇猛！若諸法性為合、為離現在¶
-前者，則應諸法可得作者、使作者、起者、使起¶
+前者，則應諸法可得作者、使作者、起者、等起¶
 者、受者、使受者、知者、使知者、見者、使見者、合者、¶
 使合者、離者、使離者，如來亦應施設諸法此¶
 是作者、使作者乃至離者、使離者。善勇猛！以¶

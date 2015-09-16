@@ -1,16 +1,15 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.591254
+#+DATE: 2015-08-30 19:41:13.123301
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_052-0292a> 
 #+PROPERTY: JUAN 52
-
- 《大般若波羅蜜多經》卷第五十二¶
+《大般若波羅蜜多經》卷第五十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分辯大乘品第十五之二¶
@@ -921,15 +920,14 @@
 此三摩地時，不見諸定行相有盡，是故名為¶
 無盡行相三摩地。」
 
-「世尊！云何名為攝伏一切¶
-正邪性三摩地？」
+「世尊！云何名為攝伏一切正邪性三摩地？」
 
 「善現！謂若住此三摩地時，於¶
 諸等持正性邪性，攝伏諸見皆令不起，是故¶
 名為攝伏一切正邪性三摩地。
 
 「世尊！云何名¶
-為斷憎愛三摩地？」
+為斷增愛三摩地？」
 
 「善現！謂若住此三摩地¶
 時，不見諸定法有憎有愛相，是故名為斷憎

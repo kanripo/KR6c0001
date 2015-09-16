@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.246495
+#+DATE: 2015-08-30 19:41:27.537770
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_424-0128c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 424
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百二¶
+《大般若波羅蜜多經》卷第四百二¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -32,7 +31,7 @@
 
 「復次，善現！若一切法畢竟不生，云何預¶
 流為預流果，勤修永斷三結之道？云何一來¶
-為一來果，勤修永斷貪、瞋、癡道？云何不還為¶
+為一來果，勤修倍斷貪、瞋、癡道？云何不還為¶
 不還果，勤修永斷順下結道？云何阿羅漢為¶
 阿羅漢果，勤修永斷順上結道？云何獨覺為¶
 獨覺菩提，勤修獨悟緣起法道？云何菩薩摩¶

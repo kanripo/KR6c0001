@@ -1,37 +1,29 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:04.116830
+#+DATE: 2015-08-30 19:41:35.872846
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220m
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220m
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-1049c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_590-1049c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 590
 ¶
 
-14會
-:PROPERTIES:
-:head: 《大般若經》第十四會勤波羅蜜¶
+《大般若經》第十四會勤波羅蜜¶
 多分
-:END:
-
-序
-:PROPERTIES:
-:head: 序
-:END:
+序¶
 ¶
-¶
-西明寺沙門玄則撰¶
+西明寺沙門玄則撰撰¶
 
 觀夫至運無動，妙警伊寂，梵輪冥退轉之規、¶
 慈航虛下濟之影，斯進德所以為貴、勤音所¶
 由而作也。其有揭情區而遠荷、指覺地以高¶
 驤，比擐甲之精堅、同策駟之遄夙，則必任善¶
 以為軛，引之無窮之路；委身而作隸，驅之¶
-罔極之期。微五欲之宴安，乃三塗之酖毒；
+綱極之期。微五欲之宴安，乃三塗之酖毒；
 <pb:KR6c0001_T_590-1050a>¶
 從四修之勞悴，寔萬德之光敷。惟夫淺溜穿¶
 石、小滴盈器，鑽燧之勤、斷幹之漸，皆積微不¶
@@ -53,16 +45,12 @@
 矣。¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百九¶
+《大般若波羅蜜多經》卷第五百九¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 第十四精進波羅蜜多分
-:END:
-¶
+第十四精進波羅蜜多分¶
 
 如是我聞：
 

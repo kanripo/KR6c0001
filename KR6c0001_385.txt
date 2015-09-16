@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.428425
+#+DATE: 2015-08-30 19:41:25.724392
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0001_T_385-0988b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 385
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百八¶
+《大般若波羅蜜多經》卷第三百八¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -293,8 +292,7 @@
 忘失法壞法界，亦以恒住捨性壞法界耶？何¶
 以故？法界無二無差別故。
 
-「豈不以一切智¶
-壞法界，亦以道相智、一切相智壞法界耶？何¶
+「豈不以一切智壞法界，亦以道相智、一切相智壞法界耶？何¶
 以故？法界無二無差別故。
 
 「豈不以嚴淨佛土¶
