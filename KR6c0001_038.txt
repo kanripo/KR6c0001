@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.144642
+#+DATE: 2015-08-30 19:40:09.554581
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_038-0210a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 38
 ¶
-
- 《大般若波羅蜜多經》卷第三十八¶
+《大般若波羅蜜多經》卷第三十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-10般若行相品
-:PROPERTIES:
-:head: 初分般若行相品第十之一
-:END:
-¶
+初分般若行相品第十之一¶
 
 「復次，世尊！諸菩薩摩訶薩修行般若波羅蜜¶
 多時，應作是觀：何者是般若波羅蜜多？何¶

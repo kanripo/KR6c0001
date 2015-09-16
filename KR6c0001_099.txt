@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:42.150245
+#+DATE: 2015-08-30 19:40:11.582035
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_099-0547a> ¶¶
 #+PROPERTY: JUAN 99
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第九十九¶
+《大般若波羅蜜多經》卷第九十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分歎眾德品第二十八之二¶
@@ -395,11 +394,7 @@
 迦！由此緣故我作是說：有情無邊故，菩薩¶
 摩訶薩所行般若波羅蜜多亦無邊。」¶
 
-29攝受品
-:PROPERTIES:
-:head: 初分攝受品第二十九之一
-:END:
-¶
+初分攝受品第二十九之一¶
 
 爾時，會中天帝釋等欲界天眾、梵天王等色¶
 界諸天及伊舍那神仙天女，同時三返高聲¶

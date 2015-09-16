@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.806785
+#+DATE: 2015-08-30 19:40:23.097837
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_394-1036c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 394
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百九¶
+《大般若波羅蜜多經》卷第三百九¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -256,11 +255,7 @@
 「善現！如是菩薩摩訶薩嚴¶
 淨佛土。」¶
 
-73淨土方便品
-:PROPERTIES:
-:head: 初分淨土方便品第七十三之一
-:END:
-¶
+初分淨土方便品第七十三之一¶
 
 爾時，具壽善現白佛言：「世尊！是諸菩薩摩訶¶
 薩為住正性定聚，為住不定聚耶？」
@@ -552,7 +547,7 @@
 
 「善現！是菩薩摩訶薩於十方界，¶
 若見有情懶惰懈怠，深生憐愍說如是法：『汝¶
-等有情當勤精進，勿於善法懶惰懈怠，諸懈¶
+等有情當勤精進，勿於善法懶墮懈怠，諸懈¶
 怠者於諸善法及諸勝事皆不能成。汝等由¶
 斯當墮地獄、傍生、鬼界受無量苦，是故汝等¶
 不應容納此懈怠心經剎那頃，何況令其長¶

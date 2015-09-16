@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.311481
+#+DATE: 2015-08-30 19:40:23.582111
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_405-0023c> ¶¶¶¶¶
 #+PROPERTY: JUAN 405
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百五¶
+《大般若波羅蜜多經》卷第四百五¶
 ¶
 三藏法師玄奘奉　詔譯¶
 第二分觀照品第三之四¶
@@ -431,11 +430,7 @@
 行圓滿、善逝、世間解、無上丈夫、調御士、天人師、¶
 佛、薄伽梵。」¶
 
-4無等等品
-:PROPERTIES:
-:head: 第二分無等等品第四
-:END:
-¶
+第二分無等等品第四¶
 
 爾時，尊者舍利子、尊者大目連、尊者善現、尊¶
 者大飲光、尊者滿慈子，如是等眾望所識諸¶
@@ -550,11 +545,7 @@
 般若波羅蜜多諸菩薩摩訶薩，一切有情皆¶
 獲如是利益安樂。」¶
 
-5舌根相品
-:PROPERTIES:
-:head: 第二分舌根相品第五
-:END:
-¶
+第二分舌根相品第五¶
 
 爾時，世尊現舌根相，量等三千大千世界。從¶
 此舌相復出無數種種色光，遍照十方殑伽¶

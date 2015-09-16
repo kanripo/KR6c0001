@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:49.619138
+#+DATE: 2015-08-30 19:40:18.798933
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_297-0509b> 
 #+PROPERTY: JUAN 297
 ¶
-
- 《大般若波羅蜜多經》卷第二百九¶
+《大般若波羅蜜多經》卷第二百九¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -132,11 +131,7 @@
 佛言：「如是！於一切法¶
 能正等覺一切相故。」¶
 
-39難聞功德品
-:PROPERTIES:
-:head: 初分難聞功德品第三十九之一
-:END:
-¶
+初分難聞功德品第三十九之一¶
 
 時，天帝釋作是念言：「若善男子、善女人等，曾¶
 於過去無量如來、應、正等覺親近供養，發弘¶

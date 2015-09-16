@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.643825
+#+DATE: 2015-08-30 19:40:26.668201
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_471-0382b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 471
 ¶
 ¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百七¶
+《大般若波羅蜜多經》卷第四百七¶
 十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -241,11 +240,7 @@
 皆無執著亦無所礙。所以者何？善達諸法如¶
 實相故。」¶
 
-77善達品
-:PROPERTIES:
-:head: 第二分善達品第七十七之一
-:END:
-¶
+第二分善達品第七十七之一¶
 
 爾時，具壽善現白佛言：「世尊！諸菩薩摩訶薩¶
 行深般若波羅蜜多時，如何善達諸法實相？」¶

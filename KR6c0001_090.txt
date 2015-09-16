@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.859102
+#+DATE: 2015-08-30 19:40:11.269332
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_090-0499b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 90
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第九十¶
+《大般若波羅蜜多經》卷第九十¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分求般若品第二十七之二¶

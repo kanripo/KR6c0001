@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:01.426645
+#+DATE: 2015-08-30 19:40:30.276096
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_543-0790c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 543
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百四¶
+《大般若波羅蜜多經》卷第五百四¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-6隨喜迴向品
-:PROPERTIES:
-:head: 第四分隨喜迴向品第六之一
-:END:
-¶
+第四分隨喜迴向品第六之一¶
 
 爾時，慈氏菩薩摩訶薩謂具壽善現言：「大德！¶
 諸菩薩摩訶薩所有隨喜迴向俱行諸福業¶

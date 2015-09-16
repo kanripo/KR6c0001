@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:38.842289
+#+DATE: 2015-08-30 19:40:08.333550
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_004-0017a> 
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四¶
+《大般若波羅蜜多經》卷第四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分學觀品第二之二¶
@@ -407,11 +406,7 @@
 法，故說菩薩為大施主。由此已報諸施主恩，¶
 是真福田生長勝福。」¶
 
-3相應品
-:PROPERTIES:
-:head: 初分相應品第三之一
-:END:
-¶
+初分相應品第三之一¶
 
 爾時，舍利子白佛言：「世尊！修行般若波羅蜜¶
 多菩薩摩訶薩，與何法相應故，當言與般若¶

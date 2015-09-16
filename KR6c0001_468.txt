@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.507595
+#+DATE: 2015-08-30 19:40:26.514663
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_468-0366a> 
 #+PROPERTY: JUAN 468
 ¶
-
- 《大般若波羅蜜多經》卷第四百六¶
+《大般若波羅蜜多經》卷第四百六¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -377,11 +376,7 @@
 「如是，善現！諸菩薩摩訶薩¶
 應以無相而為方便，修學般若波羅蜜多。」¶
 
-76眾德相品
-:PROPERTIES:
-:head: 第二分眾德相品第七十六之一
-:END:
-¶
+第二分眾德相品第七十六之一¶
 
 爾時，具壽善現白佛言：「世尊！若一切法無不¶
 如夢、如響、如像、如光影、如陽焰、如幻、如化都無¶

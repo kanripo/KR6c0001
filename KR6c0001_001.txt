@@ -1,23 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:38.746582
+#+DATE: 2015-08-30 19:40:08.242255
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
-No.220¶
+No. 220¶
 
-1會
-初會序
-:PROPERTIES:
-:head: 《大般若經》初會序
-:END:
-¶
+《大般若經》初會序¶
 ¶
 西明寺沙門玄則製¶
 
@@ -51,12 +46,7 @@ No.220¶
 ¶
 ¶
 
- 
-1緣起品
-:PROPERTIES:
-:head: 初分緣起品第一之一
-:END:
-¶
+初分緣起品第一之一¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
@@ -136,7 +126,7 @@ No.220¶
 天眼觀察十方殑伽沙等諸佛世界，舉身怡¶
 悅，從兩足下千輻輪相，各放六十百千俱胝¶
 那庾多光。從足十指、兩趺、兩跟、四踝、兩脛、兩¶
-腨、兩膝、兩䏶、兩股、腰脇、腹背、臍中、心上、胸臆¶
+腨、兩膝、兩[月*坒]、兩股、腰脇、腹背、臍中、心上、胸臆¶
 德字、兩乳、兩腋、兩肩、兩髆、兩肘、兩臂、兩腕、兩¶
 手、兩掌、十指、項咽、頤頷、頰額、頭頂、兩眉、兩眼、¶
 兩耳、兩鼻、口四牙、四十齒、眉間毫相，一一身¶

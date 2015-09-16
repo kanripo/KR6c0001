@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.241756
+#+DATE: 2015-08-30 19:40:09.650497
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_041-0227c> 
 #+PROPERTY: JUAN 41
 ¶
-
- 《大般若波羅蜜多經》卷第四十一¶
+《大般若波羅蜜多經》卷第四十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分般若行相品第十之四¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.455146
+#+DATE: 2015-08-30 19:40:28.378716
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_506-0577c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 506
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百六¶
+《大般若波羅蜜多經》卷第五百六¶
 ¶
 三藏法師玄奘奉　詔譯¶
 第三分地獄品第十之二¶
@@ -511,11 +510,7 @@
 若未來清淨，若現在清淨，無二、無二分、無別、¶
 無斷故。」¶
 
-11歎淨品
-:PROPERTIES:
-:head: 第三分歎淨品第十一之一
-:END:
-¶
+第三分歎淨品第十一之一¶
 
 爾時，舍利子白佛言：「世尊！如是清淨最為甚¶
 深。」

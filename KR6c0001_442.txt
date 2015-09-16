@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.164638
+#+DATE: 2015-08-30 19:40:25.302170
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_442-0226b> 
 #+PROPERTY: JUAN 442
 ¶
-
- 《大般若波羅蜜多經》卷第四百四¶
+《大般若波羅蜜多經》卷第四百四¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -453,11 +452,7 @@
 獲得無上正等菩提，為諸有情分別顯示一¶
 切法真如相，由此故名真實說者。」¶
 
-47示相品
-:PROPERTIES:
-:head: 第二分示相品第四十七之一
-:END:
-¶
+第二分示相品第四十七之一¶
 
 爾時，三千大千世界所有欲界、色界諸天，各¶
 以種種天妙花香遙散世尊而為供養，來詣¶

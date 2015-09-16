@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.665492
+#+DATE: 2015-08-30 19:40:11.061707
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_084-0468a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 84
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第八十四¶
+《大般若波羅蜜多經》卷第八十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分受教品第二十四之三¶
@@ -415,11 +414,7 @@
 此般若波羅蜜多勤修行故，隨所生處常受¶
 化生，乃至得一切世間最妙勝辯。」¶
 
-25散花品
-:PROPERTIES:
-:head: 初分散花品第二十五
-:END:
-¶
+初分散花品第二十五¶
 
 爾時，天帝釋及此三千大千世界所有四大¶
 王眾天、三十三天、夜摩天、覩史多天、樂變¶

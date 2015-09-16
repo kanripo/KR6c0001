@@ -1,26 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:03.310973
+#+DATE: 2015-08-30 19:40:31.990722
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220h
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220h
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_577-0979c> 
 #+PROPERTY: JUAN 577
 ¶
 
-9會
-:PROPERTIES:
-:head: 《大般若經》第九會能斷金剛分
-:END:
-
-序
-:PROPERTIES:
-:head: 序
-:END:
-¶
+《大般若經》第九會能斷金剛分
+序¶
 ¶
 西明寺沙門玄則撰¶
 
@@ -50,16 +42,12 @@
 之美證矣。
 <pb:KR6c0001_T_577-0980a>¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百七¶
+《大般若波羅蜜多經》卷第五百七¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 第九能斷金剛分
-:END:
-¶
+第九能斷金剛分¶
 
 如是我聞：
 

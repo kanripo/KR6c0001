@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.356514
+#+DATE: 2015-08-30 19:40:28.288449
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_504-0566a> ¶¶¶¶
 #+PROPERTY: JUAN 504
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百四¶
+《大般若波羅蜜多經》卷第五百四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 第三分福聚品第八之二¶
@@ -541,11 +540,7 @@
 六波羅蜜多乃至一切相智出現世間，復有¶
 聲聞、獨覺及無上乘出現世間。」¶
 
-9隨喜迴向品
-:PROPERTIES:
-:head: 第三分隨喜迴向品第九之一
-:END:
-¶
+第三分隨喜迴向品第九之一¶
 
 爾時，慈氏菩薩謂具壽善現言：「若菩薩摩訶¶
 薩以無所得而為方便，於諸有情所有功德¶

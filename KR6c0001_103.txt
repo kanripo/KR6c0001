@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:42.271175
+#+DATE: 2015-08-30 19:40:11.715105
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_103-0569b> ¶
 #+PROPERTY: JUAN 103
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百三¶
+《大般若波羅蜜多經》卷第一百三¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分攝受品第二十九之五¶
@@ -182,11 +181,7 @@
 香、衣服、纓絡、寶幢、幡蓋、眾妙、珍奇、伎樂、燈明而¶
 為供養。」¶
 
-30校量功德品
-:PROPERTIES:
-:head: 初分校量功德品第三十之一
-:END:
-¶
+初分校量功德品第三十之一¶
 
 爾時，天帝釋白佛言：「世尊！若善男子、善女人¶
 等書此般若波羅蜜多甚深經典，種種莊嚴¶

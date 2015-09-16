@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.791480
+#+DATE: 2015-08-30 19:40:26.819187
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_474-0398c> ¶¶
 #+PROPERTY: JUAN 474
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百七¶
+《大般若波羅蜜多經》卷第四百七¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -476,11 +475,7 @@
 若波羅蜜多，方便修行大菩提行，證得無上¶
 正等菩提，利樂有情常無間斷。」¶
 
-79無闕品
-:PROPERTIES:
-:head: 第二分無闕品第七十九之一
-:END:
-¶
+第二分無闕品第七十九之一¶
 
 爾時，具壽善現白佛言：「世尊！若菩薩摩訶薩¶
 雖勤精進修行布施波羅蜜多乃至般若波羅¶

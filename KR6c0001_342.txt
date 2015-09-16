@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.513705
+#+DATE: 2015-08-30 19:40:20.780344
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_342-0754b> 
 #+PROPERTY: JUAN 342
 ¶
-
- 《大般若波羅蜜多經》卷第三百四¶
+《大般若波羅蜜多經》卷第三百四¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -640,11 +639,7 @@
 深般若波羅蜜多，便能證得無分別相所求¶
 無上正等菩提。」¶
 
-57堅等讚品
-:PROPERTIES:
-:head: 初分堅等讚品第五十七之一
-:END:
-¶
+初分堅等讚品第五十七之一¶
 
 時，舍利子問善現言：「菩薩摩訶薩行深般若¶
 波羅蜜多時，為行堅實法？為行無堅實法耶？」

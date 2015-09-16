@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.563066
+#+DATE: 2015-08-30 19:40:10.972791
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_081-0452c> ¶
 #+PROPERTY: JUAN 81
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第八十一¶
+《大般若波羅蜜多經》卷第八十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分天帝品第二十二之五¶
@@ -255,11 +254,7 @@
 「舍利子！菩薩摩訶薩於般若波羅蜜多隨¶
 非住非不住，以無所得為方便，應如是學。」¶
 
-23諸天子品
-:PROPERTIES:
-:head: 初分諸天子品第二十三之一
-:END:
-¶
+初分諸天子品第二十三之一¶
 
 爾時，會中有諸天子竊作是念：「諸藥叉等言¶
 詞呪句，雖復隱密而尚可知，尊者善現於¶

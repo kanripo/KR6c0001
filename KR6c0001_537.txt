@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:01.095872
+#+DATE: 2015-08-30 19:40:29.960160
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_537-0756b> 
 #+PROPERTY: JUAN 537
 ¶
-
- 《大般若波羅蜜多經》卷第五百三¶
+《大般若波羅蜜多經》卷第五百三¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -638,7 +637,7 @@
 法想，亦令有情遠離無明想乃至老死想，亦¶
 令有情遠離有漏、無漏法想，亦令有情遠離¶
 世間、出世間法想，亦令有情遠離有為、無為¶
-法想，亦令有情遠離諸想已，住無為界解脫一¶
+法想，亦令有情離諸想已，住無為界解脫一¶
 切生老病死。無為界者即諸法空，依世俗說¶
 名無為界。」
 

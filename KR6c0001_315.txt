@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.361069
+#+DATE: 2015-08-30 19:40:19.560234
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_315-0605a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 315
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百一¶
+《大般若波羅蜜多經》卷第三百一¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -232,7 +231,7 @@
 作光明故，發趣無上正等菩提？」
 
 佛言：「善現！¶
-菩薩摩訶薩為破長夜無明㲉卵所覆有情重¶
+菩薩摩訶薩為破長夜無明[穀-禾+卵]卵所覆有情重¶
 黑暗故，為療有情無知瞖目令清朗故，為與¶
 一切愚冥有情作照明故，發趣無上正等菩提。¶
 善現！是為菩薩摩訶薩為與世間作光明故，¶

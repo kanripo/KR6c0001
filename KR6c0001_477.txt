@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.943350
+#+DATE: 2015-08-30 19:40:26.975732
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_477-0414c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 477
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百七¶
+《大般若波羅蜜多經》卷第四百七¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-81正定品
-:PROPERTIES:
-:head: 第二分正定品第八十一
-:END:
-¶
+第二分正定品第八十一¶
 
 爾時，具壽善現白佛言：「世尊！是諸菩薩摩訶¶
 薩為住正性定聚，為住不定聚耶？」
@@ -465,11 +460,7 @@
 滿，方能證得一切智智，要已證得一切智¶
 智，乃能無倒轉正法輪，令諸有情究竟安樂。」¶
 
-82佛法品
-:PROPERTIES:
-:head: 第二分佛法品第八十二
-:END:
-¶
+第二分佛法品第八十二¶
 
 爾時，具壽善現白佛言：「世尊！若此諸善法是¶
 菩薩法者，復有何等是佛法耶？」

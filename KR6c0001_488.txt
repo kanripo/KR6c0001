@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.493773
+#+DATE: 2015-08-30 19:40:27.505306
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0001_T_488-0477c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 488
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百八¶
+《大般若波羅蜜多經》卷第四百八¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -587,9 +586,9 @@
 故名為無著無障三摩地。
 
 「云何名為斷諸法¶
-轉三摩地？謂若住此三摩地時，於一切法證¶
+輪三摩地？謂若住此三摩地時，於一切法證¶
 無生理，令生死苦永不相續，是故名為斷諸¶
-法轉三摩地。
+法輪三摩地。
 
 「云何名為捨寶三摩地？謂若住¶
 此三摩地時，於諸定相尚能棄捨，況諸煩惱¶
