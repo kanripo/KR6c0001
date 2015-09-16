@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.214351
+#+DATE: 2015-08-30 19:40:41.698809
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_070-0393c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 70
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第七十¶
+《大般若波羅蜜多經》卷第七十¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分無所得品第十八之十¶
@@ -294,11 +293,7 @@
 不沈、不沒亦不憂悔，當知是菩薩摩訶薩能¶
 行般若波羅蜜多。」¶
 
-19觀行品
-:PROPERTIES:
-:head: 初分觀行品第十九之一
-:END:
-¶
+初分觀行品第十九之一¶
 
 爾時，具壽善現白佛言：「世尊！諸菩薩摩訶¶
 薩修行般若波羅蜜多觀諸法時，於色不受¶

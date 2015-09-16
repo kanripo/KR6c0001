@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:02.990858
+#+DATE: 2015-08-30 19:41:03.287610
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220e
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220e
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_571-0947b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 571
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百七¶
+《大般若波羅蜜多經》卷第五百七¶
 十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-9無所得品
-:PROPERTIES:
-:head: 第六分無所得品第九
-:END:
-¶
+第六分無所得品第九¶
 
 爾時，會中有菩薩摩訶薩名為善思，問最勝¶
 曰：「佛授天王菩提記耶？」
@@ -481,11 +476,7 @@
 <pb:KR6c0001_T_571-0950c>¶
 發無上正等覺心。¶
 
-10證勸品
-:PROPERTIES:
-:head: 第六分證勸品第十
-:END:
-¶
+第六分證勸品第十¶
 
 佛告最勝：「天王當知！過去無量不可思議無¶
 數大劫，有佛名曰功德寶王，十號圓滿，國名¶

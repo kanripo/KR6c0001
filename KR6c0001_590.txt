@@ -1,30 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:04.116830
+#+DATE: 2015-08-30 19:41:04.269787
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220m
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220m
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-1049c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_590-1049c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 590
 ¶
 
-14會
-:PROPERTIES:
-:head: 《大般若經》第十四會勤波羅蜜¶
+《大般若經》第十四會勤波羅蜜¶
 多分
-:END:
-
-序
-:PROPERTIES:
-:head: 序
-:END:
+序¶
 ¶
-¶
-西明寺沙門玄則撰¶
+西明寺沙門玄則撰撰¶
 
 觀夫至運無動，妙警伊寂，梵輪冥退轉之規、¶
 慈航虛下濟之影，斯進德所以為貴、勤音所¶
@@ -53,16 +45,12 @@
 矣。¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百九¶
+《大般若波羅蜜多經》卷第五百九¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 第十四精進波羅蜜多分
-:END:
-¶
+第十四精進波羅蜜多分¶
 
 如是我聞：
 

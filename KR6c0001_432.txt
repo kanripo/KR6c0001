@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.652358
+#+DATE: 2015-08-30 19:40:56.384746
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_432-0171c> 
 #+PROPERTY: JUAN 432
 ¶
-
- 《大般若波羅蜜多經》卷第四百三¶
+《大般若波羅蜜多經》卷第四百三¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -294,11 +293,7 @@
 四念住廣說乃至十八佛不共法出現世間，¶
 復有聲聞乘、獨覺乘、正等覺乘出現世間。」¶
 
-37隨喜迴向品
-:PROPERTIES:
-:head: 第二分隨喜迴向品第三十七之一
-:END:
-¶
+第二分隨喜迴向品第三十七之一¶
 
 爾時，慈氏菩薩摩訶薩白具壽善現言：「大德！¶
 若菩薩摩訶薩以無所得而為方便，於諸有¶

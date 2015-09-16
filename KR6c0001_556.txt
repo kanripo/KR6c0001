@@ -1,26 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:02.199833
+#+DATE: 2015-08-30 19:41:02.472836
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_556-0865b> 
 #+PROPERTY: JUAN 556
 ¶
 
-5會
-:PROPERTIES:
-:head: 《大般若經》第五會
-:END:
-
-序
-:PROPERTIES:
-:head: 序
-:END:
-¶
+《大般若經》第五會
+序¶
 ¶
 西明寺沙門玄則撰¶
 
@@ -48,17 +40,12 @@
 積珍矣！
 <pb:KR6c0001_T_556-0865c>¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百五¶
+《大般若波羅蜜多經》卷第五百五¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-1善現品
-:PROPERTIES:
-:head: 第五分善現品第一
-:END:
-¶
+第五分善現品第一¶
 
 如是我聞：
 
@@ -698,11 +685,7 @@
 是行般若波羅蜜多，我意欲令一切菩薩以¶
 此作意，行深般若波羅蜜多。」¶
 
-2天帝品
-:PROPERTIES:
-:head: 第五分天帝品第二
-:END:
-¶
+第五分天帝品第二¶
 
 爾時，天帝釋與四萬天子俱來集會，護世四
 <pb:KR6c0001_T_556-0870b>¶

@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.274036
+#+DATE: 2015-08-30 19:40:40.784551
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_042-0234a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 42
 ¶
 ¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四十二¶
+《大般若波羅蜜多經》卷第四十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-11譬喻品
-:PROPERTIES:
-:head: 初分譬喻品第十一之一
-:END:
-¶
+初分譬喻品第十一之一¶
 
 爾時，具壽善現白佛言：「世尊！若有問言：『幻士¶
 能學般若波羅蜜多成辦一切智智不？幻士能¶

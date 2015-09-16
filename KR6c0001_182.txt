@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:45.082066
+#+DATE: 2015-08-30 19:40:45.476709
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_182-0979a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 182
 ¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百八¶
+《大般若波羅蜜多經》卷第一百八¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-34難信解品
-:PROPERTIES:
-:head: 初分難信解品第三十四之一
-:END:
-¶
+初分難信解品第三十四之一¶
 
 具壽善現復白佛言：「世尊！不勤精進、未種善¶
 根、具不善根、為惡知識所攝受者，於佛所說¶

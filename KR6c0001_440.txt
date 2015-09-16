@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.079579
+#+DATE: 2015-08-30 19:40:56.739340
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_440-0214c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 440
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百四¶
+《大般若波羅蜜多經》卷第四百四¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -106,11 +105,7 @@
 淨佛土，未證無上正等菩提於其中間未曾¶
 暫廢。」¶
 
-44魔事品
-:PROPERTIES:
-:head: 第二分魔事品第四十四
-:END:
-¶
+第二分魔事品第四十四¶
 
 爾時，具壽善現白佛言：「世尊！佛已讚說發趣¶
 無上正等菩提，勇猛修行布施、淨戒、安忍、精¶
@@ -456,11 +451,7 @@
 方便，受學惡魔世俗書論，或復二乘相應經¶
 典，當知是為菩薩魔事。¶
 
-45不和合品
-:PROPERTIES:
-:head: 第二分不和合品第四十五之一
-:END:
-¶
+第二分不和合品第四十五之一¶
 
 「復次，善現！能學法者愛樂聽問、書寫、受持、讀¶
 誦、修習甚深般若波羅蜜多，能持法者著樂¶

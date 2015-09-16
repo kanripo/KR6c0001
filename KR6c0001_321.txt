@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.620365
+#+DATE: 2015-08-30 19:40:50.966011
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_321-0637b> ¶¶
 #+PROPERTY: JUAN 321
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百二¶
+《大般若波羅蜜多經》卷第三百二¶
 十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -614,7 +613,7 @@
 平等故如來真如平等，如來真如平等故淨
 <pb:KR6c0001_T_321-0641c>¶
 戒乃至般若波羅蜜多真如平等。如是若布¶
-施波羅蜜多真如平等，若淨戒乃至般若波¶
+施波羅蜜多真如平等，若真戒乃至般若波¶
 羅蜜多真如平等，若如來真如平等，同一真¶
 如平等無二無別。
 

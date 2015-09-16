@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:01.840196
+#+DATE: 2015-08-30 19:41:02.101177
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_549-0824b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 549
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百四¶
+《大般若波羅蜜多經》卷第五百四¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -264,11 +263,7 @@
 訶薩欲疾證得所求無上正等菩提，於諸有¶
 情應如是住、應如是學。」¶
 
-17不退相品
-:PROPERTIES:
-:head: 第四分不退相品第十七
-:END:
-¶
+第四分不退相品第十七¶
 
 爾時，善現復白佛言：「我等當以何行、狀、相，知¶
 是不退轉菩薩摩訶薩？」
@@ -607,11 +602,7 @@
 轉菩薩摩訶薩諸行、狀、相。」
 <pb:KR6c0001_T_549-0829a>¶
 
-18空相品
-:PROPERTIES:
-:head: 第四分空相品第十八之一
-:END:
-¶
+第四分空相品第十八之一¶
 
 爾時，具壽善現復白佛言：「世尊！如是不退轉¶
 菩薩摩訶薩，成就希有廣大功德。世尊能如¶

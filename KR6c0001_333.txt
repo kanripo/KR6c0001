@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.149192
+#+DATE: 2015-08-30 19:40:51.470023
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_333-0705b> ¶¶¶¶¶
 #+PROPERTY: JUAN 333
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百三¶
+《大般若波羅蜜多經》卷第三百三¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶

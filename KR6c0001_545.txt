@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:01.623423
+#+DATE: 2015-08-30 19:41:01.888041
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_545-0801c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 545
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百四¶
+《大般若波羅蜜多經》卷第五百四¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-8清淨品
-:PROPERTIES:
-:head: 第四分清淨品第八
-:END:
-¶
+第四分清淨品第八¶
 
 爾時，具壽善現復白佛言：「世尊！諸愚癡人不¶
 勤精進，具諸惡行薄少善根，暗鈍無求少聞¶
@@ -420,11 +415,7 @@
 中當來諸佛即以此名，亦於此處宣說般若¶
 波羅蜜多。」¶
 
-9讚歎品
-:PROPERTIES:
-:head: 第四分讚歎品第九
-:END:
-¶
+第四分讚歎品第九¶
 
 爾時，具壽善現便白佛言：「世尊！如是般若波¶
 羅蜜多但有名字，如是名字亦不可得，但依¶
@@ -584,11 +575,7 @@
 佛言：「善現！如是！¶
 如是！如汝所說。」¶
 
-10總持品
-:PROPERTIES:
-:head: 第四分總持品第十之一
-:END:
-¶
+第四分總持品第十之一¶
 
 時，天帝釋作是念言：「若善男子、善女人等，但
 <pb:KR6c0001_T_545-0805c>¶

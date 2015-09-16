@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.349995
+#+DATE: 2015-08-30 19:40:57.021991
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_446-0247c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 446
 ¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百四¶
+《大般若波羅蜜多經》卷第四百四¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -285,11 +284,7 @@
 善現！是為菩薩摩訶薩哀愍世間生死苦故，¶
 發趣無上正等菩提。」¶
 
-51調伏貪等品
-:PROPERTIES:
-:head: 第二分調伏貪等品第五十一
-:END:
-¶
+第二分調伏貪等品第五十一¶
 
 爾時，具壽善現白佛言：「世尊！誰於如是甚深¶
 般若波羅蜜多能生淨信及生勝解？」
@@ -533,11 +528,7 @@
 不可以受、想、行、識證，如是乃至不可以一切¶
 智證，不可以道相智、一切相智證。」¶
 
-52真如品
-:PROPERTIES:
-:head: 第二分真如品第五十二之一
-:END:
-¶
+第二分真如品第五十二之一¶
 
 爾時，欲界、色界諸天，各持天上旃檀香末、多¶
 揭羅香末、多摩羅香末，復持天上嗢鉢羅花、¶

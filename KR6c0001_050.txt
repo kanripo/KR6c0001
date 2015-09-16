@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.523306
+#+DATE: 2015-08-30 19:40:41.040599
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_050-0280a> ¶¶¶¶¶
 #+PROPERTY: JUAN 50
 ¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五十¶
+《大般若波羅蜜多經》卷第五十¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分大乘鎧品第十四之二¶
@@ -210,8 +209,7 @@
 
 「善現！真如非¶
 造非不造，非作非不作。何以故？真如畢竟不¶
-可得故。法界、法性、不虛妄性、不變異性、平等¶
-性、離生性、法定、法住、實際非造非不造，非作¶
+可得故。法界、法性、不虛妄性、不變異性、平等性、離生性、法定、法住、實際非造非不造，非作¶
 非不作。何以故？法界乃至實際畢竟不可得¶
 故。
 

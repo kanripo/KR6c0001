@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.106838
+#+DATE: 2015-08-30 19:40:51.434759
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_332-0699c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 332
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百三¶
+《大般若波羅蜜多經》卷第三百三¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -351,7 +350,7 @@
 「復次，善現！若菩薩摩訶薩夢見如來、應、正等¶
 覺，具三十二大士夫相，八十隨好圓滿莊嚴，¶
 圓光一尋周匝照曜，與苾芻眾踊在空中，¶
-現大神通說正法要，化作化士令到他方無¶
+現大神通說正法要，化作化事令到他方無¶
 邊佛土施作佛事。善現當知！是菩薩摩訶薩¶
 不退轉相。¶
 

@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:03.480838
+#+DATE: 2015-08-30 19:41:03.758601
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220j
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220j
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-0991b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_580-0997a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 580
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百¶
+《大般若波羅蜜多經》卷第五百¶
 八十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -31,7 +30,7 @@
 及獨覺地，爾時爾時漸復鄰近一切智智。
 
 「又，¶
-滿慈子！如天雨時，置瓮迴處承水漸滿，如是¶
+滿慈子！如天雨時，置瓮逈處承水漸滿，如是¶
 滿時由諸雨渧長時連注，匪唯初、後。如是菩¶
 薩求一切智，非初心起即能證得，亦非後時¶
 坐菩提座最後心起獨能證得，然由初心相¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.342519
+#+DATE: 2015-08-30 19:40:41.829193
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_074-0415c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 74
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第七十四¶
+《大般若波羅蜜多經》卷第七十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分觀行品第十九之五¶
@@ -259,11 +258,7 @@
 故我作是說：一切陀羅尼門入不二無妄法¶
 數，一切三摩地門入不二無妄法數。」¶
 
-20無生品
-:PROPERTIES:
-:head: 初分無生品第二十之一
-:END:
-¶
+初分無生品第二十之一¶
 
 爾時，具壽善現白佛言：「世尊！諸菩薩摩訶¶
 薩修行般若波羅蜜多觀諸法時，見我無生，¶

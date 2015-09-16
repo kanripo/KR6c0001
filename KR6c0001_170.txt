@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.655087
+#+DATE: 2015-08-30 19:40:45.062244
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_170-0912c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 170
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百七¶
+《大般若波羅蜜多經》卷第一百七¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -510,8 +509,7 @@
 三界則非過去未來現在，若非三世則不可¶
 以彼有相為方便、有所得為方便發生隨喜¶
 迴向無上正等菩提。何以故？以眼界等法自¶
-性不生，若法不生則無所有，不可以彼無所¶
-有法隨喜迴向無所有故。
+性不生，若法不生則無所有，不可以彼無所有法隨喜迴向無所有故。
 
 「若菩薩摩訶薩修¶
 行般若波羅蜜多，如實知耳界不墮欲界、色¶

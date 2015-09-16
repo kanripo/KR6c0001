@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.329641
+#+DATE: 2015-08-30 19:40:51.656452
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_337-0726c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 337
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百三¶
+《大般若波羅蜜多經》卷第三百三¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-55巧便學品
-:PROPERTIES:
-:head: 初分巧便學品第五十五之一
-:END:
-¶
+初分巧便學品第五十五之一¶
 
 爾時，天帝釋白佛言：「世尊！如是般若波羅蜜
 <pb:KR6c0001_T_337-0727a>¶
