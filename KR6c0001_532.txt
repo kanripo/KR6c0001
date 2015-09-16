@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:00.837848
+#+DATE: 2015-08-30 19:38:02.085371
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_532-0729c> 
 #+PROPERTY: JUAN 532
 ¶
-
- 《大般若波羅蜜多經》卷第五百三¶
+《大般若波羅蜜多經》卷第五百三¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -121,11 +120,7 @@
 住、無礙。所以者何？是菩薩摩訶薩達一切¶
 法微妙相故。」¶
 
-29施等品
-:PROPERTIES:
-:head: 第三分施等品第二十九之一
-:END:
-¶
+第三分施等品第二十九之一¶
 
 爾時，善現便白佛言：「云何菩薩摩訶薩於一¶
 切法達微妙相？」
@@ -429,7 +424,7 @@
 
 「善現！云何菩薩摩¶
 訶薩如實知行相？謂菩薩摩訶薩如實知行¶
-如芭蕉樹，葉葉㭊除實不可得，是名菩薩摩¶
+如芭蕉樹，葉葉[木*片]除實不可得，是名菩薩摩¶
 訶薩如實知行相。
 
 「善現！云何菩薩摩訶薩如¶

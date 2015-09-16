@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.157212
+#+DATE: 2015-08-30 19:37:40.576583
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_011-0056a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第十一¶
+《大般若波羅蜜多經》卷第十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-7教誡教授品
-:PROPERTIES:
-:head: 初分教誡教授品第七之一
-:END:
-¶
+初分教誡教授品第七之一¶
 
 爾時，佛告具壽善現：「汝以辯才當為菩薩摩
 <pb:KR6c0001_T_011-0056b>¶
@@ -64,7 +59,7 @@
 <pb:KR6c0001_T_011-0056c>¶
 菩薩摩訶薩但有名，謂為菩薩摩訶薩，般若¶
 波羅蜜多亦但有名，謂為般若波羅蜜多，如¶
-是二名亦但有名。善現！此之三名不生不¶
+是二名亦但有名。善現！此之二名不生不¶
 滅，唯有想等想，施設言說，如是假名不在¶
 內不在外不在兩間，不可得故。¶
 

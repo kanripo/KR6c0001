@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:46.592985
+#+DATE: 2015-08-30 19:37:48.260016
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_223-0117a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 223
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百二¶
+《大般若波羅蜜多經》卷第二百二¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -291,7 +290,7 @@
 「善現！苦聖諦清淨故諸佛¶
 無上正等菩提清淨，諸佛無上正等菩提清¶
 淨故一切智智清淨。何以故？若苦聖諦清¶
-淨，若諸佛無上正等菩提清淨，若一切智¶
+淨，若諸佛無土正等菩提清淨，若一切智¶
 智清淨，無二、無二分、無別、無斷故。¶
 
 「復次，善現！集聖諦清淨故色清淨，色清淨故¶

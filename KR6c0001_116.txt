@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:42.714479
+#+DATE: 2015-08-30 19:37:44.320379
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_116-0636a> 
 #+PROPERTY: JUAN 116
 ¶
-
- 《大般若波羅蜜多經》卷第一百一¶
+《大般若波羅蜜多經》卷第一百一¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -382,7 +381,7 @@
 所生諸受性空與彼菩薩摩訶薩行無二無二¶
 分故。慶喜！由此故說：以眼界等無二為方¶
 便、無生為方便、無所得為方便，迴向一切¶
-智智，修習菩薩摩訶薩行。」
+智智，修習菩薩摩訶行。」
 
 「世尊！云何以¶
 耳界無二為方便、無生為方便、無所得為方¶

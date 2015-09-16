@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:46.384417
+#+DATE: 2015-08-30 19:37:48.041397
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_217-0085c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 217
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百一¶
+《大般若波羅蜜多經》卷第二百一¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -22,7 +21,7 @@
 清淨，布施波羅蜜多清淨故一切智智清¶
 淨。何以故？若無性自性空清淨，若布施波¶
 羅蜜多清淨，若一切智智清淨，無二、無二分、¶
-無別、無斷故。無性自性空清淨故淨戒、安忍、¶
+無別、無斷故。無性自性空清淨若淨戒、安忍、¶
 精進、靜慮、般若波羅蜜多清淨，淨戒乃至般¶
 若波羅蜜多清淨故一切智智清淨。何以故？
 <pb:KR6c0001_T_217-0086a>¶

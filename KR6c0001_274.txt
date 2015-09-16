@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:48.589283
+#+DATE: 2015-08-30 19:37:50.192304
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_274-0386c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 274
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百七¶
+《大般若波羅蜜多經》卷第二百七¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -440,7 +439,7 @@
 「善現！一切智智清淨故一切菩薩摩訶薩行
 <pb:KR6c0001_T_274-0390c>¶
 清淨，一切菩薩摩訶薩行清淨故六神通清¶
-淨。何以故？若一切智智清淨，若一切菩薩¶
+淨。何以故？一切智智清淨，若一切菩薩¶
 摩訶薩行清淨，若六神通清淨，無二、無二分、¶
 無別、無斷故。
 

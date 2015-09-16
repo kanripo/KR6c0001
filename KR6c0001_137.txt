@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:43.443966
+#+DATE: 2015-08-30 19:37:45.044494
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_137-0743b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 137
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百三¶
+《大般若波羅蜜多經》卷第一百三¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -140,7 +139,7 @@
 無所畏、四無礙解、大慈、大悲、大喜、大捨、十八佛¶
 不共法若我若無我；說佛十力若淨若不淨，¶
 說四無所畏、四無礙解、大慈、大悲、大喜、大捨、十¶
-八佛不共法若淨若不淨。若有能依如是等¶
+八佛不共法若淨若淨若不淨。若有能依如是等¶
 法修行般若，是行般若波羅蜜多。復作是說：¶
 行般若者，應求佛十力若常若無常，應求四¶
 無所畏乃至十八佛不共法若常若無常；應¶

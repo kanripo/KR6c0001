@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.742596
+#+DATE: 2015-08-30 19:37:54.242381
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_369-0900c> 
 #+PROPERTY: JUAN 369
 ¶
-
- 《大般若波羅蜜多經》卷第三百六¶
+《大般若波羅蜜多經》卷第三百六¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -574,7 +573,7 @@
 傍生道、傍生因果，知已方便遮障彼道及彼因¶
 果；應如實知鬼界有情有鬼界道、鬼界因果，知¶
 已方便遮障彼道及彼因果；應如實知諸龍、藥¶
-叉、阿素洛、緊捺洛、健達縛、揭路茶、具霍迦、遮¶
+叉、阿素洛、緊捺洛、健達縛、揭路荼、具霍迦、遮¶
 魯拏、莫呼洛伽、持呪神等，各有彼道、有彼因¶
 果，知已方便遮障彼道及彼因果；應如實知¶
 人道因果，應如實知四大王眾天、三十三天、¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.262943
+#+DATE: 2015-08-30 19:37:58.555630
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_463-0338b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 463
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百六¶
+《大般若波羅蜜多經》卷第四百六¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -160,11 +159,7 @@
 甚深般若波羅蜜多及一切智智俱不可得¶
 故。」¶
 
-69樹喻品
-:PROPERTIES:
-:head: 第二分樹喻品第六十九
-:END:
-
+第二分樹喻品第六十九
 <pb:KR6c0001_T_463-0339c>¶
 
 爾時，具壽善現白佛言：「世尊！如是般若波羅¶
@@ -215,7 +210,7 @@
 菩薩摩訶薩故便能永斷一切地獄、傍生、鬼¶
 界，亦能永斷一切無暇貧窮下賤三界眾苦。」¶
 
-佛言善現：「如是！如是！如汝所說。諸菩薩摩¶
+佛告善現：「如是！如是！如汝所說。諸菩薩摩¶
 訶薩應知如佛。世間若無諸菩薩眾，便無三¶
 世一切如來，亦無獨覺及聲聞眾，亦無永斷¶
 一切地獄、傍生、鬼界及餘無暇貧窮下賤三界¶

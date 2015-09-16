@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.149192
+#+DATE: 2015-08-30 19:37:52.645840
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_333-0705b> ¶¶¶¶¶
 #+PROPERTY: JUAN 333
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百三¶
+《大般若波羅蜜多經》卷第三百三¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -199,7 +198,7 @@
 「善¶
 現！是菩薩摩訶薩遠離般若波羅蜜多，無巧便¶
 故，設居曠野百踰繕那，其中絕無諸惡禽獸、¶
-蛇、蝎、盜賊，唯有神、鬼、邏剎娑等遊止其中。¶
+蛇、蠍、盜賊，唯有神、鬼、羅剎娑等遊止其中。¶
 彼居如是阿練若處，雖經一歲，或經十歲、或¶
 經百歲、或經千歲、或經百千歲、或經俱胝歲、¶
 或經百俱胝歲、或經千俱胝歲、或經百千俱¶

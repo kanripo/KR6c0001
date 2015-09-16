@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.065844
+#+DATE: 2015-08-30 19:37:51.606335
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_308-0568b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 308
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百八¶
+《大般若波羅蜜多經》卷第三百八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分佛母品第四十一之四¶
@@ -287,11 +286,7 @@
 想。所以者何？以實無法可起此世、他世想¶
 故。」¶
 
-42不思議等品
-:PROPERTIES:
-:head: 初分不思議等品第四十二之一
-:END:
-¶
+初分不思議等品第四十二之一¶
 
 爾時，具壽善現白佛言：「世尊！甚深般若波¶
 羅蜜多，為大事故而現於世。

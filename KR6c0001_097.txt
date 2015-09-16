@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:42.080932
+#+DATE: 2015-08-30 19:37:43.650310
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_097-0536b> 
 #+PROPERTY: JUAN 97
 ¶
-
- 《大般若波羅蜜多經》卷第九十七¶
+《大般若波羅蜜多經》卷第九十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分求般若品第二十七之九¶
@@ -285,7 +284,7 @@
 應離四無量、四無色定法性求。¶
 
 「憍尸迦！菩薩摩訶薩所行般若波羅蜜多，不¶
-應於八解脫法性求，不應於八勝處、九次第¶
+應於八解脫法性求，不應於八聖處、九次第¶
 定、十遍處法性求；不應離八解脫法性求，不¶
 應離八勝處、九次第定、十遍處法性求。所以¶
 者何？若八解脫法性，若八勝處、九次第定、十¶

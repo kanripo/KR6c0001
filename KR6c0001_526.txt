@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:00.533354
+#+DATE: 2015-08-30 19:38:01.752333
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_526-0696a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 526
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百二¶
+《大般若波羅蜜多經》卷第五百二¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶

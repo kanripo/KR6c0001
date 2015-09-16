@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:48.706809
+#+DATE: 2015-08-30 19:37:50.320237
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_277-0403a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 277
 ¶
 ¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百七¶
+《大般若波羅蜜多經》卷第二百七¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -66,7 +65,7 @@
 淨，佛十力清淨故大悲清淨。何以故？若一¶
 切智智清淨，若佛十力清淨，若大悲清淨，¶
 無二、無二分、無別、無斷故。一切智智清淨故¶
-四無所畏、四無礙解、大慈、大喜、大捨、十八佛¶
+四無所畏、四無礙解、大慈大悲、大喜、大捨、十八佛¶
 不共法清淨，四無所畏乃至十八佛不共法¶
 清淨故大悲清淨。何以故？若一切智智清淨，
 <pb:KR6c0001_T_277-0403c>¶

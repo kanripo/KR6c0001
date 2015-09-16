@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.259845
+#+DATE: 2015-08-30 19:37:40.682542
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_014-0073b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第十四¶
+《大般若波羅蜜多經》卷第十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之四¶
@@ -1107,7 +1106,7 @@
 可得，性非有故，況有菩薩摩訶薩！此既非有，¶
 如何可言：即緣所生法是菩薩摩訶薩，異緣
 <pb:KR6c0001_T_014-0078a>¶
-所生法是菩薩摩訶薩，緣所生法中有菩薩¶
+所生法是菩薩摩訶薩，異緣所生法中有菩薩¶
 摩訶薩，菩薩摩訶薩中有緣所生法，離緣所¶
 生法有菩薩摩訶薩？」
 

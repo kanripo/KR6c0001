@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.792823
+#+DATE: 2015-08-30 19:38:00.068195
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_494-0510b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 494
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百九¶
+《大般若波羅蜜多經》卷第四百九¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -457,7 +456,7 @@
 「復次，善現！四念住乃至八聖¶
 道支無來、無去亦復不住，四念住乃至八聖
 <pb:KR6c0001_T_494-0514c>¶
-道支本性無來、無去亦復不住，四念住乃¶
+道支本性無去、無來亦復不住，四念住乃¶
 至八聖道支真如無來、無去亦復不住，四念¶
 住乃至八聖道支自性無來、無去亦復不住，¶
 四念住乃至八聖道支自相無來、無去亦復不¶

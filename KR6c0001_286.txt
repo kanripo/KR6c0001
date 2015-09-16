@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:49.077128
+#+DATE: 2015-08-30 19:37:50.680023
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_286-0453b> ¶
 #+PROPERTY: JUAN 286
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百八¶
+《大般若波羅蜜多經》卷第二百八¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -876,7 +875,7 @@
 
 「世尊！¶
 何緣而說我清淨故色界乃至眼觸為緣所生¶
-諸受清淨是畢竟淨？」
+諸受畢竟淨？」
 
 「善現！我無所有故色¶
 界乃至眼觸為緣所生諸受無所有是畢竟¶

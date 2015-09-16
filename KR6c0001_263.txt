@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:48.170537
+#+DATE: 2015-08-30 19:37:49.754249
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_263-0329c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 263
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百六¶
+《大般若波羅蜜多經》卷第二百六¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -187,7 +186,7 @@
 耳觸為緣所生諸受清淨，聲界乃至耳觸為¶
 緣所生諸受清淨故苦聖諦清淨。何以故？若¶
 一切智智清淨，若聲界乃至耳觸為緣所生¶
-諸受清淨，若苦聖諦清淨，無二、無二分、無別、¶
+諸受清淨，若苦聖諦清淨，無無二、無二分、無別、¶
 無斷故。
 
 「善現！一切智智清淨故鼻界清淨，鼻¶

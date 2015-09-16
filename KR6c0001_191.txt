@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:45.414168
+#+DATE: 2015-08-30 19:37:47.077874
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_191-1023b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 191
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百九¶
+《大般若波羅蜜多經》卷第一百九¶
 十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -97,7 +96,7 @@
 
 「善現！命者清淨即五眼清淨，五眼清淨即命¶
 者清淨。何以故？是命者清淨與五眼清淨，無¶
-二、無二分、無別、無斷故。命者清淨即六神通¶
+二、無二分、無別、無斷故。善現命者清淨即六神通¶
 清淨，六神通清淨即命者清淨。何以故？是
 <pb:KR6c0001_T_191-1024b>¶
 命者清淨與六神通清淨，無二、無二分、無別、¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.034552
+#+DATE: 2015-08-30 19:37:41.562024
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_035-0192c> ¶¶¶¶¶
 #+PROPERTY: JUAN 35
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三十五¶
+《大般若波羅蜜多經》卷第三十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之二十五¶
@@ -252,7 +251,7 @@
 <pb:KR6c0001_T_035-0194c>¶
 增語是菩薩摩訶薩？」¶
 
-「復次，善現！汝觀何義言：即獨覺菩提增語非¶
+「復次，善現！汝復觀何義言：即獨覺菩提增語非¶
 菩薩摩訶薩耶？」
 
 具壽善現答言：「世尊！獨覺¶

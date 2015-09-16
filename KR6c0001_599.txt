@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:04.568517
+#+DATE: 2015-08-30 19:38:05.541474
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220o
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220o
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-1065b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_599-1099c> 
 #+PROPERTY: JUAN 599
 ¶
-
- 《大般若波羅蜜多經》卷第五百九¶
+《大般若波羅蜜多經》卷第五百九¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -529,7 +528,7 @@
 
 「善勇猛！
 <pb:KR6c0001_T_599-1104c>¶
-夫顛倒者惑亂有情、施設有情，諸有情類¶
+夫顛倒者惑亂有情、施誑有情，諸有情類¶
 虛妄分別之所顯現，令諸有情妄生恃執、動¶
 轉、戲論。善勇猛！如以空拳誑惑童竪，彼無¶
 知故謂有實物。愚夫異生亦復如是，虛妄顛¶

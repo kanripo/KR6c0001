@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:45.456280
+#+DATE: 2015-08-30 19:37:47.121681
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_192-1028b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 192
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百九¶
+《大般若波羅蜜多經》卷第一百九¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -475,7 +474,7 @@
 
 「善現！補¶
 特伽羅清淨即八解脫清淨，八解脫清淨即¶
-補特伽羅清淨。何以故？是補特伽羅清淨與¶
+補特伽羅清淨。何以故？是補特伽清淨與¶
 八解脫清淨，無二、無二分、無別、無斷故。補特¶
 伽羅清淨即八勝處、九次第定、十遍處清淨，¶
 八勝處、九次第定、十遍處清淨即補特伽羅清¶

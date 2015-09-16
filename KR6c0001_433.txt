@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.767915
+#+DATE: 2015-08-30 19:37:57.165112
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_433-0177a> 
 #+PROPERTY: JUAN 433
 ¶
-
- 《大般若波羅蜜多經》卷第四百三¶
+《大般若波羅蜜多經》卷第四百三¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -110,7 +109,7 @@
 
 「如是一類補特伽羅，不善受持、不善觀察¶
 甚深般若波羅蜜多文句義理，不善讀誦，不¶
-善通達甚深義趣，而告大乘種姓者曰：『來！
+善通達甚深義趣，而告大乘種性者曰：『來！
 <pb:KR6c0001_T_433-0178a>¶
 善男子！汝於過去未來現在一切如來、應、正¶
 等覺，從初發心至得無上正等菩提，轉妙法¶

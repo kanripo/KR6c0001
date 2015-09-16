@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.326174
+#+DATE: 2015-08-30 19:37:45.836038
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_161-0865b> 
 #+PROPERTY: JUAN 161
 ¶
-
- 《大般若波羅蜜多經》卷第一百六¶
+《大般若波羅蜜多經》卷第一百六¶
 十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -144,7 +143,7 @@
 正淨戒波羅蜜多。¶
 
 「復次，憍尸迦！若善男子、善女人等，為發無上¶
-菩提心者宣說淨戒波羅蜜多，作如是言：¶
+菩捨心者宣說淨戒波羅蜜多，作如是言：¶
 『汝善男子應修淨戒波羅蜜多，不應觀空解¶
 脫門若常若無常，不應觀無相、無願解脫門¶
 若常若無常。何以故？空解脫門空解脫門
