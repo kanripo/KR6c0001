@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.462648
+#+DATE: 2015-08-30 19:39:47.162728
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_048-0268b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 48
 ¶
-
- 《大般若波羅蜜多經》卷第四十八¶
+《大般若波羅蜜多經》卷第四十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分摩訶薩品第十三之二¶
@@ -581,7 +580,7 @@
 「復次，舍利子！若菩薩摩訶薩以應一切智智¶
 心，大悲為上首，無所得為方便，智不知過去，
 <pb:KR6c0001_T_048-0273c>¶
-智不知未來，智不知現在，智非不知三世法，¶
+智不知未來，智不知現在，非不知三世法，¶
 以無所得而為方便，與一切有情同共迴向¶
 阿耨多羅三藐三菩提。舍利子！是為菩薩摩¶
 訶薩為欲利樂諸有情故發趣大乘。

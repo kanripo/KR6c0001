@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.466567
+#+DATE: 2015-08-30 19:40:01.337066
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_386-0993c> 
 #+PROPERTY: JUAN 386
 ¶
-
- 《大般若波羅蜜多經》卷第三百八¶
+《大般若波羅蜜多經》卷第三百八¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -326,11 +325,7 @@
 方便善巧說真法界，成熟有情、嚴淨佛土，修¶
 諸菩薩摩訶薩行，證得無上正等菩提。」¶
 
-70不可動品
-:PROPERTIES:
-:head: 初分不可動品第七十之一
-:END:
-¶
+初分不可動品第七十之一¶
 
 爾時，具壽善現白佛言：「世尊！若諸有情及有¶
 情施設皆畢竟不可得者，諸菩薩摩訶薩為¶

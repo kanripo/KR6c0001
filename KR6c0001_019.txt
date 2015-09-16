@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.466303
+#+DATE: 2015-08-30 19:39:45.973640
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_019-0102a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第十九¶
+《大般若波羅蜜多經》卷第十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之九¶

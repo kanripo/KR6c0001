@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.362997
+#+DATE: 2015-08-30 19:39:51.413559
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_162-0871a> ¶¶¶¶¶
 #+PROPERTY: JUAN 162
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百六¶
+《大般若波羅蜜多經》卷第一百六¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -443,8 +442,7 @@
 等可得，何況有彼樂之與苦！汝若能修如是¶
 布施，是修布施波羅蜜多。』
 
-「復作是言：『汝善¶
-男子應修布施波羅蜜多，不應觀鼻界若我¶
+「復作是言：『汝善男子應修布施波羅蜜多，不應觀鼻界若我¶
 若無我，不應觀香界、鼻識界及鼻觸、鼻觸為¶
 緣所生諸受若我若無我。何以故？鼻界鼻界¶
 自性空，香界、鼻識界及鼻觸、鼻觸為緣所生¶

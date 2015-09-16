@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.182435
+#+DATE: 2015-08-30 19:39:51.221852
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_157-0845c> 
 #+PROPERTY: JUAN 157
 ¶
-
- 《大般若波羅蜜多經》卷第一百五¶
+《大般若波羅蜜多經》卷第一百五¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶

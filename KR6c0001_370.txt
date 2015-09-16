@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.786797
+#+DATE: 2015-08-30 19:40:00.539782
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_370-0906a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 370
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百七¶
+《大般若波羅蜜多經》卷第三百七¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -154,7 +153,7 @@
 散；無見與無見、無對與無對、一相與一¶
 相、無相與無相亦非相應非不相應，不合¶
 不散。善現！諸菩薩摩訶薩於此無色、無見、¶
-無對、一相、無相甚深般若波羅蜜多，常應修
+無對、一相、無相甚深般若波羅蜜多，當應修
 <pb:KR6c0001_T_370-0907c>¶
 學，學已不得一切法相。」¶
 

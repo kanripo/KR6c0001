@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:49.902198
+#+DATE: 2015-08-30 19:39:57.443140
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_304-0547b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 304
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百四¶
+《大般若波羅蜜多經》卷第三百四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分魔事品第四十之二¶
@@ -220,7 +219,7 @@
 佛言：「善現！甚深般若¶
 波羅蜜多說聽等時，多有相似般若、靜慮、精¶
 進、安忍、淨戒、布施波羅蜜多魔事留難，菩薩¶
-應覺而遠離之。¶
+當覺而遠離之。¶
 
 「復次，善現！甚深般若波羅蜜多說聽等時，多¶
 有相似內空、外空、內外空、空空、大空、勝義空、有¶

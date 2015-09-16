@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.309047
+#+DATE: 2015-08-30 19:39:48.110516
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_073-0410b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 73
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第七十三¶
+《大般若波羅蜜多經》卷第七十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分觀行品第十九之四¶

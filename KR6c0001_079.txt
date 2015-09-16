@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.497647
+#+DATE: 2015-08-30 19:39:48.335535
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_079-0442a> 
 #+PROPERTY: JUAN 79
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第七十九¶
+《大般若波羅蜜多經》卷第七十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分天帝品第二十二之三¶
@@ -461,8 +460,7 @@
 四無色定若我若無我；不應住四靜慮若淨¶
 若不淨，不應住四無量、四無色定若淨若不¶
 淨；不應住四靜慮若寂靜若不寂靜，不應住¶
-四無量、四無色定若寂靜若不寂靜；不應住¶
-四靜慮若遠離若不遠離，不應住四無量、四¶
+四無量、四無色定若寂靜若不寂靜；不應住四靜慮若遠離若不遠離，不應住四無量、四¶
 無色定若遠離若不遠離；不應住四靜慮若¶
 空若不空，不應住四無量、四無色定若空若¶
 不空；不應住四靜慮若有相若無相，不應¶

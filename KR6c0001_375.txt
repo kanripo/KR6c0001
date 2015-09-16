@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.001946
+#+DATE: 2015-08-30 19:40:00.783062
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_375-0933b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 375
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百七¶
+《大般若波羅蜜多經》卷第三百七¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -445,7 +444,7 @@
 「善現！菩薩摩訶薩修行般若波羅蜜多時，為¶
 欲圓滿三十二大士相故，即於三十二大士¶
 相中，攝受一切布施、淨戒、安忍、精進、靜慮、般¶
-若波羅蜜多而引三十二大士相，攝受一切¶
+若波羅蜜多而修三十二大士相，攝受一切¶
 四靜慮、四無量、四無色定而引三十二大士¶
 相，攝受一切四念住、四正斷、四神足、五根、五¶
 力、七等覺支、八聖道支而引三十二大士相，¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.495028
+#+DATE: 2015-08-30 19:39:47.193581
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_049-0274a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 49
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四十九¶
+《大般若波羅蜜多經》卷第四十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分摩訶薩品第十三之三¶
@@ -336,11 +335,7 @@
 眾聞皆歡喜，咸作是言：『如是菩薩不久當得¶
 一切智智，轉正法輪利安含識。』」¶
 
-14大乘鎧品
-:PROPERTIES:
-:head: 初分大乘鎧品第十四之一
-:END:
-¶
+初分大乘鎧品第十四之一¶
 
 爾時，具壽善現白佛言：「世尊！如說菩薩摩訶¶
 薩擐大乘鎧者，云何名為菩薩摩訶薩擐大¶

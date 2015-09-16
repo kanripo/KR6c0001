@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:45.810223
+#+DATE: 2015-08-30 19:39:52.986278
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_202-0006a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 202
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百二¶
+《大般若波羅蜜多經》卷第二百二¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分難信解品第三十四之二十一¶
@@ -496,7 +495,7 @@
 
 「善現！貪清淨故內空清淨，內空清淨故¶
 一切智智清淨。何以故？若貪清淨，若內空清¶
-淨，若一切智智清淨，無二、無二分、無別、無¶
+淨，若一切智智清淨，無二、無二分、無別無別、無¶
 斷故。貪清淨故外空、內外空、空空、大空、勝義¶
 空、有為空、無為空、畢竟空、無際空、散空、無變異¶
 空、本性空、自相空、共相空、一切法空、不可得¶

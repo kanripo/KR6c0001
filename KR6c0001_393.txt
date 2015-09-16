@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.766025
+#+DATE: 2015-08-30 19:40:01.654594
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6c0001_T_393-1031a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 393
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百九¶
+《大般若波羅蜜多經》卷第三百九¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -108,11 +107,7 @@
 寂滅安樂，或令證得所求無上正等菩提，能¶
 盡未來利益安樂諸有情類常無間斷。」¶
 
-72嚴淨佛土品
-:PROPERTIES:
-:head: 初分嚴淨佛土品第七十二之一
-:END:
-¶
+初分嚴淨佛土品第七十二之一¶
 
 爾時，具壽善現作是念言：「何法名為菩薩摩¶
 訶薩道？諸菩薩摩訶薩安住此道，能擐種種¶
