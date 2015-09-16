@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.558332
+#+DATE: 2015-08-30 19:37:29.711066
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6c0001_T_469-0371b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 469
 ¶
-
- 《大般若波羅蜜多經》卷第四百六¶
+《大般若波羅蜜多經》卷第四百六¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -574,7 +573,7 @@
 如來足跟廣長圓滿，與趺相稱勝餘有情，是¶
 為第六。如來足趺脩高充滿，柔軟妙好與跟¶
 相稱，是為第七。如來雙腨漸次纖圓，如瑿泥¶
-耶仙鹿王腨，是為第八。如來雙臂修直𦟛圓，¶
+耶仙鹿王腨，是為第八。如來雙臂修直[月*庸]圓，¶
 如象王鼻平立摩膝，是為第九。如來陰相勢
 <pb:KR6c0001_T_469-0376c>¶
 峯藏密，其猶龍馬亦如象王，是為第十。如來¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.331453
+#+DATE: 2015-08-30 19:37:30.490181
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6c0001_T_485-0460c> 
 #+PROPERTY: JUAN 485
 ¶
-
- 《大般若波羅蜜多經》卷第四百八¶
+《大般若波羅蜜多經》卷第四百八¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -562,7 +561,7 @@
 蘊以無性為自性，無性自性不可得故。」
 
 佛告¶
-善現：「於意云何？如夢、如響、如光影、如陽焰、如¶
+善現：「於意云何？如夢、如響、如光影、如陽炎、如¶
 鏡像、如變化五蘊，能學般若波羅蜜多，成辦¶
 一切智智不？」
 

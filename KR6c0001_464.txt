@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.306409
+#+DATE: 2015-08-30 19:37:29.384979
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6c0001_T_464-0343b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 464
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百六¶
+《大般若波羅蜜多經》卷第四百六¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-70菩薩行品
-:PROPERTIES:
-:head: 第二分菩薩行品第七十
-:END:
-¶
+第二分菩薩行品第七十¶
 
 爾時，具壽善現白佛言：「世尊！所說菩薩行菩¶
 薩行者，何法名為菩薩行耶？」
@@ -213,11 +208,7 @@
 疾證得一切智智，當勤精進親近諸佛，攝受¶
 圓滿所種善根，承事善友勿生厭倦。」¶
 
-71親近品
-:PROPERTIES:
-:head: 第二分親近品第七十一
-:END:
-¶
+第二分親近品第七十一¶
 
 爾時，具壽善現白佛言：「世尊！若菩薩摩訶薩¶
 不親近諸佛、不圓滿善根、不承事善友，是菩¶
@@ -411,11 +402,7 @@
 果報。若能如是精勤修學甚深般若波羅蜜¶
 多，速能證得一切智智。」¶
 
-72遍學品
-:PROPERTIES:
-:head: 第二分遍學品第七十二之一
-:END:
-¶
+第二分遍學品第七十二之一¶
 
 爾時，具壽善現白佛言：「世尊！諸菩薩摩訶薩¶
 成就如是最勝覺慧，雖能受行清淨深法，而¶

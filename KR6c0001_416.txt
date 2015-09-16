@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.874750
+#+DATE: 2015-08-30 19:37:27.141818
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6c0001_T_416-0085a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 416
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百一¶
+《大般若波羅蜜多經》卷第四百一¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -529,11 +528,7 @@
 地。善現！如是菩薩摩訶薩住第十地趣如來¶
 地。善現！齊此當知菩薩摩訶薩發趣大乘。」¶
 
-19出住品
-:PROPERTIES:
-:head: 第二分出住品第十九之一
-:END:
-¶
+第二分出住品第十九之一¶
 
 「復次，善現！汝問『如是大乘從何處出至何處¶
 住？』者，善現！如是大乘從三界中出，至一切¶

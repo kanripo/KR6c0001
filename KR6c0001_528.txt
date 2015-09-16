@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:00.631831
+#+DATE: 2015-08-30 19:37:32.656382
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6c0001_T_528-0707c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 528
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百二¶
+《大般若波羅蜜多經》卷第五百二¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-28妙相品
-:PROPERTIES:
-:head: 第三分妙相品第二十八之一
-:END:
-¶
+第三分妙相品第二十八之一¶
 
 爾時，善現便白佛言：「住有想者，若無順忍，亦¶
 無修道、得果、現觀，住無想者，豈有順忍？若淨¶

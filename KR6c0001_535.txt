@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:00.990231
+#+DATE: 2015-08-30 19:37:32.994180
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6c0001_T_535-0745c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 535
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百三¶
+《大般若波羅蜜多經》卷第五百三¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -297,11 +296,7 @@
 趣苦，或令證得三乘涅槃，一一如前布施廣¶
 說。」¶
 
-30佛國品
-:PROPERTIES:
-:head: 第三分佛國品第三十之一
-:END:
-¶
+第三分佛國品第三十之一¶
 
 爾時，善現作是念言：「云何菩薩摩訶薩道？諸¶
 菩薩摩訶薩安住其中，被功德鎧利益安樂¶

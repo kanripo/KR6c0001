@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.146644
+#+DATE: 2015-08-30 19:37:31.291589
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6c0001_T_501-0549a> 
 #+PROPERTY: JUAN 501
 ¶
-
- 《大般若波羅蜜多經》卷第五百一¶
+《大般若波羅蜜多經》卷第五百一¶
 ¶
 三藏法師玄奘奉　詔譯¶
 第三分現窣堵波品第五之二¶
