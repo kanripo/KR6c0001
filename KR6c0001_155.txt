@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.116499
+#+DATE: 2015-08-30 19:39:19.217358
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_155-0836a> 
 #+PROPERTY: JUAN 155
 ¶
-
- 《大般若波羅蜜多經》卷第一百五¶
+《大般若波羅蜜多經》卷第一百五¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -121,7 +120,7 @@
 「復作是言：『汝善男子¶
 應修精進波羅蜜多，不應觀一切陀羅尼門¶
 若淨若不淨，不應觀一切三摩地門若淨若¶
-不淨。何以故？一切陀羅尼門一切陀羅尼門¶
+不淨。何以故？一切陀羅尼門一切三摩地門¶
 自性空，一切三摩地門一切三摩地門自性¶
 空；是一切陀羅尼門自性即非自性，是一切¶
 三摩地門自性亦非自性，若非自性即是精¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.872093
+#+DATE: 2015-08-30 19:39:15.054700
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_029-0159b> 
 #+PROPERTY: JUAN 29
 ¶
-
- 《大般若波羅蜜多經》卷第二十九¶
+《大般若波羅蜜多經》卷第二十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之十九¶
@@ -211,7 +210,7 @@
 摩訶薩，即外空乃至無性自性空若可得若¶
 不可得增語是菩薩摩訶薩？」¶
 
-「復次，善現！汝觀何義言：即真如增語非菩薩¶
+「復次，善現！汝復觀何義言：即真如增語非菩薩¶
 摩訶薩，即法界、法性、不虛妄性、不變異性、¶
 平等性、離生性、法定、法住、實際、虛空界、¶
 不思議界增語非菩薩摩訶薩耶？」

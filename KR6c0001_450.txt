@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.535446
+#+DATE: 2015-08-30 19:39:31.430965
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_450-0269b> ¶¶
 #+PROPERTY: JUAN 450
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百五¶
+《大般若波羅蜜多經》卷第四百五¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -97,7 +96,7 @@
 而學，所超生死流轉劫數，與多欲人經一晝¶
 夜所起欲念其數量等。善現！是菩薩摩訶薩¶
 隨依般若波羅蜜多所說義趣思惟修學，隨¶
-能解脫能礙無上正等菩提所有過罪，是¶
+能解脫能破無上正等菩提所有過罪，是¶
 故菩薩依深般若波羅蜜多精勤修學疾證¶
 無上正等菩提。善現！若菩薩摩訶薩如深般¶
 若波羅蜜多所說而住，經一晝夜所獲功德，¶

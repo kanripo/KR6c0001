@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:56.399443
+#+DATE: 2015-08-30 19:39:31.289993
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_447-0253a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 447
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百四¶
+《大般若波羅蜜多經》卷第四百四¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -244,8 +243,8 @@
 解，故說善現從如來生。」¶
 
 當說如是真如相時，於此三千大千世界，諸¶
-山大地六種變動：東踊西沒，西踊東沒，南¶
-踊北沒，北踊南沒，中踊邊沒，邊踊中¶
+山大地六種變動：東涌西沒，西涌東沒，南¶
+涌北沒，北涌南沒，中涌邊沒，邊涌中¶
 沒。爾時，欲界、色界天眾，復以天上旃檀香末、¶
 多揭羅香末、多摩羅香末，及以天上嗢鉢羅¶
 花、鉢特摩花、拘某陀花、奔荼利花，奉散如¶

@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.446067
+#+DATE: 2015-08-30 19:39:27.453456
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_362-0864a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 362
 ¶
 ¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百六¶
+《大般若波羅蜜多經》卷第三百六¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -24,7 +23,7 @@
 時，雖於諸法常樂決擇，而不得色，亦不得受、¶
 想、行、識；不得眼處，亦不得耳、鼻、舌、身、意處；不
 <pb:KR6c0001_T_362-0864b>¶
-得色處，亦不得聲、香、味、觸、法處；不得眼界，¶
+得色處，亦不得身、香、味、觸、法處；不得眼界，¶
 亦不得耳、鼻、舌、身、意界；不得色界，亦不得聲、¶
 香、味、觸、法界；不得眼識界，亦不得耳、鼻、舌、身、¶
 意識界；不得眼觸，亦不得耳、鼻、舌、身、意觸；不¶

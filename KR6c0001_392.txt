@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.726959
+#+DATE: 2015-08-30 19:39:28.749003
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_392-1026a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 392
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百九¶
+《大般若波羅蜜多經》卷第三百九¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -70,7 +69,7 @@
 
 「舍利子！由是因緣，諸菩薩摩訶薩觀一切法¶
 都無實事，無我、我所，皆以無性而為自性，本¶
-性空寂、自相空寂，修行般若波羅蜜多，自立¶
+性空寂、自相空寂，修行般若波羅蜜多，自性¶
 如幻師為有情說法，謂慳貪者為說布施，令¶
 修布施波羅蜜多；若破戒者為說淨戒，令修¶
 淨戒波羅蜜多；若瞋忿者為說安忍，令修安¶

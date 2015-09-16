@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:48.557318
+#+DATE: 2015-08-30 19:39:23.586206
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_273-0381c> 
 #+PROPERTY: JUAN 273
 ¶
-
- 《大般若波羅蜜多經》卷第二百七¶
+《大般若波羅蜜多經》卷第二百七¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -554,7 +553,7 @@
 界清淨故五眼清淨。何以故？若一切智智清¶
 淨，若身界清淨，若五眼清淨，無二、無二分、無¶
 別、無斷故。一切智智清淨故觸界、身識界及¶
-身觸、身觸為緣所生諸受清淨，觸界乃至身¶
+身觸、身觸為緣所生諸受清淨，身界乃至身¶
 觸為緣所生諸受清淨故五眼清淨。何以故？¶
 若一切智智清淨，若觸界乃至身觸為緣所¶
 生諸受清淨，若五眼清淨，無二、無二分、無別、¶

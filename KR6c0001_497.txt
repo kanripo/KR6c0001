@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.933974
+#+DATE: 2015-08-30 19:39:33.691774
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_497-0526c> 
 #+PROPERTY: JUAN 497
 ¶
-
- 《大般若波羅蜜多經》卷第四百九¶
+《大般若波羅蜜多經》卷第四百九¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -577,7 +576,7 @@
 善現答言：¶
 「舍利子！諸菩薩摩訶薩雖如實知一切色相而¶
 無所執，雖如實知一切受、想、行、識相而無所¶
-執；如是乃至雖如實知一切一切智相而無¶
+執；如是乃至雖如實知一切一切相智而無¶
 所執，雖如實知一切道相智、一切相智相而¶
 無所執。」
 

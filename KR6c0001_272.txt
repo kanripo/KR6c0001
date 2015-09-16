@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:48.514895
+#+DATE: 2015-08-30 19:39:23.538395
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_272-0376c> ¶¶¶¶¶
 #+PROPERTY: JUAN 272
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百七¶
+《大般若波羅蜜多經》卷第二百七¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -237,7 +236,7 @@
 「善現！¶
 一切智智清淨故舌界清淨，舌界清淨故無¶
 相解脫門清淨。何以故？若一切智智清淨，若¶
-舌界清淨，若無相解脫門清淨，無二、無二分、¶
+香界清淨，若無相解脫門清淨，無二、無二分、¶
 無別、無斷故。一切智智清淨故味界、舌識界¶
 及舌觸、舌觸為緣所生諸受清淨，味界乃至¶
 舌觸為緣所生諸受清淨故無相解脫門清¶

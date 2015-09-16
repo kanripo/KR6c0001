@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:48.478034
+#+DATE: 2015-08-30 19:39:23.499270
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_271-0371b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 271
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百七¶
+《大般若波羅蜜多經》卷第二百七¶
 十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -273,7 +272,7 @@
 無二、無二分、無別、無斷故。一切智智清淨故¶
 法界、意識界及意觸、意觸為緣所生諸受清¶
 淨，法界乃至意觸為緣所生諸受清淨故八¶
-聖道支清淨。何以故？若一切智智清淨，若¶
+勝道支清淨。何以故？若一切智智清淨，若¶
 法界乃至意觸為緣所生諸受清淨，若八聖¶
 道支清淨，無二、無二分、無別、無斷故。
 

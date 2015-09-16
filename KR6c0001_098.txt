@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:42.116204
+#+DATE: 2015-08-30 19:39:17.309413
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_098-0541c> ¶¶
 #+PROPERTY: JUAN 98
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第九十八¶
+《大般若波羅蜜多經》卷第九十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分求般若品第二十七之十¶
@@ -104,11 +103,7 @@
 <pb:KR6c0001_T_098-0542c>¶
 性求。」¶
 
-28歎眾德品
-:PROPERTIES:
-:head: 初分歎眾德品第二十八之一
-:END:
-¶
+初分歎眾德品第二十八之一¶
 
 時，天帝釋白善現言：「大德！菩薩摩訶薩所行¶
 般若波羅蜜多，是大波羅蜜多，是無量波羅¶

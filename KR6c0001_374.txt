@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.957756
+#+DATE: 2015-08-30 19:39:27.975076
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_374-0927c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 374
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百七¶
+《大般若波羅蜜多經》卷第三百七¶
 十四¶
 ¶
-三藏法師玄奘奉　詔譯¶
+三藏法師玄裝奉　詔譯¶
 初分無相無得品第六十六之二¶
 
 「所住內空，不離般若波羅蜜多，皆為般若波¶
@@ -46,8 +45,8 @@
 不離般若波羅蜜多，皆為般若波羅蜜多之¶
 所攝受；所修道相智、一切相智，不離般若¶
 波羅蜜多，皆為般若波羅蜜多之所攝受。¶
-所引三十二大士相，不離般若波羅蜜多，¶
-皆為般若波羅蜜多之所攝受；所引八十¶
+所修三十二大士相，不離般若波羅蜜多，¶
+皆為般若波羅蜜多之所攝受；所修八十¶
 隨好，不離般若波羅蜜多，皆為般若波羅蜜¶
 多之所攝受。
 

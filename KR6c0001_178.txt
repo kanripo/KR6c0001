@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.909012
+#+DATE: 2015-08-30 19:39:20.011835
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_178-0956a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 178
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百七¶
+《大般若波羅蜜多經》卷第一百七¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -109,8 +108,8 @@
 作大小、不作大小；於五眼若作集散、不作集¶
 散，於六神通若作集散、不作集散；於五眼¶
 若作有量無量、不作有量無量，於六神通若¶
-作有量無量、不作有量無量；於五眼若作廣¶
-狹、不作廣狹，於六神通若作廣狹、不作廣¶
+作有量無量、不作有量無量；於五眼不作廣¶
+狹、若作廣狹，於六神通若作廣狹、不作廣¶
 狹；於五眼若作有力無力、不作有力無力，於¶
 六神通若作有力無力、不作有力無力。』世尊！¶
 如是一切皆非般若波羅蜜多等流果故。¶

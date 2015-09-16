@@ -1,30 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:45.777817
+#+DATE: 2015-08-30 19:39:20.826174
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_201-0001a> 
 #+PROPERTY: JUAN 201
 
-:PROPERTIES:
-:head: No.220
-:END:
+ No. 220¶
+《大般若波羅蜜多經》卷第二百一¶
 ¶
+唐三藏法師玄奘奉　詔譯¶
 
- 《大般若波羅蜜多經》卷第二百一¶
-¶
-三藏法師玄奘奉　詔譯¶
-
-1會
-34難信解品
-:PROPERTIES:
-:head: 初分難信解品第三十四之二十
-:END:
-¶
+初分難信解品第三十四之二十¶
 
 「復次，善現！見者清淨故色清淨，色清淨故一¶
 切智智清淨。何以故？若見者清淨，若色清¶

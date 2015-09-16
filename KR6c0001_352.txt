@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.972022
+#+DATE: 2015-08-30 19:39:26.982427
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_352-0808b> ¶¶¶¶¶
 #+PROPERTY: JUAN 352
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百五¶
+《大般若波羅蜜多經》卷第三百五¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -506,7 +505,7 @@
 「善¶
 現！若時菩薩摩訶薩不思惟預流果，亦不思¶
 惟一來、不還、阿羅漢果，是時菩薩摩訶薩便¶
-能增長所種善根。所種善根得增長故，便能¶
+能增長所種善根。所種善根得增長故，便得¶
 圓滿波羅蜜多。波羅蜜多得圓滿故，便能證¶
 得一切智智。
 

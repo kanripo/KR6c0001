@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:47.288226
+#+DATE: 2015-08-30 19:39:22.335866
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_241-0214c> 
 #+PROPERTY: JUAN 241
 ¶
-
- 《大般若波羅蜜多經》卷第二百四¶
+《大般若波羅蜜多經》卷第二百四¶
 十一¶
 ¶
-三藏法師玄奘奉　詔譯¶
+唐三藏法師玄奘奉　詔譯¶
 初分難信解品第三十四之六十¶
 
 「善現！一切三摩地門清淨故耳界清淨，耳界¶
@@ -430,7 +429,7 @@
 解脫清淨，八解脫清淨故一切智智清淨。何¶
 以故？若預流果清淨，若八解脫清淨，若一切¶
 智智清淨，無二、無二分、無別、無斷故。預流果¶
-清淨故八勝處、九次第定、十遍處清淨，八勝¶
+清淨故入勝處、九次第定、十遍處清淨，八勝¶
 處、九次第定、十遍處清淨故一切智智清淨。¶
 何以故？若預流果清淨，若八勝處、九次第定、¶
 十遍處清淨，若一切智智清淨，無二、無二分、¶

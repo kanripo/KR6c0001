@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:47.327205
+#+DATE: 2015-08-30 19:39:22.376350
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_242-0219c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 242
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百四¶
+《大般若波羅蜜多經》卷第二百四¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -285,7 +284,7 @@
 若不還果清淨，若眼界清淨，若一切智智清¶
 淨，無二、無二分、無別、無斷故。不還果清淨故¶
 色界、眼識界及眼觸、眼觸為緣所生諸受清¶
-淨，色界乃至眼觸為緣所生諸受清淨故一¶
+淨，色界乃至眼觸為緣所生諸受諸淨故一¶
 切智智清淨。何以故？若不還果清淨，若色界¶
 乃至眼觸為緣所生諸受清淨，若一切智智¶
 清淨，無二、無二分、無別、無斷故。

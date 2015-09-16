@@ -1,23 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:43.555754
+#+DATE: 2015-08-30 19:39:18.765683
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_141-0763a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 141
 ¶
 ¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百四¶
+《大般若波羅蜜多經》卷第一百四¶
 十一¶
 ¶
-三藏法師玄奘奉　詔譯¶
+唐三藏法師玄奘奉　詔譯¶
 初分挍量功德品第三十之三十九¶
 
 時，天帝釋復白佛言：「世尊！云何諸善男子、善¶

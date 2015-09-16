@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:42.438347
+#+DATE: 2015-08-30 19:39:17.666319
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_108-0594c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 108
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百八¶
+《大般若波羅蜜多經》卷第一百八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分校量功德品第三十之六¶
@@ -77,7 +76,7 @@
 「慶喜當知！¶
 以耳界無二為方便、無生為方便、無所得為¶
 方便，迴向一切智智，修習四念住、四正斷、四¶
-神足、五根、五力、七等覺支、八聖道支；以聲界、¶
+神足、五根、五力、七等覺支、八勝道支；以聲界、¶
 耳識界及耳觸、耳觸為緣所生諸受無二為方¶
 便、無生為方便、無所得為方便，迴向一切¶
 智智，修習四念住、四正斷、四神足、五根、五力、七¶

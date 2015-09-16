@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:43.685265
+#+DATE: 2015-08-30 19:39:18.886204
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_145-0783b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 145
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百四¶
+《大般若波羅蜜多經》卷第一百四¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -518,7 +517,7 @@
 得菩薩無生法忍；既得菩薩無生法忍，便得¶
 菩薩不退神通；既得菩薩不退神通，能歷十¶
 方一切佛土，從一佛國至一佛國供養恭敬、¶
-尊重讚歎一切如來、應、正等覺，由此速疾證¶
+尊重讚歎一切如來、應、正等覺，由地速疾證¶
 得無上正等菩提。』憍尸迦！是善男子、善女人¶
 等以有相為方便、有所得為方便及時分¶
 想，教他修學般若、靜慮、精進、安忍、淨戒、布施¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.162333
+#+DATE: 2015-08-30 19:39:30.131389
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_422-0118b> 
 #+PROPERTY: JUAN 422
 ¶
-
- 《大般若波羅蜜多經》卷第四百二¶
+《大般若波羅蜜多經》卷第四百二¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -148,7 +147,7 @@
 一切時求菩薩摩訶薩都無所有亦不可得。¶
 何以故？自性空故。舍利子！由此因緣，我作¶
 是說：我於是等一切法，以一切種、一切處、一¶
-切時，求諸菩薩摩訶薩都無所有竟不可得，¶
+切時，求諸菩薩摩訶薩都無所見竟不可得，¶
 云何令我以般若波羅蜜多教誡、教授諸菩
 <pb:KR6c0001_T_422-0119c>¶
 薩摩訶薩？¶

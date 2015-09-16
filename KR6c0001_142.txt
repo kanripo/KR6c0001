@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:43.581775
+#+DATE: 2015-08-30 19:39:18.796927
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_142-0768a> ¶¶¶
 #+PROPERTY: JUAN 142
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百四¶
+《大般若波羅蜜多經》卷第一百四¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -127,7 +126,7 @@
 求五眼若我若無我，求六神通若我若無我；¶
 求五眼若淨若不淨，求六神通若淨若不淨。¶
 依此等法行安忍者，我說名為行有所得相¶
-似安忍波羅蜜多。憍尸迦！如前所說，當知皆¶
+似安忍波羅蜜多。憍尸迦！如是所說，當知皆¶
 是說有所得相似安忍波羅蜜多。¶
 
 「復次，憍尸迦！若善男子、善女人等為發無上¶

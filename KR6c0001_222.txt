@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:46.559801
+#+DATE: 2015-08-30 19:39:21.633393
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_222-0112a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 222
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百二¶
+《大般若波羅蜜多經》卷第二百二¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -421,7 +420,7 @@
 空清淨，若一切智智清淨，無二、無二分、無別、¶
 無斷故。不思議界清淨故外空、內外空、空空、大¶
 空、勝義空、有為空、無為空、畢竟空、無際空、散空、¶
-無變異空、本性空、自相空、共相空、一切法空、¶
+無變異空、本性空、自姓空、共相空、一切法空、¶
 不可得空、無性空、自性空、無性自性空清淨，¶
 外空乃至無性自性空清淨故一切智智清¶
 淨。何以故？若不思議界清淨，若外空乃至¶

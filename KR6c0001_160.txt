@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.289293
+#+DATE: 2015-08-30 19:39:19.374345
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_160-0860c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 160
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百六¶
+《大般若波羅蜜多經》卷第一百六¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -313,7 +312,7 @@
 變異性、平等性、離生性、法定、法住、實際、虛空界、¶
 不思議界法界乃至不思議界自性空；是真¶
 如自性即非自性，是法界乃至不思議界自¶
-性亦非自性，若非自性即是淨戒波羅蜜多。¶
+性亦非自性，若非自性即是淨界波羅蜜多。¶
 於此淨戒波羅蜜多，真如不可得，彼樂與苦¶
 亦不可得；法界乃至不思議界皆不可得，彼¶
 樂與苦亦不可得。所以者何？此中尚無真如¶

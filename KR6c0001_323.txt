@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.700965
+#+DATE: 2015-08-30 19:39:25.622150
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_323-0648b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 323
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百二¶
+《大般若波羅蜜多經》卷第三百二¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -49,7 +48,7 @@
 惱。』舍利子！於汝意云何？是鳥所願可得遂不？」¶
 
 舍利子言：「不也！世尊！是鳥至此贍部洲時，其¶
-身決定有損有惱，或致命終或近死苦。何以¶
+身決定有損有惱，或至命終或近死苦。何以¶
 故？世尊！是鳥身大從遠而墮，無有翅故。」
 
 佛言：¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.799656
+#+DATE: 2015-08-30 19:39:26.796591
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_348-0786c> 
 #+PROPERTY: JUAN 348
 ¶
-
- 《大般若波羅蜜多經》卷第三百四¶
+《大般若波羅蜜多經》卷第三百四¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -289,7 +288,7 @@
 靜若不寂靜、若遠離若不遠離。
 
 「若時菩薩摩¶
-訶薩行深般若波羅蜜多，是時菩薩摩訶薩¶
+訶薩若深般若波羅蜜多，是時菩薩摩訶薩¶
 不見八解脫若常若無常、若樂若苦、若我若無
 <pb:KR6c0001_T_348-0789a>¶
 我、若淨若不淨、若寂靜若不寂靜、若遠離若不¶

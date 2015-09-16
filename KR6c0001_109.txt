@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:42.481048
+#+DATE: 2015-08-30 19:39:17.701584
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_109-0599c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 109
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百九¶
+《大般若波羅蜜多經》卷第一百九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分校量功德品第三十之七¶

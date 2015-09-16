@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.824346
+#+DATE: 2015-08-30 19:39:27.850565
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_371-0911b> 
 #+PROPERTY: JUAN 371
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百七¶
+《大般若波羅蜜多經》卷第三百七¶
 十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -376,7 +375,7 @@
 
 「善現！菩薩摩訶薩行深般若波羅蜜多時，¶
 若念有預流果有遣此修，非修般若波羅蜜¶
-多；若念有一來、不還、阿羅漢果、獨覺菩提有¶
+多；若念念一來、不還、阿羅漢果、獨覺菩提有¶
 遣此修，非修般若波羅蜜多。何以故？善現！¶
 非有想者能修般若波羅蜜多。是故，善現！若¶
 菩薩摩訶薩修遣預流果亦遣此修，是修般¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:48.330297
+#+DATE: 2015-08-30 19:39:23.338185
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_267-0350c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 267
 ¶
-
- 《大般若波羅蜜多經》卷第二百六¶
+《大般若波羅蜜多經》卷第二百六¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -511,7 +510,7 @@
 清淨故無忘失法清淨，無忘失法清淨故九¶
 次第定清淨。何以故？若一切智智清淨，若無¶
 忘失法清淨，若九次第定清淨，無二、無二分、¶
-無別、無斷故。一切智智清淨故恒住捨性清¶
+無別、無斷故善現。一切智智清淨故恒住捨性清¶
 淨，恒住捨性清淨故九次第定清淨。何以¶
 故？若一切智智清淨，若恒住捨性清淨，若九¶
 次第定清淨，無二、無二分、無別、無斷故。

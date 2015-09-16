@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:38.874747
+#+DATE: 2015-08-30 19:39:14.128491
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_005-0022c> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《大般若波羅蜜多經》卷第五¶
+《大般若波羅蜜多經》卷第五¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分相應品第三之二¶
@@ -86,7 +85,7 @@
 有情、命者、生者、養者、士夫、補特伽羅、意生、儒童、¶
 作者、使作者、起者、使起者、受者、使受者、知者、見¶
 者若相應若不相應。舍利子！由是因緣，應知¶
-諸菩薩摩訶薩修行般若波羅蜜多，當言與¶
+諸菩薩摩訶薩修行般若波羅蜜多故，當言與¶
 般若波羅蜜多相應。¶
 
 「復次，舍利子！諸菩薩摩訶薩修行般若波羅¶

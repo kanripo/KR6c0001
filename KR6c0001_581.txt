@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:03.531541
+#+DATE: 2015-08-30 19:39:38.096369
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220j
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220j
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-0991b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_581-1003a> 
 #+PROPERTY: JUAN 581
 ¶
-
- 《大般若波羅蜜多經》卷第五百八¶
+《大般若波羅蜜多經》卷第五百八¶
 十一¶
 ¶
-三藏法師玄奘奉　詔譯¶
+唐三藏法師玄奘奉　詔譯¶
 第十一布施波羅蜜多分之三¶
 
 爾時，滿慈子白佛言：「世尊！若一切法皆非實¶
@@ -335,7 +334,7 @@
 倍亦復為勝。」¶
 
 時，舍利子及諸大眾承佛神力，復見東方百¶
-千殑伽沙數世界，一一世界無量菩薩，各捨¶
+千殑伽沙數世界，一一世界無量菩薩，各施¶
 所有布施一切，積珍寶聚其量如山，隨諸有¶
 情所須皆施，勸有情類自受用已復轉施他，¶
 心無所礙，如是行施無所染著，晝夜精勤常¶

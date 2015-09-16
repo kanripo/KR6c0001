@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:45.492202
+#+DATE: 2015-08-30 19:39:20.520554
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_193-1033b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 193
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百九¶
+《大般若波羅蜜多經》卷第一百九¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -120,7 +119,7 @@
 斷故。意生清淨即淨戒、安忍、精進、靜慮、般若¶
 波羅蜜多清淨，淨戒乃至般若波羅蜜多清¶
 淨即意生清淨。何以故？是意生清淨與淨戒¶
-乃至般若波羅蜜多清淨，無二、無二分、無別、¶
+乃若般若波羅蜜多清淨，無二、無二分、無別、¶
 無斷故。
 
 「善現！意生清淨即內空清淨，內空¶

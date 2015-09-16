@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:47.454021
+#+DATE: 2015-08-30 19:39:22.505827
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_245-0235c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 245
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百四¶
+《大般若波羅蜜多經》卷第二百四¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -52,7 +51,7 @@
 
 「善現！一切智智清淨故布施波羅蜜多清淨，¶
 布施波羅蜜多清淨故般若波羅蜜多清淨。¶
-何以故？若一切智智清淨，若布施波羅蜜多¶
+何以故？若一切智智清淨，故布施波羅蜜多¶
 清淨，若般若波羅蜜多清淨，無二、無二分、無¶
 別、無斷故。一切智智清淨故淨戒、安忍、精進、靜¶
 慮波羅蜜多清淨，淨戒乃至靜慮波羅蜜多清¶

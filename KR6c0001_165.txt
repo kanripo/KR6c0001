@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.495720
+#+DATE: 2015-08-30 19:39:19.550995
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_165-0886b> 
 #+PROPERTY: JUAN 165
 ¶
-
- 《大般若波羅蜜多經》卷第一百六¶
+《大般若波羅蜜多經》卷第一百六¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -242,7 +241,7 @@
 可入、可得、可證、可受持等所獲功德及可隨喜¶
 迴向菩提。所以者何？以一切法自性皆空都¶
 無所有，若無所有即是般若乃至布施波羅¶
-蜜多。於此般若乃至布施波羅蜜多，竟無少¶
+蜜多。於此般若乃至布施波羅蜜多，畢竟無少¶
 法有入有出、有生有滅、有斷有常、有一有異、有¶
 來有去而可得者。』
 

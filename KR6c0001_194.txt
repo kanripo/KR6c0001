@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:45.524426
+#+DATE: 2015-08-30 19:39:20.558762
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_194-1038a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 194
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百九¶
+《大般若波羅蜜多經》卷第一百九¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -452,7 +451,7 @@
 「善現！知者¶
 清淨即眼界清淨，眼界清淨即知者清淨。何¶
 以故？是知者清淨與眼界清淨，無二、無二分、¶
-無別、無斷故。知者清淨即色界、眼識界及眼¶
+無別、無斷故。知者清淨與色界、眼識界及眼¶
 觸、眼觸為緣所生諸受清淨，色界乃至眼觸¶
 為緣所生諸受清淨即知者清淨。何以故？是¶
 知者清淨與色界乃至眼觸為緣所生諸受清¶

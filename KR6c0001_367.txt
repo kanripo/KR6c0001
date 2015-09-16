@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.663864
+#+DATE: 2015-08-30 19:39:27.686515
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_367-0890b> 
 #+PROPERTY: JUAN 367
 ¶
-
- 《大般若波羅蜜多經》卷第三百六¶
+《大般若波羅蜜多經》卷第三百六¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -438,7 +437,7 @@
 薩摩訶薩觀無忘失法若常若無常是為戲¶
 論，觀恒住捨性若常若無常是為戲論；觀¶
 無忘失法若樂若苦是為戲論，觀恒住捨性¶
-若樂若苦是為戲論；觀無忘失法若我若無¶
+若樂若苦是為戲論；觀恒住捨性若我若無¶
 我是為戲論，觀恒住捨性若我若無我是為¶
 戲論；觀無忘失法若淨若不淨是為戲論，觀
 <pb:KR6c0001_T_367-0894b>¶

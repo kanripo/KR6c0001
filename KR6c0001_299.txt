@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:49.699760
+#+DATE: 2015-08-30 19:39:24.626026
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_299-0519c> 
 #+PROPERTY: JUAN 299
 ¶
-
- 《大般若波羅蜜多經》卷第二百九¶
+《大般若波羅蜜多經》卷第二百九¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -518,7 +517,7 @@
 
 爾時，舍利子白佛言：「世尊！如是般若波羅¶
 蜜多既最甚深，難測無量難可信解，不應在¶
-彼新學大乘菩薩前說，勿彼聞此甚深般若¶
+彼新學大乘菩薩前說，忽彼聞此甚深般若¶
 波羅蜜多，其心驚惶、恐怖、疑惑，不能信解。但
 <pb:KR6c0001_T_299-0524a>¶
 應在彼不退轉位菩薩前說，彼聞如是甚深¶

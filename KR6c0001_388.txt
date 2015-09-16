@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.552185
+#+DATE: 2015-08-30 19:39:28.578742
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_388-1004a> 
 #+PROPERTY: JUAN 388
 ¶
-
- 《大般若波羅蜜多經》卷第三百八¶
+《大般若波羅蜜多經》卷第三百八¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -433,7 +432,7 @@
 「復次，善現！若色異本性空，本性空異色，色非¶
 本性空，本性空非色；受、想、行、識異本性空，本¶
 性空異受、想、行、識，受、想、行、識非本性空，本性¶
-空非受、想、行、識。
+本非受、想、行、識。
 
 「善現！若眼處異本性空，本¶
 性空異眼處，眼處非本性空，本性空非眼¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.712345
+#+DATE: 2015-08-30 19:39:15.927854
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_055-0309b> 
 #+PROPERTY: JUAN 55
 ¶
-
- 《大般若波羅蜜多經》卷第五十五¶
+《大般若波羅蜜多經》卷第五十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分辯大乘品第十五之五¶
@@ -121,7 +120,7 @@
 <pb:KR6c0001_T_055-0310b>¶
 者何？聲界乃至耳觸為緣所生諸受不能從¶
 三界中出，亦不能至一切智智中住。何以故？¶
-聲界聲界自性空，乃至耳觸為緣所生諸受¶
+善現聲界聲界自性空，乃至耳觸為緣所生諸受¶
 耳觸為緣所生諸受自性空故。
 
 「善現！其有欲¶

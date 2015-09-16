@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:49.160604
+#+DATE: 2015-08-30 19:39:24.171669
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0001_T_288-0463b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 288
 ¶
-
- 《大般若波羅蜜多經》卷第二百八¶
+《大般若波羅蜜多經》卷第二百八¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
-初分著不著相品第三十六之二¶
+初分著不著相品三十六之二¶
 
 「復次，舍利子！住菩薩乘諸善男子、善女人等，¶
 若以有所得為方便，從初發心於布施波羅¶
