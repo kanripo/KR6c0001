@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.020583
+#+DATE: 2015-08-30 19:38:55.497762
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_353-0814b> 
 #+PROPERTY: JUAN 353
 ¶
-
- 《大般若波羅蜜多經》卷第三百五¶
+《大般若波羅蜜多經》卷第三百五¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -527,7 +526,7 @@
 
 「世尊！何緣菩薩摩¶
 訶薩精勤修學甚深般若波羅蜜多，不應住真¶
-如，亦不應住法界、法性、不虛妄性、不變異性、¶
+如，亦不應住法界、性、不虛妄性、不變異性、¶
 平等性、離生性、法定、法住、實際、虛空界、不思議
 <pb:KR6c0001_T_353-0818c>¶
 界？

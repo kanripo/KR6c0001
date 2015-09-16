@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.859102
+#+DATE: 2015-08-30 19:38:45.511551
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_090-0499b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 90
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第九十¶
+《大般若波羅蜜多經》卷第九十¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分求般若品第二十七之二¶
@@ -224,7 +223,7 @@
 得；非意界中如來法性可得，非如來法性中¶
 意界可得，非法界乃至意觸為緣所生諸受¶
 中如來法性可得，非如來法性中法界乃至¶
-意觸為緣所生諸受可得；非意界真如界如¶
+意觸為緣所生諸受可得；非意界真如中如¶
 來真如可得，非如來真如中意界真如可得，非¶
 法界乃至意觸為緣所生諸受真如中如來¶
 真如可得，非如來真如中法界乃至意觸為

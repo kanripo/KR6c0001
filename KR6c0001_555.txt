@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:02.148079
+#+DATE: 2015-08-30 19:39:05.214392
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_555-0859c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 555
 ¶
-
- 《大般若波羅蜜多經》卷第五百五¶
+《大般若波羅蜜多經》卷第五百五¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-29隨順品
-:PROPERTIES:
-:head: 第四分隨順品第二十九
-:END:
-¶
+第四分隨順品第二十九¶
 
 「復次，善現！諸菩薩摩訶薩應觀諸法不和合¶
 故，隨順般若波羅蜜多；應觀諸法無分別故，¶
@@ -537,7 +532,7 @@
 名色、六處、觸、受、愛、取、有、生、老死愁歎苦憂惱無¶
 動。
 
-「復次，善現！色蘊如師子吼，受、想、行、識蘊¶
+「復次，善現！色蘊如師子吼，受、意、行、識蘊¶
 如師子吼；眼處如師子吼，耳、鼻、舌、身、意處如¶
 師子吼；色處如師子吼，聲、香、味、觸、法處如師¶
 子吼；眼界如師子吼，耳、鼻、舌、身、意界如師子¶

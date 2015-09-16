@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.415926
+#+DATE: 2015-08-30 19:38:57.899408
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_407-0034b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 407
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百七¶
+《大般若波羅蜜多經》卷第四百七¶
 ¶
 三藏法師玄奘奉　詔譯¶
 第二分善現品第六之二¶

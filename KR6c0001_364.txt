@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.539322
+#+DATE: 2015-08-30 19:38:55.995775
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_364-0875a> 
 #+PROPERTY: JUAN 364
 ¶
-
- 《大般若波羅蜜多經》卷第三百六¶
+《大般若波羅蜜多經》卷第三百六¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -161,7 +160,7 @@
 
 「善現！¶
 置中千界一切有情皆趣聲聞或獨覺地所獲¶
-福聚。假使充滿大千世界一切有情皆趣聲¶
+福聚。假使充滿三千大千世界一切有情皆趣聲¶
 聞或獨覺地，於意云何？是諸有情其福多不？」¶
 
 善現答言：「甚多！世尊！甚多！善逝！彼所獲福無¶
@@ -654,7 +653,7 @@
 「世尊！何緣初眼、第二、第三、第四、第五眼¶
 自性無？」
 
-「善現！初眼、第二、第三、第四、第五眼¶
+「善現！初眼、第二、第三、第四、五眼¶
 無和合自性故，若法無和合自性，是法則以¶
 無性為性。」
 

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:45.599105
+#+DATE: 2015-08-30 19:38:49.131811
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_196-1048c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 196
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百九¶
+《大般若波羅蜜多經》卷第一百九¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -589,7 +588,7 @@
 二、無二分、無別、無斷故。生者清淨故法界、意¶
 識界及意觸、意觸為緣所生諸受清淨，法界¶
 乃至意觸為緣所生諸受清淨故，一切智智清¶
-淨。何以故？若生者清淨，若法界乃至意觸¶
+淨。何以故？若生者清，若法界乃至意觸¶
 為緣所生諸受清淨，若一切智智清淨，無二、¶
 無二分、無別、無斷故。
 

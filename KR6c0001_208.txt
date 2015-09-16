@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:46.027486
+#+DATE: 2015-08-30 19:38:49.580034
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_208-0037b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 208
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百八¶
+《大般若波羅蜜多經》卷第二百八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分難信解品第三十四之二十七¶
@@ -611,5 +610,5 @@
 淨。何以故？若內外空清淨，若香界乃至鼻觸¶
 為緣所生諸受清淨，若一切智智清淨，無二、¶
 無二分、無別、無斷故。¶
-《大般若波羅蜜多經》卷第二百八¶
+《大般若經》卷第二百八¶
 

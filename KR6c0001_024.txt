@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.732596
+#+DATE: 2015-08-30 19:38:43.325239
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_024-0131b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二十四¶
+《大般若波羅蜜多經》卷第二十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之十四¶
@@ -555,7 +554,7 @@
 語是菩薩摩訶薩，即聲、香、味、觸、法處若可得¶
 若不可得增語是菩薩摩訶薩？」
 
-「復次，善現！汝¶
+「復次，善現！汝復¶
 觀何義言：即眼界增語非菩薩摩訶薩，即耳、¶
 鼻、舌、身、意界增語非菩薩摩訶薩耶？」
 

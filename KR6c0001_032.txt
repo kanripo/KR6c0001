@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.952220
+#+DATE: 2015-08-30 19:38:43.584938
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_032-0176a> 
 #+PROPERTY: JUAN 32
 ¶
-
- 《大般若波羅蜜多經》卷第三十二¶
+《大般若波羅蜜多經》卷第三十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之二十二¶
@@ -96,7 +95,7 @@
 訶薩，即三摩地門若可得若不可得增語是¶
 菩薩摩訶薩？¶
 
-「復次，善現！汝復觀何義言：即極喜地增語非¶
+「復次，善現！汝觀何義言：即極喜地增語非¶
 菩薩摩訶薩，即離垢地、發光地、焰慧地、極¶
 難勝地、現前地、遠行地、不動地、善慧地、法¶
 雲地增語非菩薩摩訶薩耶？」

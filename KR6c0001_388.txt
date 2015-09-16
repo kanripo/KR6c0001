@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.552185
+#+DATE: 2015-08-30 19:38:57.037796
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_388-1004a> 
 #+PROPERTY: JUAN 388
 ¶
-
- 《大般若波羅蜜多經》卷第三百八¶
+《大般若波羅蜜多經》卷第三百八¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -269,7 +268,7 @@
 「善現！眼觸為緣¶
 所生諸受不異本性空，本性空不異眼觸為緣¶
 所生諸受，眼觸為緣所生諸受即是本性空，¶
-本性空即是眼觸為緣所生諸受；耳、鼻、舌、身、¶
+本性即是眼觸為緣所生諸受；耳、鼻、舌、身、¶
 意觸為緣所生諸受不異本性空，本性空不¶
 異耳、鼻、舌、身、意觸為緣所生諸受，耳、鼻、舌、身、¶
 意觸為緣所生諸受即是本性空，本性空即¶

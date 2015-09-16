@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.373413
+#+DATE: 2015-08-30 19:38:42.950969
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_017-0090c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第十七¶
+《大般若波羅蜜多經》卷第十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之七¶
@@ -547,7 +546,7 @@
 「不也！世¶
 尊！」
 
-「即受、想、行、識雜染增語是菩薩摩訶薩不？」¶
+「即色受、想、行、識雜染增語是菩薩摩訶薩不？」¶
 
 「不也！世尊！」
 
@@ -631,7 +630,7 @@
 「不也！¶
 世尊！」¶
 
-「復次，善現！所言菩薩摩訶薩者，於意云何？即¶
+「復次，善現！白言菩薩摩訶薩者，於意云何？即¶
 眼處增語是菩薩摩訶薩不？」
 
 「不也！世尊！」

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:43.656356
+#+DATE: 2015-08-30 19:38:47.314456
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_144-0778b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 144
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百四¶
+《大般若波羅蜜多經》卷第一百四¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -480,7 +479,7 @@
 切法空、不可得空、無性空、自性空、無性自性空¶
 若常若無常；說內空若樂若苦，說外空、內外¶
 空、空空、大空、勝義空、有為空、無為空、畢竟空、無¶
-際空、散空、無變異空、本性空、自相空、共相空、一¶
+際空、散異空、本性空、自相空、共相空、一¶
 切法空、不可得空、無性空、自性空、無性自性¶
 空若樂若苦；說內空若我若無我，說外空、內¶
 外空、空空、大空、勝義空、有為空、無為空、畢竟空、¶

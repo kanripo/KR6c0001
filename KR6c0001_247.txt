@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:47.532187
+#+DATE: 2015-08-30 19:38:51.093679
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_247-0246a> 
 #+PROPERTY: JUAN 247
 ¶
-
- 《大般若波羅蜜多經》卷第二百四¶
+《大般若波羅蜜多經》卷第二百四¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -303,7 +302,7 @@
 一切智智清淨，若眼處清淨，若布施波羅蜜
 <pb:KR6c0001_T_247-0248c>¶
 多清淨，無二、無二分、無別、無斷故。一切智智¶
-清淨故耳、鼻、舌、身、意處清淨，耳、鼻、舌、身、意處¶
+清故耳、鼻、舌、身、意處清淨，耳、鼻、舌、身、意處¶
 清淨故布施波羅蜜多清淨。何以故？若一切¶
 智智清淨，若耳、鼻、舌、身、意處清淨，若布施波¶
 羅蜜多清淨，無二、無二分、無別、無斷故。

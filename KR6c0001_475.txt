@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.846427
+#+DATE: 2015-08-30 19:39:01.134061
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_475-0404a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 475
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百七¶
+《大般若波羅蜜多經》卷第四百七¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -323,7 +322,7 @@
 於法都無所取。
 
 「善現！諸菩薩摩訶薩常應如¶
-是修行布施波羅蜜多，謂於有情都無所顧，¶
+是修行布施波羅蜜多，謂於有情都無所願，¶
 乃至能施自身骨肉，況不能捨諸外資具！謂¶
 諸資具攝受有情，令速解脫生老病死。」
 

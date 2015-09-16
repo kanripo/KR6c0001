@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.926070
+#+DATE: 2015-08-30 19:38:54.381288
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_328-0677b> ¶¶¶¶
 #+PROPERTY: JUAN 328
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百二¶
+《大般若波羅蜜多經》卷第三百二¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-50巧方便品
-:PROPERTIES:
-:head: 初分巧方便品第五十之一
-:END:
-¶
+初分巧方便品第五十之一¶
 
 爾時，具壽善現白佛言：「世尊！是不退轉位菩¶
 薩摩訶薩成就廣大勝功德聚。
@@ -80,7 +75,7 @@
 
 佛言：「善現！善哉！善哉！汝今乃¶
 能為諸菩薩問甚深處，令諸菩薩安住其中，¶
-修住功德令速圓滿。善現！甚深處者，謂空、¶
+修行功德令速圓滿。善現！甚深處者，謂空、¶
 無相、無願、無作、無生、無滅、寂靜、涅槃、真如、法¶
 界、法性、實際，如是等法名甚深處。善現！如是
 <pb:KR6c0001_T_328-0678a>¶

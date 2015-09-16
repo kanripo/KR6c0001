@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:45.120494
+#+DATE: 2015-08-30 19:38:48.694940
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_183-0984a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 183
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百八¶
+《大般若波羅蜜多經》卷第一百八¶
 十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -87,7 +86,7 @@
 
 「佛¶
 十力中際非縛非解。何以故？佛十力中際無¶
-所有性，為佛十力中際自性故。四無所畏、四¶
+所有性，故佛十力中際自性故。四無所畏、四¶
 無礙解、大慈、大悲、大喜、大捨、十八佛不共法中¶
 際非縛非解。何以故？四無所畏乃至十八佛¶
 不共法中際無所有性，為四無所畏乃至十¶

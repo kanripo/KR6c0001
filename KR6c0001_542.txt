@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:01.370390
+#+DATE: 2015-08-30 19:39:04.518928
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_542-0785b> ¶¶¶
 #+PROPERTY: JUAN 542
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百四¶
+《大般若波羅蜜多經》卷第五百四¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -633,7 +632,7 @@
 子、善女人等所獲福聚，甚多於前無量無邊¶
 不可稱數。」
 
-時，天帝釋便白佛言：「如如菩薩摩¶
+時，天帝釋便白佛言：「如菩薩摩¶
 訶薩轉近無上正等菩提，如是如是應以般¶
 若波羅蜜多甚深義趣教授、教誡，令善通達諸¶
 法真如；應以上妙衣服、飲食、臥具、醫藥及餘¶

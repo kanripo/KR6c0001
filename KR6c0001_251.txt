@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:47.692041
+#+DATE: 2015-08-30 19:38:51.253280
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_251-0267a> 
 #+PROPERTY: JUAN 251
 ¶
-
- 《大般若波羅蜜多經》卷第二百五¶
+《大般若波羅蜜多經》卷第二百五¶
 十一¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -52,7 +51,7 @@
 若一切智智清淨，若內空清淨，若有為空清¶
 淨，無二、無二分、無別、無斷故。一切智智清淨¶
 故外空、內外空、空空、大空、勝義空、無為空、畢竟¶
-空、無際空、散空、無變異空、本性空、自相空、共¶
+空、無際空、散空、無變異空、本性空、自相空、若¶
 相空、一切法空、不可得空、無性空、自性空、無性¶
 自性空清淨，外空乃至無性自性空清淨故¶
 有為空清淨。何以故？若一切智智清淨，若外¶

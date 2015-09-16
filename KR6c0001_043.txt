@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.305339
+#+DATE: 2015-08-30 19:38:43.942432
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_043-0239b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 43
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四十三¶
+《大般若波羅蜜多經》卷第四十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分譬喻品第十一之二¶
@@ -280,7 +279,7 @@
 般若波羅蜜多，其心不驚不恐不怖。
 <pb:KR6c0001_T_043-0242b>¶
 
-「復次，善現！諸菩薩摩訶薩善友者，謂若能以¶
+「復次，善現！說菩薩摩訶薩善友者，謂若能以¶
 無所得為方便，說眼處常無常相不可得，說¶
 耳、鼻、舌、身、意處常無常相不可得；說眼處樂¶
 苦相不可得，說耳、鼻、舌、身、意處樂苦相不可¶

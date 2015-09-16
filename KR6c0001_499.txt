@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.041015
+#+DATE: 2015-08-30 19:39:02.344313
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_499-0537b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 499
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百九¶
+《大般若波羅蜜多經》卷第四百九¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -400,7 +399,7 @@
 蜜多相應義中，說者、聽者及能解者皆不可¶
 得。
 
-「天子當知！由是因緣，我甞於此甚深般若¶
+「天子當知！由是因緣，我當於此甚深般若¶
 波羅蜜多相應義中不說一字，汝亦不聞，當¶
 何所解？」
 

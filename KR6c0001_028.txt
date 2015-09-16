@@ -1,23 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.847155
+#+DATE: 2015-08-30 19:38:43.462268
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_028-0153c> ¶¶¶¶
 #+PROPERTY: JUAN 28
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二十八¶
+《大般若波羅蜜多經》卷第二十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之十八¶
 
-「復次，善現！汝復觀何義言：即無明增語非菩¶
+「復次，善現！汝觀何義言：即無明增語非菩¶
 薩摩訶薩，即行、識、名色、六處、觸、受、愛、取、有、生、¶
 老死增語非菩薩摩訶薩耶？」
 
@@ -608,7 +607,7 @@
 靜慮、般若波羅蜜多若可得若不可得增語是¶
 菩薩摩訶薩？
 
-「復次，善現！汝復觀何義言：即¶
+「復次，善現！汝觀何義言：即¶
 內空增語非菩薩摩訶薩，即外空、內外空、空¶
 空、大空、勝義空、有為空、無為空、畢竟空、無¶
 際空、散空、無變異空、本性空、自相空、共相¶

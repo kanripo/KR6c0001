@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.726959
+#+DATE: 2015-08-30 19:38:57.217446
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_392-1026a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 392
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百九¶
+《大般若波羅蜜多經》卷第三百九¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -149,7 +148,7 @@
 說為有。¶
 
 「舍利子！以如是法自性皆空，諸菩薩摩訶薩¶
-從過去佛如實聞已，為脫有情顛倒執著，發¶
+從過去佛如實聞已，為脫有情顛到執著，發¶
 趣無上正等菩提，於發趣時不作是念：『我於¶
 此法已得當得，令彼有情已度當度所執著¶
 處生死眾苦。』

@@ -1,16 +1,15 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:48.441277
+#+DATE: 2015-08-30 19:38:51.991420
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_270-0366b> 
 #+PROPERTY: JUAN 270
-
- 《大般若波羅蜜多經》卷第二百七¶
+《大般若波羅蜜多經》卷第二百七¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -432,7 +431,7 @@
 分、無別、無斷故。
 
 「善現！一切智智清淨故一切¶
-智清淨，一切智清淨故五力清淨。何以故？¶
+智清若，一切智清淨故五力清淨。何以故？¶
 若一切智智清淨，若一切智清淨，若五力清¶
 淨，無二、無二分、無別、無斷故。一切智智清淨¶
 故道相智、一切相智清淨，道相智、一切相智¶

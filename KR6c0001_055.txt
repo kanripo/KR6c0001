@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.712345
+#+DATE: 2015-08-30 19:38:44.354292
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_055-0309b> 
 #+PROPERTY: JUAN 55
 ¶
-
- 《大般若波羅蜜多經》卷第五十五¶
+《大般若波羅蜜多經》卷第五十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分辯大乘品第十五之五¶
@@ -207,7 +206,7 @@
 
 「善現！其有欲令無相之法有出有至者，則為¶
 欲令幻事有出有至。所以者何？幻事不能從¶
-三界中出，亦不能至一切智智中住。何以¶
+三界中，亦不能至一切智智中住。何以¶
 故？善現！幻事幻事自性空故。善現！其有欲¶
 令無相之法有出有至者，則為欲令夢境、像、¶
 響、光影、空花、陽焰、尋香城、變化事有出有至。¶

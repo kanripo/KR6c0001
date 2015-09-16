@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.803238
+#+DATE: 2015-08-30 19:38:45.440561
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_088-0489a> 
 #+PROPERTY: JUAN 88
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第八十八¶
+《大般若波羅蜜多經》卷第八十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分學般若品第二十六之四¶
@@ -581,7 +580,7 @@
 漢向阿羅漢果，於獨覺向獨覺果，於菩薩摩¶
 訶薩於三藐三佛陀，於菩薩摩訶薩法於無¶
 上正等菩提，於聲聞乘於獨覺乘於無上乘，¶
-不見是可攝受及所壞滅，亦不見有能攝受¶
+不見是可攝受及可壞滅，亦不見有能攝受¶
 及壞滅者而學般若波羅蜜多，是菩薩摩訶¶
 薩能成辦一切智智。」¶
 

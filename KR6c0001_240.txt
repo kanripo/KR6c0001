@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:47.251289
+#+DATE: 2015-08-30 19:38:50.828215
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_240-0209c> ¶¶¶¶
 #+PROPERTY: JUAN 240
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百¶
+《大般若波羅蜜多經》卷第二百¶
 四十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -464,8 +463,7 @@
 若無忘失法清淨，若一切智智清淨，無二、無¶
 二分、無別、無斷故。一切陀羅尼門清淨故恒¶
 住捨性清淨，恒住捨性清淨故一切智智清¶
-淨。何以故？若一切陀羅尼門清淨，若恒住¶
-捨性清淨，若一切智智清淨，無二、無二分、無¶
+淨。何以故？若一切陀羅尼門清淨，若恒住捨性清淨，若一切智智清淨，無二、無二分、無¶
 別、無斷故。
 
 「善現！一切陀羅尼門清淨故一切¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.492419
+#+DATE: 2015-08-30 19:38:53.969095
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_318-0620c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 318
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百一¶
+《大般若波羅蜜多經》卷第三百一¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -591,15 +590,11 @@
 相智真如，若一切智智真如，若一切法真如，¶
 皆一真如無二無別。」¶
 
-47真如品
-:PROPERTIES:
-:head: 初分真如品第四十七之一
-:END:
-¶
+初分真如品第四十七之一¶
 
 爾時，欲、色界諸天子，各持天上多揭羅香、多¶
 摩羅香、栴檀香末，復持天上嗢鉢羅花、鉢特¶
-摩花、拘某陀花、奔荼利花、美妙香花、美妙¶
+摩花、拘某陀花、奔茶利花、美妙香花、美妙¶
 音花、大美妙音花，遙散佛上，來詣佛所，頂禮¶
 雙足，却住一面，白言：「世尊！如是般若波羅蜜¶
 多最為甚深，難見難覺，不可尋思，過尋思境，¶

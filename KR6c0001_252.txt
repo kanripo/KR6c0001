@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:47.733817
+#+DATE: 2015-08-30 19:38:51.292072
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_252-0273a> 
 #+PROPERTY: JUAN 252
 ¶
-
- 《大般若波羅蜜多經》卷第二百五¶
+《大般若波羅蜜多經》卷第二百五¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -525,7 +524,7 @@
 一切智智清淨，若八解脫清淨，若散空清淨，¶
 無二、無二分、無別、無斷故。一切智智清淨故¶
 八勝處、九次第定、十遍處清淨，八勝處、九次¶
-第定、十遍處清淨故散空清淨。何以故？若一
+第定、十定處清淨故散空清淨。何以故？若一
 <pb:KR6c0001_T_252-0277c>¶
 切智智清淨，若八勝處、九次第定、十遍處清¶
 淨，若散空清淨，無二、無二分、無別、無斷故。

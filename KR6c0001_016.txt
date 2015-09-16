@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:39.340612
+#+DATE: 2015-08-30 19:38:42.922785
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_016-0085a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第十六¶
+《大般若波羅蜜多經》卷第十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分教誡教授品第七之六¶
@@ -527,10 +526,10 @@
 法真如有菩薩摩訶薩耶？」
 
 具壽善現白言：「世¶
-尊！緣所生法，尚畢竟不可得，性非有故，況¶
+尊！若緣所生法，尚畢竟不可得，性非有故，況¶
 有緣所生法真如！此真如既非有，如何可言：¶
 即緣所生法真如是菩薩摩訶薩，異緣所生¶
-法真如是菩薩摩訶薩，緣所生法真如中¶
+法真如是菩薩摩訶薩異，緣所生法真如中¶
 有菩薩摩訶薩，菩薩摩訶薩中有緣所生法¶
 真如，離緣所生法真如有菩薩摩訶薩？」¶
 

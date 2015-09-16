@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.804699
+#+DATE: 2015-08-30 19:38:59.194545
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_434-0182a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 434
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百三¶
+《大般若波羅蜜多經》卷第四百三¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-38大師品
-:PROPERTIES:
-:head: 第二分大師品第三十八
-:END:
-¶
+第二分大師品第三十八¶
 
 爾時，具壽舍利子白佛言：「世尊！如是般若波¶
 羅蜜多能作照明，畢竟淨故；如是般若波羅蜜¶
@@ -515,11 +510,7 @@
 緣此意，故說菩薩摩訶薩般若波羅蜜多是大¶
 波羅蜜多。」¶
 
-39地獄品
-:PROPERTIES:
-:head: 第二分地獄品第三十九之一
-:END:
-¶
+第二分地獄品第三十九之一¶
 
 爾時，具壽舍利子白佛言：「世尊！若菩薩摩訶¶
 薩於此般若波羅蜜多能信解者，是菩薩摩¶

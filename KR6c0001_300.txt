@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:49.744439
+#+DATE: 2015-08-30 19:38:53.221689
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_300-0524b> 
 #+PROPERTY: JUAN 300
 ¶
-
- 《大般若波羅蜜多經》卷第三百¶
+《大般若波羅蜜多經》卷第三百¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分難聞功德品第三十九之四¶
@@ -137,8 +136,8 @@
 自住不退轉地亦勸彼住不退轉地，自嚴淨¶
 佛土亦勸彼嚴淨佛土，自成熟有情亦勸彼成¶
 熟有情，自起菩薩神通亦勸彼起菩薩神通，¶
-自修陀羅尼門亦勸彼修陀羅尼門，自修¶
-三摩地門亦勸彼修三摩地門，自具無礙辯¶
+自淨陀羅尼門亦勸彼淨陀羅尼門，自淨¶
+三摩地門亦勸彼淨三摩地門，自具無礙辯¶
 亦勸彼具無礙辯，自具妙色身亦勸彼具妙¶
 色身，自具諸相好亦勸彼具諸相好，自具童¶
 真行亦勸彼具童真行，自修四念住亦教彼¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:46.414535
+#+DATE: 2015-08-30 19:38:49.963300
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_218-0091a> ¶¶¶
 #+PROPERTY: JUAN 218
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第二百一¶
+《大般若波羅蜜多經》卷第二百一¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -185,7 +184,7 @@
 
 「善現！法性清淨故眼界清淨，眼界清淨¶
 故一切智智清淨。何以故？若法性清淨，若眼¶
-界清淨，若一切智智清淨，無二、無二分、無別、¶
+處清淨，若一切智智清淨，無二、無二分、無別、¶
 無斷故。法性清淨故色界、眼識界及眼觸、眼¶
 觸為緣所生諸受清淨，色界乃至眼觸為緣¶
 所生諸受清淨故一切智智清淨。何以故？若¶

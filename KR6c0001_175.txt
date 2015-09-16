@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.810150
+#+DATE: 2015-08-30 19:38:48.412429
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_175-0938c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 175
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百七¶
+《大般若波羅蜜多經》卷第一百七¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -154,7 +153,7 @@
 不作小，於恒住捨性亦不作大不作小；於無¶
 忘失法不作集不作散，於恒住捨性亦不作¶
 集不作散；於無忘失法不作有量不作無量，¶
-於恒住捨性亦不作有量不作無量；於無忘¶
+於恒住捨性亦作作有量不作無量；於無忘¶
 失法不作廣不作狹，於恒住捨性亦不作廣¶
 不作狹；於無忘失法不作有力不作無力，於¶
 恒住捨性亦不作有力不作無力。』世尊！是菩¶

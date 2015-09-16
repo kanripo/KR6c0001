@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.663864
+#+DATE: 2015-08-30 19:38:56.134064
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_367-0890b> 
 #+PROPERTY: JUAN 367
 ¶
-
- 《大般若波羅蜜多經》卷第三百六¶
+《大般若波羅蜜多經》卷第三百六¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -503,7 +502,7 @@
 為戲論，觀諸佛無上正等菩提若是所遍知¶
 若非所遍知是為戲論。¶
 
-「復次，善現！菩薩摩訶薩若作是念：『苦聖諦¶
+「復次，善現！菩薩摩訶薩若作是念：『若聖諦¶
 應遍知是為戲論，集聖諦應永斷是為戲論，¶
 滅聖諦應作證是為戲論，道聖諦應修習是
 <pb:KR6c0001_T_367-0895a>¶

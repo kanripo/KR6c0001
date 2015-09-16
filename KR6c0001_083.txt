@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.636863
+#+DATE: 2015-08-30 19:38:45.274202
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_083-0463a> ¶
 #+PROPERTY: JUAN 83
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第八十三¶
+《大般若波羅蜜多經》卷第八十三¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分受教品第二十四之二¶
@@ -401,7 +400,7 @@
 遠離分別獨覺向獨覺果，亦不以獨覺向獨覺¶
 果分別遠離不遠離。¶
 
-「如是人等，終不以空不空分別菩薩摩訶薩，¶
+「如，終不以空不空分別菩薩摩訶薩，¶
 亦不以菩薩摩訶薩分別空不空；不以空不¶
 空分別三藐三佛陀，亦不以三藐三佛陀分別¶
 空不空。不以有相無相分別菩薩摩訶薩，亦¶

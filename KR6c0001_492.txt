@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.690722
+#+DATE: 2015-08-30 19:39:02.005185
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0001_T_492-0499c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 492
 ¶
-
- 《大般若波羅蜜多經》卷第四百九¶
+《大般若波羅蜜多經》卷第四百九¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -129,7 +128,7 @@
 
 「善現當知！譬如內空乃至¶
 無性自性空非住非不住，大乘亦爾非住非¶
-不住。所以者何？以內空自性乃至無性自性¶
+不住。所以者何？以內空自住乃至無性自性¶
 空自性皆無住無不住。何以故？內空自性內¶
 空自性空，乃至無性自性空自性無性自性¶
 空自性空故。
