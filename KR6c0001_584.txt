@@ -1,31 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:03.693128
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:16
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220k
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220k
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-1019a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_584-1019a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 584
 ¶
 ¶
 
-12會
-:PROPERTIES:
-:head: 《大般若經》第十二會戒波羅蜜¶
+* 《大般若經》第十二會戒波羅蜜¶
 多分
-:END:
-
-序
-:PROPERTIES:
-:head: 序
-:END:
+** 序¶
 ¶
-¶
-西明寺沙門玄則撰¶
+西明寺沙門玄則撰＝製【明】撰撰¶
 
 夫欲儲淨法，先滌身器；將越愛流，前鳩行檝。¶
 居其選也，特有戒焉。所以復指名區、更申玄¶
@@ -52,16 +44,12 @@
 豈不諏焉！¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百八¶
+《大般若波羅蜜多經》卷第五百八¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 第十二淨戒波羅蜜多分之一
-:END:
-¶
+** 第十二淨戒波羅蜜多分之一¶
 
 如是我聞：
 
