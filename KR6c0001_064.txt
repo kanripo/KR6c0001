@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.014278
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:07
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 64
 ¶
 
- 《大般若波羅蜜多經》卷第六十四¶
+ 
+*** 4《大般若波羅蜜多經》卷第六十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分無所得品第十八之四¶

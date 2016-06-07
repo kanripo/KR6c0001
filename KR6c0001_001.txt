@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:38.746582
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:07
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
@@ -12,8 +12,8 @@
 ¶
 No.220¶
 
-1會
-初會序
+* 1會
+** 初會序
 :PROPERTIES:
 :head: 《大般若經》初會序
 :END:
@@ -52,7 +52,8 @@ No.220¶
 ¶
 
  
-1緣起品
+** 1緣起品
+*** 1
 :PROPERTIES:
 :head: 初分緣起品第一之一
 :END:

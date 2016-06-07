@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.591254
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:07
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
@@ -10,7 +10,8 @@
 #+PROPERTY: LASTPB <pb:KR6c0001_T_052-0292a> 
 #+PROPERTY: JUAN 52
 
- 《大般若波羅蜜多經》卷第五十二¶
+ 
+*** 2《大般若波羅蜜多經》卷第五十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分辯大乘品第十五之二¶

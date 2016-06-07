@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.703277
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:07
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
@@ -16,7 +16,8 @@
 ¶
 三藏法師玄奘奉　詔譯¶
 
-26學般若品
+** 26學般若品
+*** 1
 :PROPERTIES:
 :head: 初分學般若品第二十六之一
 :END:

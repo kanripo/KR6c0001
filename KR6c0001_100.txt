@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:42.183337
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:07
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 100
 ¶
 
- 《大般若波羅蜜多經》卷第一百¶
+ 
+*** 2《大般若波羅蜜多經》卷第一百¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分攝受品第二十九之二¶

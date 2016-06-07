@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.274036
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:07
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
@@ -18,7 +18,8 @@
 ¶
 三藏法師玄奘奉　詔譯¶
 
-11譬喻品
+** 11譬喻品
+*** 1
 :PROPERTIES:
 :head: 初分譬喻品第十一之一
 :END:
