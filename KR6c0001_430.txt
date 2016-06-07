@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.559825
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -136,7 +136,7 @@
 迦！十方諸佛及弟子眾，皆因如是甚深般若¶
 波羅蜜多而出生故。」¶
 
-35設利羅品
+** 35設利羅品
 :PROPERTIES:
 :head: 第二分設利羅品第三十五
 :END:

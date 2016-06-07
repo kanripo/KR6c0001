@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:00.586382
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -17,7 +17,7 @@
 ¶
 三藏法師玄奘奉　詔譯¶
 
-27慧到彼岸品
+** 27慧到彼岸品
 :PROPERTIES:
 :head: 第三分慧到彼岸品第二十七
 :END:

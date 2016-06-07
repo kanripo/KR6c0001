@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.613662
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -134,7 +134,7 @@
 嚴淨佛土，未證無上正等菩提於其中間甞¶
 無暫廢。」¶
 
-14魔事品
+** 14魔事品
 :PROPERTIES:
 :head: 第三分魔事品第十四
 :END:

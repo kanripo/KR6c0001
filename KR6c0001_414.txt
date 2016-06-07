@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.785205
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -562,7 +562,7 @@
 百千微妙希有勝三摩地，當知是為菩薩摩¶
 訶薩大乘相。」¶
 
-17念住等品
+** 17念住等品
 :PROPERTIES:
 :head: 第二分念住等品第十七之一
 :END:

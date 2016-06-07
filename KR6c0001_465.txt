@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.361791
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -487,7 +487,7 @@
 復能得一切智智，及能永斷一切煩惱習氣¶
 相續！」¶
 
-73漸次品
+** 73漸次品
 :PROPERTIES:
 :head: 第二分漸次品第七十三之一
 :END:

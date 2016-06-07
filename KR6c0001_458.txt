@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.026241
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -414,7 +414,7 @@
 尼者，則為總持一切佛法令不忘失，與諸有¶
 情盡未來際作大饒益。」¶
 
-66無盡品
+** 66無盡品
 :PROPERTIES:
 :head: 第二分無盡品第六十六
 :END:

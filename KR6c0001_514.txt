@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.929809
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -114,7 +114,7 @@
 說是菩薩摩訶薩所應住法時，於眾會中二¶
 千菩薩同時證得無生法忍。¶
 
-20不退相品
+** 20不退相品
 :PROPERTIES:
 :head: 第三分不退相品第二十之一
 :END:

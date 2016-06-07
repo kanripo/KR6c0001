@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.256765
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -120,7 +120,7 @@
 恭敬、尊重讚歎，所獲福聚無量無邊、不可思¶
 議、不可稱計，諸餘福聚皆不能及。」¶
 
-6稱揚功德品
+** 6稱揚功德品
 :PROPERTIES:
 :head: 第三分稱揚功德品第六之一
 :END:

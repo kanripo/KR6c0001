@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.771948
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -16,7 +16,7 @@
 ¶
 三藏法師玄奘奉　詔譯¶
 
-16不思議等品
+** 16不思議等品
 :PROPERTIES:
 :head: 第三分不思議等品第十六
 :END:
@@ -179,7 +179,7 @@
 垢生淨法眼；復有二十菩薩摩訶薩，得無¶
 生法忍，於賢劫中受記作佛。¶
 
-17譬喻品
+** 17譬喻品
 :PROPERTIES:
 :head: 第三分譬喻品第十七
 :END:

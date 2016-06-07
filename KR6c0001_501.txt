@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.146644
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 501
 ¶
 
- 《大般若波羅蜜多經》卷第五百一¶
+ 
+*** 2《大般若波羅蜜多經》卷第五百一¶
 ¶
 三藏法師玄奘奉　詔譯¶
 第三分現窣堵波品第五之二¶

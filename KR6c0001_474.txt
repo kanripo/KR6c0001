@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.791480
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -476,7 +476,8 @@
 若波羅蜜多，方便修行大菩提行，證得無上¶
 正等菩提，利樂有情常無間斷。」¶
 
-79無闕品
+** 79無闕品
+*** 1
 :PROPERTIES:
 :head: 第二分無闕品第七十九之一
 :END:

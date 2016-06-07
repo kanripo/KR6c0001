@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.184962
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -373,7 +373,8 @@
 花如來、應、正等覺、明行圓滿、善逝、世間解、無上¶
 丈夫、調御士、天人師、佛、薄伽梵。」¶
 
-3善現品
+** 3善現品
+*** 1
 :PROPERTIES:
 :head: 第三分善現品第三之一
 :END:

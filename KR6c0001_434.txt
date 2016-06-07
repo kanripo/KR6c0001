@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.804699
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -17,7 +17,7 @@
 ¶
 三藏法師玄奘奉　詔譯¶
 
-38大師品
+** 38大師品
 :PROPERTIES:
 :head: 第二分大師品第三十八
 :END:
@@ -515,7 +515,8 @@
 緣此意，故說菩薩摩訶薩般若波羅蜜多是大¶
 波羅蜜多。」¶
 
-39地獄品
+** 39地獄品
+*** 1
 :PROPERTIES:
 :head: 第二分地獄品第三十九之一
 :END:

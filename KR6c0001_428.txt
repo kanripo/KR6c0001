@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.470064
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -131,7 +131,7 @@
 有，調伏菩薩摩訶薩眾令不高心，而能迴向¶
 一切智智。」¶
 
-30窣堵波品
+** 30窣堵波品
 :PROPERTIES:
 :head: 第二分窣堵波品第三十
 :END:

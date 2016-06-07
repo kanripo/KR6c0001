@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:55.940465
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -480,7 +480,7 @@
 性空，摽幟名言皆不可得，是故名大波羅¶
 蜜多。」¶
 
-42不可得品
+** 42不可得品
 :PROPERTIES:
 :head: 第二分不可得品第四十二
 :END:

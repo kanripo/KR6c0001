@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.356514
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
@@ -541,7 +541,7 @@
 六波羅蜜多乃至一切相智出現世間，復有¶
 聲聞、獨覺及無上乘出現世間。」¶
 
-9隨喜迴向品
+** 9隨喜迴向品
 :PROPERTIES:
 :head: 第三分隨喜迴向品第九之一
 :END:
