@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:26.807735
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:11
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_409-0046b> ¶¶¶
 #+PROPERTY: JUAN 409
 ¶
@@ -397,7 +397,7 @@
 提常不離佛。舍利子！若菩薩摩訶薩欲得如¶
 是功德勝利，當學般若波羅蜜多無得暫捨。」¶
 
-第二分行相品第九之一¶
+** 第二分行相品第九之一¶
 
 爾時，具壽善現白佛言：「世尊！若菩薩摩訶薩¶
 無方便善巧修行般若波羅蜜多時，若行色¶

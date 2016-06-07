@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:31.139962
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:11
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_498-0532a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 498
 ¶
@@ -520,7 +520,7 @@
 說般若波羅蜜多，於空法中深生信解，皆發¶
 無上正等覺心，勤修菩薩摩訶薩行。」¶
 
-第三分天帝品第四之一¶
+** 第三分天帝品第四之一¶
 
 爾時，於此三千大千佛之世界，所有一切四¶
 大天王及諸天帝，展轉乃至色究竟天，各與¶

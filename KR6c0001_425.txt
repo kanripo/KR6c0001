@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:27.556144
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:11
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6c0001_T_425-0133c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 425
 ¶
@@ -16,7 +16,7 @@
 ¶
 三藏法師玄奘奉　詔譯¶
 
-第二分帝釋品第二十五之一¶
+** 第二分帝釋品第二十五之一¶
 
 爾時，於此三千大千堪忍世界，所有四大天
 <pb:KR6c0001_T_425-0134a>¶
