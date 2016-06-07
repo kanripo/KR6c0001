@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:43.177831
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:07
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_129-0704a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 129
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百二¶
+《大般若波羅蜜多經》卷第一百二¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -365,8 +364,7 @@
 得圓滿。
 
 「復次，憍尸迦！是菩薩摩訶薩於一切¶
-法，以無所得為方便，修習般若波羅蜜多故¶
-無執著，令所修習速得圓滿。
+法，以無所得為方便，修習般若波羅蜜多故無執著，令所修習速得圓滿。
 
 「是菩薩摩訶薩¶
 於色，以無所得為方便，修習般若波羅蜜多；¶

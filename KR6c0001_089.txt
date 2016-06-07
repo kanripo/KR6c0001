@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:41.833721
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:07
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_089-0494a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 89
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第八十九¶
+《大般若波羅蜜多經》卷第八十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分學般若品第二十六之五¶
@@ -366,11 +365,7 @@
 蜜多，則能成辦一切智智，以無所學無所成¶
 辦為方便故。」¶
 
-27求般若品
-:PROPERTIES:
-:head: 初分求般若品第二十七之一
-:END:
-
+** 初分求般若品第二十七之一
 <pb:KR6c0001_T_089-0497c>¶
 
 爾時，天帝釋問舍利子言：「大德！菩薩摩訶薩¶

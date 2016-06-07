@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:44.597188
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:07
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_168-0902a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 168
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第一百六¶
+《大般若波羅蜜多經》卷第一百六¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -509,11 +508,7 @@
 覺乘、一切大乘出現世間。」
 <pb:KR6c0001_T_168-0906c>¶
 
-31隨喜迴向品
-:PROPERTIES:
-:head: 初分隨喜迴向品第三十一之一
-:END:
-¶
+** 初分隨喜迴向品第三十一之一¶
 
 爾時，彌勒菩薩摩訶薩白上座善現言：「大德！¶
 若菩薩摩訶薩於一切有情所有功德，隨喜¶

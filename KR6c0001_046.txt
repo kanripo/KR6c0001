@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:40.391962
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:07
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T05n0220a
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 05, No. 220a
 #+PROPERTY: VOL 05
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_046-0257a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 46
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四十六¶
+《大般若波羅蜜多經》卷第四十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分菩薩品第十二之二¶
@@ -150,8 +149,7 @@
 蜜多時，觀菩薩句義無所有不可得亦如是。¶
 
 「善現！如如來、應、正等覺舌界相句義無所有¶
-不可得，菩薩摩訶薩修行般若波羅蜜多時，¶
-觀菩薩句義無所有不可得亦如是。善現！如
+不可得，菩薩摩訶薩修行般若波羅蜜多時，觀菩薩句義無所有不可得亦如是。善現！如
 <pb:KR6c0001_T_046-0258b>¶
 如來、應、正等覺味界、舌識界及舌觸、舌觸為緣¶
 所生諸受相句義無所有不可得，菩薩摩訶¶
