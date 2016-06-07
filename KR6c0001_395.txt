@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.854202
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -197,7 +197,7 @@
 法輪，令諸有情解脫生死，證得畢竟常樂涅¶
 槃。」¶
 
-74無性自性品
+** 74無性自性品
 :PROPERTIES:
 :head: 初分無性自性品第七十四之一
 :END:

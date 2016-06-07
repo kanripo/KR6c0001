@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.639998
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -494,7 +494,8 @@
 正等菩提，證得無上正等菩提，饒益有情常¶
 無間斷。」¶
 
-71成熟有情品
+** 71成熟有情品
+*** 1
 :PROPERTIES:
 :head: 初分成熟有情品第七十一之一
 :END:

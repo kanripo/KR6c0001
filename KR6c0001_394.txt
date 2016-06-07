@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.806785
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -256,7 +256,7 @@
 「善現！如是菩薩摩訶薩嚴¶
 淨佛土。」¶
 
-73淨土方便品
+** 73淨土方便品
 :PROPERTIES:
 :head: 初分淨土方便品第七十三之一
 :END:

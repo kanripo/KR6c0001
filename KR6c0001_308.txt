@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.065844
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -287,7 +287,8 @@
 想。所以者何？以實無法可起此世、他世想¶
 故。」¶
 
-42不思議等品
+** 42不思議等品
+*** 1
 :PROPERTIES:
 :head: 初分不思議等品第四十二之一
 :END:

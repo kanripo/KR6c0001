@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.466567
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -326,7 +326,8 @@
 方便善巧說真法界，成熟有情、嚴淨佛土，修¶
 諸菩薩摩訶薩行，證得無上正等菩提。」¶
 
-70不可動品
+** 70不可動品
+*** 1
 :PROPERTIES:
 :head: 初分不可動品第七十之一
 :END:

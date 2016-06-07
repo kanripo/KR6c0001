@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:49.301364
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -166,7 +166,8 @@
 屬尋香城，亦不執依幻、依夢、依響、依像、依陽¶
 焰、依光影、依變化事、依尋香城。」¶
 
-37說般若相品
+** 37說般若相品
+*** 1
 :PROPERTIES:
 :head: 初分說般若相品第三十七之一
 :END:

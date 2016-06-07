@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:45.777817
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -19,8 +19,9 @@
 ¶
 三藏法師玄奘奉　詔譯¶
 
-1會
-34難信解品
+* 1會
+** 34難信解品
+*** 20
 :PROPERTIES:
 :head: 初分難信解品第三十四之二十
 :END:

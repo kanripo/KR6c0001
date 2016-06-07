@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.079801
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -509,7 +509,7 @@
 見佛為說般若波羅蜜多，親近供養曾無暫¶
 捨，離無暇法，具足有暇。」¶
 
-79結勸品
+** 79結勸品
 :PROPERTIES:
 :head: 初分結勸品第七十九
 :END:

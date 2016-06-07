@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.016987
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -541,7 +541,7 @@
 怖畏，決定自知：我當證得所求無上正等菩¶
 提。」¶
 
-51願行品
+** 51願行品
 :PROPERTIES:
 :head: 初分願行品第五十一之一
 :END:

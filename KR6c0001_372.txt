@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.866655
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -64,7 +64,7 @@
 來、不還、阿羅漢果、獨覺菩提！況復能得一切¶
 智智，及能永斷一切煩惱習氣相續！」¶
 
-65三漸次品
+** 65三漸次品
 :PROPERTIES:
 :head: 初分三漸次品第六十五之一
 :END:

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.224672
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -184,7 +184,8 @@
 相應作意，若離般若波羅蜜多相應作意，則¶
 為喪失一切智智相應作意。」¶
 
-54斷分別品
+** 54斷分別品
+*** 1
 :PROPERTIES:
 :head: 初分斷分別品第五十四之一
 :END:

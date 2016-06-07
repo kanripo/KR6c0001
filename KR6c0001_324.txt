@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.744321
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -753,7 +753,7 @@
 是！如是！若菩薩摩訶薩成就此法，疾得無上¶
 正等菩提，不墮聲聞及獨覺地。」¶
 
-48菩薩住品
+** 48菩薩住品
 :PROPERTIES:
 :head: 初分菩薩住品第四十八之一
 :END:

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:51.836862
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -16,7 +16,8 @@
 ¶
 三藏法師玄奘奉　詔譯¶
 
-60相引攝品
+** 60相引攝品
+*** 1
 :PROPERTIES:
 :head: 初分相引攝品第六十之一
 :END:

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.792013
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -349,7 +349,8 @@
 說是菩薩住品時，¶
 萬二千菩薩摩訶薩得無生法忍。¶
 
-49不退轉品
+** 49不退轉品
+*** 1
 :PROPERTIES:
 :head: 初分不退轉品第四十九之一
 :END:

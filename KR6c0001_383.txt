@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.349375
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -618,7 +618,8 @@
 為，皆無所住亦無所礙。何以故？善達諸法¶
 如實相故。」¶
 
-69諸法平等品
+** 69諸法平等品
+*** 1
 :PROPERTIES:
 :head: 初分諸法平等品第六十九之一
 :END:

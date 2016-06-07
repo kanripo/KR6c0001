@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.625625
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -437,7 +437,8 @@
 而得成就。是故，善現！諸菩薩摩訶薩應行般¶
 若波羅蜜多，諸有所為不求果報。」¶
 
-64遍學道品
+** 64遍學道品
+*** 1
 :PROPERTIES:
 :head: 初分遍學道品第六十四之一
 :END:

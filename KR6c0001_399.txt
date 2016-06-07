@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.022534
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -428,7 +428,7 @@
 說彼諸佛所從至處，令我了知，知已生生常¶
 見諸佛。』」¶
 
-78法涌菩薩品
+** 78法涌菩薩品
 :PROPERTIES:
 :head: 初分法涌菩薩品第七十八之一
 :END:

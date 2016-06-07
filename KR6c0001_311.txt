@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.190779
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -307,7 +307,8 @@
 頂禮佛足右遶三匝辭佛還宮，去會不遠忽¶
 然不現。¶
 
-44眾喻品
+** 44眾喻品
+*** 1
 :PROPERTIES:
 :head: 初分眾喻品第四十四之一
 :END:

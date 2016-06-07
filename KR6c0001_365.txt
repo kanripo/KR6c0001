@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.583942
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -312,7 +312,7 @@
 皆非實有。善現！諸菩薩摩訶薩應行如是甚¶
 深般若波羅蜜多。」¶
 
-63巧便行品
+** 63巧便行品
 :PROPERTIES:
 :head: 初分巧便行品第六十三之一
 :END:

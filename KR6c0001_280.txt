@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:48.829924
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 280
 ¶
 
- 《大般若波羅蜜多經》卷第二百八¶
+ 
+*** 99《大般若波羅蜜多經》卷第二百八¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶

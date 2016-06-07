@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:49.619138
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -132,7 +132,8 @@
 佛言：「如是！於一切法¶
 能正等覺一切相故。」¶
 
-39難聞功德品
+** 39難聞功德品
+*** 1
 :PROPERTIES:
 :head: 初分難聞功德品第三十九之一
 :END:

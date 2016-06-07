@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.941052
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -432,7 +432,7 @@
 正等菩提。」
 <pb:KR6c0001_T_397-1057c>¶
 
-76無動法性品
+** 76無動法性品
 :PROPERTIES:
 :head: 初分無動法性品第七十六
 :END:

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:53.892577
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -244,7 +244,7 @@
 清淨者。如見實者知無雜染及清淨者，如是¶
 亦無雜染清淨。」¶
 
-75勝義瑜伽品
+** 75勝義瑜伽品
 :PROPERTIES:
 :head: 初分勝義瑜伽品第七十五之一
 :END:

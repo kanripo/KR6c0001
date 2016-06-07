@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.280094
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
@@ -268,7 +268,8 @@
 般若波羅蜜多，亦能攝受方便善巧故，不墮¶
 聲聞及獨覺地，疾證無上正等菩提。」¶
 
-45真善友品
+** 45真善友品
+*** 1
 :PROPERTIES:
 :head: 初分真善友品第四十五之一
 :END:
