@@ -1,25 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:02.724053
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:12
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220e
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220e
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_566-0921a> 
 #+PROPERTY: JUAN 566
 
-6會
-:PROPERTIES:
-:head: 《大般若經》第六會
-:END:
-
-序
-:PROPERTIES:
-:head: 序
-:END:
-¶
+* 《大般若經》第六會
+** 序¶
 ¶
 西明寺沙門玄則撰¶
 
@@ -40,17 +32,12 @@
 不德而輝煥。凡鼓篋之士，猶希取質；況乘杯¶
 之客，如何勿思？¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百六¶
+《大般若波羅蜜多經》卷第五百六¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-1緣起品
-:PROPERTIES:
-:head: 第六分緣起品第一
-:END:
-¶
+** 第六分緣起品第一¶
 
 如是我聞：
 
@@ -172,11 +159,7 @@
 名月光明，佛號金剛寶莊嚴王，十號具足，彼¶
 有菩薩名曰寶信。如是一切皆如東方。¶
 
-2通達品
-:PROPERTIES:
-:head: 第六分通達品第二
-:END:
-¶
+** 第六分通達品第二¶
 
 時，有天王名曰最勝，從座而起，頂禮佛足，偏¶
 覆左肩，右膝著地，合掌恭敬，白言：「世尊！我有¶
