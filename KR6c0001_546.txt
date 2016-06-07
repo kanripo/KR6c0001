@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:01.682124
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:11
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_546-0807b> 
 #+PROPERTY: JUAN 546
 ¶
-
- 《大般若波羅蜜多經》卷第五百四¶
+《大般若波羅蜜多經》卷第五百四¶
 十六¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -333,11 +332,7 @@
 善根，隨所生處，法爾常得甚深般若波羅蜜¶
 多空相應經及餘經典受持、讀誦。」¶
 
-11魔事品
-:PROPERTIES:
-:head: 第四分魔事品第十一之一
-:END:
-¶
+** 第四分魔事品第十一之一¶
 
 爾時，善現便白佛言：「世尊！已說住菩薩乘善¶
 男子等修功德時多有留難，何等名為諸留難¶

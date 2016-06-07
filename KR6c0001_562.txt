@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:02.509634
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:11
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220d
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220d
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_562-0900a> 
 #+PROPERTY: JUAN 562
 ¶
-
- 《大般若波羅蜜多經》卷第五百六¶
+《大般若波羅蜜多經》卷第五百六¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -166,11 +165,7 @@
 心、如父母心，亦以此心應與其語。善現當知！¶
 若諸菩薩欲證菩提，應如是住、應如是學。」¶
 
-16不退品
-:PROPERTIES:
-:head: 第五分不退品第十六
-:END:
-¶
+** 第五分不退品第十六¶
 
 爾時，善現便白佛言：「我等當以何行、狀、相知¶
 是不退轉菩薩摩訶薩？」
@@ -434,11 +429,7 @@
 不忘失。善現當知！是為不退轉菩薩摩訶薩¶
 諸行、狀、相。」¶
 
-17貪行品
-:PROPERTIES:
-:head: 第五分貪行品第十七之一
-:END:
-¶
+** 第五分貪行品第十七之一¶
 
 爾時，善現便白佛言：「希有！世尊！是諸菩薩成¶
 就如是大功德聚。世尊能如殑伽沙劫說不¶
