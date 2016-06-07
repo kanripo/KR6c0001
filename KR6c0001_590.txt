@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:04.116830
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:17
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220m
 #+PROPERTY: ID KR6c0001
@@ -12,13 +12,13 @@
 #+PROPERTY: JUAN 590
 ¶
 
-14會
+* 14會
 :PROPERTIES:
 :head: 《大般若經》第十四會勤波羅蜜¶
 多分
 :END:
 
-序
+** 序
 :PROPERTIES:
 :head: 序
 :END:
