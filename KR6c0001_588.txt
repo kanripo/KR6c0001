@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:04.008380
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:16
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220k
 #+PROPERTY: ID KR6c0001
@@ -12,7 +12,8 @@
 #+PROPERTY: JUAN 588
 ¶
 
- 《大般若波羅蜜多經》卷第五百八¶
+ 
+** 5《大般若波羅蜜多經》卷第五百八¶
 十八¶
 ¶
 三藏法師玄奘奉　詔譯¶
