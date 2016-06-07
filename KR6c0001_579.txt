@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:03.420389
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:15
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220j
 #+PROPERTY: ID KR6c0001
@@ -13,13 +13,13 @@
 ¶
 ¶
 
-11會
+* 11會
 :PROPERTIES:
 :head: 《大般若經》第十一會施波羅蜜多¶
 分
 :END:
 
-序
+** 序
 :PROPERTIES:
 :head: 序
 :END:
@@ -54,7 +54,8 @@
 ¶
 ¶
 
- 《大般若波羅蜜多經》卷第五百七¶
+ 
+** 1《大般若波羅蜜多經》卷第五百七¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
