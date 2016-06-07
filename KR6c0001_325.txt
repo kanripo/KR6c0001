@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.792013
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_325-0659c> 
 #+PROPERTY: JUAN 325
 ¶
-
- 《大般若波羅蜜多經》卷第三百二¶
+《大般若波羅蜜多經》卷第三百二¶
 十五¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -349,11 +348,7 @@
 說是菩薩住品時，¶
 萬二千菩薩摩訶薩得無生法忍。¶
 
-49不退轉品
-:PROPERTIES:
-:head: 初分不退轉品第四十九之一
-:END:
-¶
+** 初分不退轉品第四十九之一¶
 
 爾時，具壽善現白佛言：「世尊！不退轉菩薩摩¶
 訶薩有何行、有何狀、有何相？我等云何知是¶

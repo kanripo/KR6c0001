@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:50.141702
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_310-0578c> ¶¶¶¶
 #+PROPERTY: JUAN 310
 ¶
-
- 《大般若波羅蜜多經》卷第三百一¶
+《大般若波羅蜜多經》卷第三百一¶
 十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -252,11 +251,7 @@
 法眼生。復有二萬菩薩摩訶薩，得無生法忍，¶
 於賢劫中受記作佛。¶
 
-43辦事品
-:PROPERTIES:
-:head: 初分辦事品第四十三之一
-:END:
-¶
+** 初分辦事品第四十三之一¶
 
 爾時，具壽善現白佛言：「世尊！甚深般若波¶
 羅蜜多，為大事故出現世間；甚深般若波羅¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:52.866655
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_372-0916c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 372
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百七¶
+《大般若波羅蜜多經》卷第三百七¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -64,11 +63,7 @@
 來、不還、阿羅漢果、獨覺菩提！況復能得一切¶
 智智，及能永斷一切煩惱習氣相續！」¶
 
-65三漸次品
-:PROPERTIES:
-:head: 初分三漸次品第六十五之一
-:END:
-¶
+** 初分三漸次品第六十五之一¶
 
 爾時，具壽善現白佛言：「世尊！住有想者，若¶
 無順忍，無道、無果亦無現觀，住無想者豈有順¶

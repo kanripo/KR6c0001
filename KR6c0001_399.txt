@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.022534
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_399-1063c> ¶¶¶¶¶
 #+PROPERTY: JUAN 399
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第三百九¶
+《大般若波羅蜜多經》卷第三百九¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -428,11 +427,7 @@
 說彼諸佛所從至處，令我了知，知已生生常¶
 見諸佛。』」¶
 
-78法涌菩薩品
-:PROPERTIES:
-:head: 初分法涌菩薩品第七十八之一
-:END:
-¶
+** 初分法涌菩薩品第七十八之一¶
 
 「爾時，法涌菩薩摩訶薩告常啼菩薩摩訶薩¶
 言：『善男子！一切如來、應、正等覺、明行圓滿、善¶

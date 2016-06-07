@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.079801
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:08
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T06n0220b
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 06, No. 220b
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_400-1068c> 
 #+PROPERTY: JUAN 400
 ¶
-
- 《大般若波羅蜜多經》卷第四百¶
+《大般若波羅蜜多經》卷第四百¶
 ¶
 三藏法師玄奘奉　詔譯¶
 初分法涌菩薩品第七十八之二¶
@@ -168,7 +167,7 @@
 得聞如是甚深般若波羅蜜多，說諸如來、應、
 <pb:KR6c0001_T_400-1070a>¶
 正等覺無來去相，令爾所眾獲大饒益。我由¶
-如是殊勝善根，定能成辦所求無上正等菩¶
+如是殊勝善根，足能成辦所求無上正等菩¶
 提。我於無上正等菩提無復疑慮，我於來¶
 世定成如來、應、正等覺，利益安樂無量有情。』¶
 
@@ -509,11 +508,7 @@
 見佛為說般若波羅蜜多，親近供養曾無暫¶
 捨，離無暇法，具足有暇。」¶
 
-79結勸品
-:PROPERTIES:
-:head: 初分結勸品第七十九
-:END:
-¶
+** 初分結勸品第七十九¶
 
 「善現當知！由是理趣甚深般若波羅蜜多威¶
 德殊勝，令諸菩薩速能引得一切智智。是故，¶
