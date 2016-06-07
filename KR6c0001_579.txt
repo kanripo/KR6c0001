@@ -1,29 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:03.420389
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:15
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220j
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220j
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_000-0991b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0001_T_579-0991b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 579
 ¶
 ¶
 
-11會
-:PROPERTIES:
-:head: 《大般若經》第十一會施波羅蜜多¶
+* 《大般若經》第十一會施波羅蜜多¶
 分
-:END:
-
-序
-:PROPERTIES:
-:head: 序
-:END:
-¶
+** 序¶
 ¶
 西明寺沙門玄則撰¶
 
@@ -53,16 +45,12 @@
 矣。¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百七¶
+《大般若波羅蜜多經》卷第五百七¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 第十一布施波羅蜜多分之一
-:END:
-¶
+** 第十一布施波羅蜜多分之一¶
 
 如是我聞：
 
