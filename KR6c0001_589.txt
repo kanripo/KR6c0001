@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:37:04.056849
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:16
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220l
 #+PROPERTY: ID KR6c0001
@@ -14,13 +14,13 @@
 ¶
 ¶
 
-13會
+* 13會
 :PROPERTIES:
 :head: 《大般若經》第十三會忍波羅蜜多¶
 分
 :END:
 
-序
+** 序
 :PROPERTIES:
 :head: 序
 :END:
