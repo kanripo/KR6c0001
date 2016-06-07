@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.785205
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_414-0074a> ¶¶¶¶
 #+PROPERTY: JUAN 414
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百一¶
+《大般若波羅蜜多經》卷第四百一¶
 十四¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -562,11 +561,7 @@
 百千微妙希有勝三摩地，當知是為菩薩摩¶
 訶薩大乘相。」¶
 
-17念住等品
-:PROPERTIES:
-:head: 第二分念住等品第十七之一
-:END:
-¶
+** 第二分念住等品第十七之一¶
 
 「復次，善現！菩薩摩訶薩大乘相者，謂四念住。¶
 云何為四？一、身念住。二、受念住。三、心念住。四、¶
@@ -670,7 +665,7 @@
 「復次，善現！若菩¶
 薩摩訶薩修行般若波羅蜜多時，以無所得¶
 而為方便，往澹泊路觀所棄屍，死經一日或¶
-經二日乃至七日，為諸鵰、鷲、烏、鵲、鵄、梟、虎、豹、狐、¶
+經二日乃至七日，為諸雕、鷲、烏、鵲、鵄、梟、虎、豹、狐、¶
 狼、野干、狗等種種禽獸或啄或攫，骨肉狼籍，¶
 𪙁掣食噉。見是事已，自念我身有如是性，
 <pb:KR6c0001_T_414-0078c>¶

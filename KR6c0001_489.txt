@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:58.541991
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_489-0483c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 489
 ¶
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第四百八¶
+《大般若波羅蜜多經》卷第四百八¶
 十九¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -150,8 +149,7 @@
 摩地時，不見等持定散差別，是故名為定平¶
 等性三摩地。
 
-「云何名為遠離塵垢三摩地？謂¶
-若住此三摩地時，能滅一切煩惱塵垢，是故
+「云何名為遠離塵垢三摩地？謂若住此三摩地時，能滅一切煩惱塵垢，是故
 <pb:KR6c0001_T_489-0484c>¶
 名為遠離塵垢三摩地。
 

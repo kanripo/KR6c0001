@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:59.816902
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_512-0613a> ¶¶¶
 #+PROPERTY: JUAN 512
 ¶
 ¶
-
- 《大般若波羅蜜多經》卷第五百一¶
+《大般若波羅蜜多經》卷第五百一¶
 十二¶
 ¶
 三藏法師玄奘奉　詔譯¶
 
-18善友品
-:PROPERTIES:
-:head: 第三分善友品第十八
-:END:
-¶
+** 第三分善友品第十八¶
 
 爾時，具壽善現復白佛言：「世尊！新學大乘諸¶
 菩薩摩訶薩，云何應學般若、靜慮、精進、安忍、¶

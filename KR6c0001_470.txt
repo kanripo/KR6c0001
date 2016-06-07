@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:57.604063
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_470-0377a> 
 #+PROPERTY: JUAN 470
 ¶
-
- 《大般若波羅蜜多經》卷第四百¶
+《大般若波羅蜜多經》卷第四百¶
 七十¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -253,7 +252,7 @@
 「世¶
 尊！一切有情法及施設，既不可得、都無所有，¶
 諸菩薩摩訶薩行深般若波羅蜜多時，為諸¶
-有情說何等法？世尊！勿諸菩薩摩訶薩眾自¶
+有情說何等法？世尊！勿謂菩薩摩訶薩眾自¶
 安住不正法，為諸有情說不正法，勸諸有情¶
 住不正法，以顛倒法安立有情。所以者何？諸¶
 菩薩摩訶薩行深般若波羅蜜多時，尚不得¶

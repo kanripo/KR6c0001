@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:54.930396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:10
 #+TITLE: 大般若波羅蜜多經
 #+PROPERTY: CBETA_ID T07n0220c
 #+PROPERTY: ID KR6c0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 07, No. 220c
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0001_T_417-0090c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 417
 ¶
-
- 《大般若波羅蜜多經》卷第四百一¶
+《大般若波羅蜜多經》卷第四百一¶
 十七¶
 ¶
 三藏法師玄奘奉　詔譯¶
@@ -443,11 +442,7 @@
 <pb:KR6c0001_T_417-0094a>¶
 智智中住，窮未來際利樂有情。」¶
 
-20超勝品
-:PROPERTIES:
-:head: 第二分超勝品第二十之一
-:END:
-¶
+** 第二分超勝品第二十之一¶
 
 爾時，具壽善現白佛言：「世尊！言大乘，大乘者¶
 超勝一切世間天、人、阿素洛等，最尊最勝、最¶
